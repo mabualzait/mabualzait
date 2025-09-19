@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a **results-driven technology leader** and **senior mobile developer** with over **15 years** of experience in **Android development**, **mobile app development**, and **enterprise software solutions**. Currently leading **digital transformation initiatives** in **Dubai, UAE**, while mentoring the next generation of **mobile developers** and **software engineers** across the **Middle East tech industry**.
+I'm a **results-driven technology leader** and **mobile technology expert** with over **15 years** of experience in **mobile technology strategy**, **enterprise software architecture**, and **digital transformation solutions**. Currently leading **technology initiatives** in **Dubai, UAE**, while mentoring the next generation of **software engineers** and **technical leaders** across the **Middle East tech industry**.
 
 <div align="center">
 
@@ -22,8 +22,8 @@ I'm a **results-driven technology leader** and **senior mobile developer** with 
 <tr>
 <td align="center" width="200">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="50" height="50"/>
-<br><strong>Mobile App Development</strong>
-<br>Android Development • iOS Apps • React Native • Mobile Banking
+<br><strong>Mobile Technology Leadership</strong>
+<br>Mobile Strategy • Cross-Platform Solutions • Technology Architecture
 </td>
 <td align="center" width="200">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
@@ -123,9 +123,9 @@ I'm a **results-driven technology leader** and **senior mobile developer** with 
 
 | Role | Company | Duration | Key Achievements |
 |------|---------|----------|------------------|
-| **Technical Principal & Mobile Technology Expert** | Dubai, UAE | 2023 - Present | • Leading **digital transformation** and **mobile strategy** initiatives<br>• Mentoring **Android developers** and **software engineers** across UAE<br>• Architecting **enterprise mobile solutions** and **fintech applications** |
-| **Mobile Banking Manager & Android Lead** | Financial Sector | 2020 - 2023 | • Managed **secure mobile banking apps** serving **1000+ users**<br>• Implemented **advanced security protocols** for **fintech applications**<br>• Led **cross-functional mobile development teams** |
-| **Senior Android Developer & Team Leader** | Mobile Development | 2018 - 2020 | • Built and led **high-performing Android development teams**<br>• Delivered **15+ mobile applications** using **Java** and **Kotlin**<br>• Established **CI/CD pipelines** and **DevOps best practices** |
+| **Technical Principal & Mobile Technology Expert** | Dubai, UAE | 2023 - Present | • Leading **digital transformation** and **mobile technology strategy** initiatives<br>• Mentoring **software engineers** and **technical leaders** across UAE<br>• Architecting **enterprise solutions** and **technology platforms** |
+| **Mobile Technology Manager** | Financial Sector | 2020 - 2023 | • Managed **enterprise mobile platforms** serving **1000+ users**<br>• Implemented **advanced technology solutions** for **fintech sector**<br>• Led **cross-functional engineering teams** and **technology initiatives** |
+| **Senior Technology Lead** | Mobile Platforms | 2018 - 2020 | • Built and led **high-performing engineering teams**<br>• Delivered **15+ enterprise applications** and **technology solutions**<br>• Established **CI/CD frameworks** and **engineering best practices** |
 
 ---
 
