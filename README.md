@@ -270,12 +270,6 @@ I'm a **results-driven technology leader** and **senior mobile developer** with 
 [![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/user/malik-abualzait/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.abualzait@gmail.com)
 
-### 💬 Open to Opportunities
-- 🔭 **Consulting** on digital transformation projects
-- 👯 **Collaborating** on innovative mobile/backend solutions  
-- 🎯 **Mentoring** aspiring developers and tech leaders
-- 💡 **Speaking** at tech conferences and events
-
 </div>
 
 ---
