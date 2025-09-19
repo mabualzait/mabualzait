@@ -50,12 +50,23 @@ I'm a **results-driven technology leader** and **senior mobile developer** with 
 <div align="center">
 <a href="https://github.com/mabualzait">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mabualzait&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabualzait&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabualzait&layout=compact&langs_count=8&theme=tokyonight&hide=c,c%2B%2B,objective-c,swift&custom_title=Primary%20Languages"/>
 </a>
 </div>
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mabualzait&theme=tokyonight" alt="mabualzait" />
+</div>
+
+<div align="center">
+
+### 💻 Most Used Languages in Production
+
+![Kotlin](https://img.shields.io/badge/Kotlin-35%25-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-30%25-777BB4?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-20%25-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-15%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
 </div>
 
 ---
