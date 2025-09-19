@@ -2,7 +2,7 @@
 
 # Hi there, I'm Malik Abualzait! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Technical+Principal+%7C+Software+Architect;Mobile+%26+Backend+Specialist;Digital+Transformation+Leader;12%2B+Years+of+Tech+Excellence;Based+in+Dubai%2C+UAE+🇦🇪" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Technical+Principal+%7C+Mobile+Technology+Expert;Mobile+%26+Backend+Specialist;Digital+Transformation+Leader;15%2B+Years+of+Tech+Excellence;Based+in+Dubai%2C+UAE+🇦🇪" alt="Typing SVG" />
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a **results-driven technology leader** with over **12 years** of experience transforming ideas into scalable solutions. Currently leading digital transformation initiatives in Dubai, UAE, while mentoring the next generation of tech talent.
+I'm a **results-driven technology leader** and **senior mobile developer** with over **15 years** of experience in **Android development**, **mobile app development**, and **enterprise software solutions**. Currently leading **digital transformation initiatives** in **Dubai, UAE**, while mentoring the next generation of **mobile developers** and **software engineers** across the **Middle East tech industry**.
 
 <div align="center">
 
@@ -22,23 +22,23 @@ I'm a **results-driven technology leader** with over **12 years** of experience 
 <tr>
 <td align="center" width="200">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="50" height="50"/>
-<br><strong>Mobile Development</strong>
-<br>Android • iOS • React Native
+<br><strong>Mobile App Development</strong>
+<br>Android Development • iOS Apps • React Native • Mobile Banking
 </td>
 <td align="center" width="200">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
-<br><strong>Backend Engineering</strong>
-<br>Java • Kotlin • PHP • REST APIs
+<br><strong>Backend Development</strong>
+<br>Java Development • Kotlin Programming • PHP Laravel • REST API Development
 </td>
 <td align="center" width="200">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50"/>
-<br><strong>Cloud Architecture</strong>
-<br>AWS • Firebase • CI/CD
+<br><strong>Cloud Solutions</strong>
+<br>AWS Cloud • Firebase • DevOps • CI/CD Pipelines
 </td>
 <td align="center" width="200">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/>
-<br><strong>ML & Innovation</strong>
-<br>TensorFlow • Research • HealthTech
+<br><strong>Machine Learning & Innovation</strong>
+<br>TensorFlow • AI Research • HealthTech • Data Science
 </td>
 </tr>
 </table>
@@ -76,6 +76,11 @@ I'm a **results-driven technology leader** with over **12 years** of experience 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+### Web Frameworks
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Yii Framework](https://img.shields.io/badge/Yii_Framework-0073AA?style=for-the-badge&logo=yii&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
 ### Backend & Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -107,9 +112,9 @@ I'm a **results-driven technology leader** with over **12 years** of experience 
 
 | Role | Company | Duration | Key Achievements |
 |------|---------|----------|------------------|
-| **Technical Principal** | Current Role | 2023 - Present | • Leading digital transformation initiatives<br>• Mentoring tech teams across UAE<br>• Architecting enterprise solutions |
-| **Mobile Banking Manager** | Previous Role | 2020 - 2023 | • Managed secure banking apps for 1000+ users<br>• Implemented advanced security protocols<br>• Led cross-functional development teams |
-| **Android Team Leader** | Previous Role | 2018 - 2020 | • Built and led high-performing Android teams<br>• Delivered 15+ mobile applications<br>• Established CI/CD best practices |
+| **Technical Principal & Mobile Technology Expert** | Dubai, UAE | 2023 - Present | • Leading **digital transformation** and **mobile strategy** initiatives<br>• Mentoring **Android developers** and **software engineers** across UAE<br>• Architecting **enterprise mobile solutions** and **fintech applications** |
+| **Mobile Banking Manager & Android Lead** | Financial Sector | 2020 - 2023 | • Managed **secure mobile banking apps** serving **1000+ users**<br>• Implemented **advanced security protocols** for **fintech applications**<br>• Led **cross-functional mobile development teams** |
+| **Senior Android Developer & Team Leader** | Mobile Development | 2018 - 2020 | • Built and led **high-performing Android development teams**<br>• Delivered **15+ mobile applications** using **Java** and **Kotlin**<br>• Established **CI/CD pipelines** and **DevOps best practices** |
 
 ---
 
@@ -175,6 +180,51 @@ I'm a **results-driven technology leader** with over **12 years** of experience 
 </a>
 </td>
 </tr>
+<tr>
+<td align="center" width="600">
+<img src="https://img.icons8.com/color/100/000000/microsoft.png"/>
+<h3>🥉 Microsoft "Drivers of Change" Competition</h3>
+<p><strong>3rd Place Winner - 2012</strong> - Jordan</p>
+<p>Recognized for innovative solutions in <strong>utilizing modern technology</strong> to enhance <strong>alternative energy utilization</strong> in Jordan</p>
+<p><em>Sustainability • Clean Energy • Technology Innovation • Microsoft Recognition</em></p>
+<img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+</td>
+</tr>
+</table>
+
+---
+
+## 📚 Teaching & Content Creation
+
+<div align="center">
+
+### 🎓 Knowledge Sharing
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="300">
+<img src="https://img.icons8.com/color/100/000000/udemy.png"/>
+<h3>📖 Udemy Instructor</h3>
+<p><strong>Online Course Creator</strong></p>
+<p>Sharing expertise in software engineering and design patterns through comprehensive online courses</p>
+<p><em>Education • Design Patterns • Software Architecture</em></p>
+<a href="https://www.udemy.com/user/malik-abualzait/">
+<img src="https://img.shields.io/badge/View_Courses-EC5252?style=for-the-badge&logo=udemy&logoColor=white"/>
+</a>
+</td>
+<td align="center" width="300">
+<img src="https://img.icons8.com/color/100/000000/teacher.png"/>
+<h3>🏗️ Design Patterns Course</h3>
+<p><strong>Software Architecture Education</strong></p>
+<p>Comprehensive course making complex design patterns accessible to developers worldwide</p>
+<p><em>1hr 43min • Software Design • Best Practices</em></p>
+<a href="https://it-sharks.com/en/instructor/malikabualzait">
+<img src="https://img.shields.io/badge/IT_Sharks-0066CC?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
+</a>
+</td>
+</tr>
 </table>
 
 ---
@@ -206,6 +256,7 @@ I'm a **results-driven technology leader** with over **12 years** of experience 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abualzait/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mabualzait)
+[![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/user/malik-abualzait/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.abualzait@gmail.com)
 
 ### 💬 Open to Opportunities
