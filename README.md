@@ -44,7 +44,14 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 </table>
 
 ---
+## ✍️ Latest Articles
 
+<!-- BLOG-POST-LIST:START -->
+- [Open Banking and AI: Shaping the Future](https://dev.to/mabualzait/open-banking-and-ai-shaping-the-future-1234)
+- [The Role of AI in Mobile Transformation](https://medium.com/@mabualzait/the-role-of-ai-in-mobile-transformation-5678)
+<!-- BLOG-POST-LIST:END -->
+
+---
 ## 📊 GitHub Analytics
 
 <div align="center">
