@@ -17,17 +17,15 @@ jobs:
         with:
           persist-credentials: false
 
-      - name: Set up git
+      - name: Configure git
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
-      - name: Inject GITHUB_TOKEN into git
-        run: |
-          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
 
       - name: Update blog posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://dev.to/feed/mabualzait, https://medium.com/feed/@m.abualzait"
           commit_message: "chore: update blog posts"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
