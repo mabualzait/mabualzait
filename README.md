@@ -269,6 +269,8 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mabualzait)
 [![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/user/malik-abualzait/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.abualzait@gmail.com)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/mabualzait)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mabualzait)
 
 </div>
 
