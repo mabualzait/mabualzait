@@ -4,11 +4,18 @@ on:
     - cron: '0 * * * *' # Runs every hour
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update-readme-with-blog:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+      - name: Use Personal Access Token
+        uses: actions/setup-node@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://dev.to/feed/mabualzait, https://medium.com/feed/@m.abualzait"
