@@ -12,24 +12,31 @@ jobs:
   update-readme-with-blog:
     runs-on: ubuntu-latest
     steps:
+      # 1️⃣ Checkout your repo without default credentials
       - name: Checkout repo
         uses: actions/checkout@v3
         with:
-          persist-credentials: false # 👈 disable default creds
+          persist-credentials: false
 
+      # 2️⃣ Configure git user & force remote to use GITHUB_TOKEN
       - name: Configure git
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "blog-post-bot"
+          git config --global user.email "blog-post-bot@example.com"
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
 
+      # 3️⃣ Fetch latest blog posts (skip the internal commit/push)
       - name: Update blog posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://dev.to/feed/mabualzait, https://medium.com/feed/@m.abualzait"
+          skip_commit: true
           commit_message: "chore: update blog posts"
           gh_token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push changes # 👈 explicit push step
+      # 4️⃣ Explicit push with token
+      - name: Commit and push README updates
         run: |
-          git push origin HEAD:main
+          git add README.md
+          git commit -m "chore: update blog posts" || echo "No changes to commit"
+          git push origin H
