@@ -55,9 +55,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 </div>
 
 <!-- BLOG-POST-LIST:START -->
-1. 💻 **[Namespaces and Policy: Inside the Micro‑MCP Gateway](https://dev.to/mabualzait/namespaces-and-policy-inside-the-micro-mcp-gateway-1cnn)** - Sep 29, 2025
-2. 💻 **[Micro‑MCP Security: Designing Least‑Privilege Context for LLMs](https://dev.to/mabualzait/micro-mcp-security-designing-least-privilege-context-for-llms-1h7d)** - Sep 29, 2025
-3. 💻 **[The Future is Tiny: Introducing My Vision for a Micro MCP Server](https://dev.to/mabualzait/the-future-is-tiny-introducing-my-vision-for-a-micro-mcp-server-22k9)** - Sep 29, 2025
+1. 💻 **[Building Micro‑MCP Services: Patterns, Schemas, and Testing](https://dev.to/mabualzait/building-micro-mcp-services-patterns-schemas-and-testing-1b8c)** - Oct 01, 2025
+2. 💻 **[Namespaces and Policy: Inside the Micro‑MCP Gateway](https://dev.to/mabualzait/namespaces-and-policy-inside-the-micro-mcp-gateway-1cnn)** - Sep 29, 2025
+3. 💻 **[Micro‑MCP Security: Designing Least‑Privilege Context for LLMs](https://dev.to/mabualzait/micro-mcp-security-designing-least-privilege-context-for-llms-1h7d)** - Sep 29, 2025
+4. 💻 **[The Future is Tiny: Introducing My Vision for a Micro MCP Server](https://dev.to/mabualzait/the-future-is-tiny-introducing-my-vision-for-a-micro-mcp-server-22k9)** - Sep 29, 2025
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
