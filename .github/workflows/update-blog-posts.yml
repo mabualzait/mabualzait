@@ -1,0 +1,48 @@
+name: Update Blog Posts
+
+on:
+  schedule:
+    # Run every 6 hours
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Allow manual trigger
+  push:
+    paths:
+      - 'scripts/update_blog_posts.py'
+      - 'README.md'
+
+jobs:
+  update-blog-posts:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        fetch-depth: 0
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests feedparser python-dateutil
+
+    - name: Update blog posts
+      run: |
+        python scripts/update_blog_posts.py
+      env:
+        MEDIUM_USERNAME: mabualzait
+        DEVTO_USERNAME: mabualzait
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add README.md
+        git diff --staged --quiet || git commit -m "🤖 Auto-update blog posts [skip ci]"
+        git push

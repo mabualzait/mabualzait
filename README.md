@@ -46,10 +46,26 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ---
 ## ✍️ Latest Articles
 
+<div align="center">
+
+### 📚 Recent Publications
+
+*Stay updated with my latest insights on mobile technology, AI, and digital transformation*
+
+</div>
+
 <!-- BLOG-POST-LIST:START -->
-- [Open Banking and AI: Shaping the Future](https://dev.to/mabualzait/open-banking-and-ai-shaping-the-future-1234)
-- [The Role of AI in Mobile Transformation](https://medium.com/@mabualzait/the-role-of-ai-in-mobile-transformation-5678)
+1. 💻 **[Namespaces and Policy: Inside the Micro‑MCP Gateway](https://dev.to/mabualzait/namespaces-and-policy-inside-the-micro-mcp-gateway-1cnn)** - Sep 29, 2025
+2. 💻 **[Micro‑MCP Security: Designing Least‑Privilege Context for LLMs](https://dev.to/mabualzait/micro-mcp-security-designing-least-privilege-context-for-llms-1h7d)** - Sep 29, 2025
+3. 💻 **[The Future is Tiny: Introducing My Vision for a Micro MCP Server](https://dev.to/mabualzait/the-future-is-tiny-introducing-my-vision-for-a-micro-mcp-server-22k9)** - Sep 29, 2025
 <!-- BLOG-POST-LIST:END -->
+
+<div align="center">
+
+[![Medium](https://img.shields.io/badge/Read_on_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mabualzait)
+[![Dev.to](https://img.shields.io/badge/Read_on_Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/mabualzait)
+
+</div>
 
 ---
 ## 📊 GitHub Analytics
@@ -82,39 +98,46 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 
 <div align="center">
 
-### Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 💻 Core Technologies
 
-### Mobile Development
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+</div>
 
-### Web Frameworks
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Yii Framework](https://img.shields.io/badge/Yii_Framework-0073AA?style=for-the-badge&logo=yii&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+<table align="center">
+<tr>
+<td align="center" width="300">
+<h4>📱 Mobile Development</h4>
+<p><strong>Android • Kotlin • Java</strong></p>
+<p>React Native • Android Studio</p>
+<p><em>Cross-platform solutions & native development</em></p>
+</td>
+<td align="center" width="300">
+<h4>🌐 Backend Development</h4>
+<p><strong>Java • PHP • Laravel</strong></p>
+<p>Yii Framework • REST APIs</p>
+<p><em>Enterprise-grade backend solutions</em></p>
+</td>
+</tr>
+<tr>
+<td align="center" width="300">
+<h4>☁️ Cloud & DevOps</h4>
+<p><strong>AWS • Firebase • Jenkins</strong></p>
+<p>GitHub Actions • Gradle</p>
+<p><em>Scalable cloud infrastructure & CI/CD</em></p>
+</td>
+<td align="center" width="300">
+<h4>🗄️ Data & AI</h4>
+<p><strong>MySQL • Oracle • Python</strong></p>
+<p>TensorFlow • Machine Learning</p>
+<p><em>Data management & AI research</em></p>
+</td>
+</tr>
+</table>
 
-### Backend & Databases
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white)
+<div align="center">
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+### 🎯 Specialized Expertise
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+**Mobile Technology Leadership** • **Enterprise Architecture** • **Digital Transformation** • **HealthTech Innovation**
 
 </div>
 
