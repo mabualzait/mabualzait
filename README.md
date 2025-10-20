@@ -56,10 +56,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 
 <!-- BLOG-POST-LIST:START -->
 1. 💻 **[Building Smarter Apps with Artificial Intelligence](https://dev.to/mabualzait/building-smarter-apps-with-artificial-intelligence-509)** - Oct 19, 2025
-2. 💻 **[Trump's Surreal AI Video Sparks Debate on Deepfake Limitations](https://dev.to/mabualzait/trumps-surreal-ai-video-sparks-debate-on-deepfake-limitations-54jh)** - Oct 19, 2025
-3. 💻 **[Exclusive | Microsoft Tries to Catch Up in AI With Healthcare Push, Harvard Deal](https://dev.to/mabualzait/exclusive-microsoft-tries-to-catch-up-in-ai-with-healthcare-push-harvard-deal-4fd4)** - Oct 09, 2025
-4. 💻 **[AI Mode is now available in more languages and locations around the world.](https://dev.to/mabualzait/ai-mode-is-now-available-in-more-languages-and-locations-around-the-world-3ngn)** - Oct 08, 2025
-5. 💻 **[Building Micro‑MCP Services: Patterns, Schemas, and Testing](https://dev.to/mabualzait/building-micro-mcp-services-patterns-schemas-and-testing-1b8c)** - Oct 01, 2025
+2. 💻 **[Exclusive | Microsoft Tries to Catch Up in AI With Healthcare Push, Harvard Deal](https://dev.to/mabualzait/exclusive-microsoft-tries-to-catch-up-in-ai-with-healthcare-push-harvard-deal-4fd4)** - Oct 09, 2025
+3. 💻 **[AI Mode is now available in more languages and locations around the world.](https://dev.to/mabualzait/ai-mode-is-now-available-in-more-languages-and-locations-around-the-world-3ngn)** - Oct 08, 2025
+4. 💻 **[Building Micro‑MCP Services: Patterns, Schemas, and Testing](https://dev.to/mabualzait/building-micro-mcp-services-patterns-schemas-and-testing-1b8c)** - Oct 01, 2025
+5. 💻 **[Namespaces and Policy: Inside the Micro‑MCP Gateway](https://dev.to/mabualzait/namespaces-and-policy-inside-the-micro-mcp-gateway-1cnn)** - Sep 29, 2025
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
