@@ -37,6 +37,7 @@ jobs:
       env:
         MEDIUM_USERNAME: mabualzait
         DEVTO_USERNAME: mabualzait
+        FUTURE_USERNAME: mabualzait
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Commit and push changes

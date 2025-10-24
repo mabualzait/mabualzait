@@ -62,6 +62,32 @@ def fetch_devto_posts(username, max_posts=5):
         print(f"Error fetching Dev.to posts: {e}")
         return []
 
+def fetch_future_forem_posts(username, max_posts=5):
+    """Fetch latest posts from Future Forem API"""
+    try:
+        # Future Forem API endpoint
+        api_url = f"https://future.forem.com/api/articles?username={username}&per_page={max_posts}"
+        
+        response = requests.get(api_url, timeout=10)
+        response.raise_for_status()
+        
+        articles = response.json()
+        posts = []
+        
+        for article in articles:
+            post = {
+                'title': article['title'],
+                'url': article['url'],
+                'published': article['published_at'],
+                'platform': 'Future Forem'
+            }
+            posts.append(post)
+        
+        return posts
+    except Exception as e:
+        print(f"Error fetching Future Forem posts: {e}")
+        return []
+
 def sort_posts_by_date(posts):
     """Sort posts by publication date (newest first)"""
     def get_date(post):
@@ -82,7 +108,14 @@ def format_post_markdown(post, index):
         formatted_date = "Recently"
     
     # Get platform emoji
-    platform_emoji = "📝" if post['platform'] == 'Medium' else "💻"
+    if post['platform'] == 'Medium':
+        platform_emoji = "📝"
+    elif post['platform'] == 'Dev.to':
+        platform_emoji = "💻"
+    elif post['platform'] == 'Future Forem':
+        platform_emoji = "🚀"
+    else:
+        platform_emoji = "📄"
     
     return f"{index}. {platform_emoji} **[{post['title']}]({post['url']})** - {formatted_date}"
 
@@ -93,53 +126,61 @@ def update_readme(posts, max_display=8):
         with open('README.md', 'r', encoding='utf-8') as f:
             content = f.read()
         
-        # Sort posts by date
-        sorted_posts = sort_posts_by_date(posts)
+        # Separate posts by platform
+        devto_posts = [post for post in posts if post['platform'] == 'Dev.to']
+        future_posts = [post for post in posts if post['platform'] == 'Future Forem']
+        medium_posts = [post for post in posts if post['platform'] == 'Medium']
         
-        # Take only the latest posts
-        latest_posts = sorted_posts[:max_display]
+        # Sort each platform's posts by date
+        devto_posts = sort_posts_by_date(devto_posts)[:max_display//2]
+        future_posts = sort_posts_by_date(future_posts)[:max_display//2]
         
-        # Generate markdown for posts
-        if latest_posts:
-            posts_markdown = "<!-- BLOG-POST-LIST:START -->\n"
-            for i, post in enumerate(latest_posts, 1):
-                posts_markdown += format_post_markdown(post, i) + "\n"
-            posts_markdown += "<!-- BLOG-POST-LIST:END -->"
+        # Generate markdown for Dev.to posts
+        devto_markdown = "<!-- DEVTO-POST-LIST:START -->\n"
+        if devto_posts:
+            for i, post in enumerate(devto_posts, 1):
+                devto_markdown += f"{i}. **[{post['title']}]({post['url']})** - {format_date(post['published'])}\n"
         else:
-            posts_markdown = """<!-- BLOG-POST-LIST:START -->
-- 📝 **No recent articles found** - Check back soon for new content!
-<!-- BLOG-POST-LIST:END -->"""
+            devto_markdown += "**No recent Dev.to articles found** - Check back soon for new content!\n"
+        devto_markdown += "<!-- DEVTO-POST-LIST:END -->"
         
-        # Replace the blog posts section
-        pattern = r'<!-- BLOG-POST-LIST:START -->.*?<!-- BLOG-POST-LIST:END -->'
-        replacement = posts_markdown
-        
-        if re.search(pattern, content, re.DOTALL):
-            new_content = re.sub(pattern, replacement, content, flags=re.DOTALL)
+        # Generate markdown for Future Forem posts
+        future_markdown = "<!-- FUTURE-POST-LIST:START -->\n"
+        if future_posts:
+            for i, post in enumerate(future_posts, 1):
+                future_markdown += f"{i}. **[{post['title']}]({post['url']})** - {format_date(post['published'])}\n"
         else:
-            # If no existing section, add it after the About Me section
-            about_section_end = content.find('---', content.find('## 🚀 About Me'))
-            if about_section_end != -1:
-                next_section_start = content.find('##', about_section_end)
-                if next_section_start != -1:
-                    insert_position = next_section_start
-                else:
-                    insert_position = len(content)
-            else:
-                insert_position = len(content)
-            
-            new_content = content[:insert_position] + f"\n\n## ✍️ Latest Articles\n\n{posts_markdown}\n\n---\n\n" + content[insert_position:]
+            future_markdown += "**No recent Future Forem articles found** - Check back soon for new content!\n"
+        future_markdown += "<!-- FUTURE-POST-LIST:END -->"
+        
+        # Replace Dev.to posts section
+        devto_pattern = r'<!-- DEVTO-POST-LIST:START -->.*?<!-- DEVTO-POST-LIST:END -->'
+        if re.search(devto_pattern, content, re.DOTALL):
+            content = re.sub(devto_pattern, devto_markdown, content, flags=re.DOTALL)
+        
+        # Replace Future Forem posts section
+        future_pattern = r'<!-- FUTURE-POST-LIST:START -->.*?<!-- FUTURE-POST-LIST:END -->'
+        if re.search(future_pattern, content, re.DOTALL):
+            content = re.sub(future_pattern, future_markdown, content, flags=re.DOTALL)
         
         # Write updated README
         with open('README.md', 'w', encoding='utf-8') as f:
-            f.write(new_content)
+            f.write(content)
         
-        print(f"✅ Successfully updated README with {len(latest_posts)} blog posts")
+        print(f"✅ Successfully updated README with {len(devto_posts)} Dev.to posts and {len(future_posts)} Future Forem posts")
         return True
         
     except Exception as e:
         print(f"❌ Error updating README: {e}")
         return False
+
+def format_date(date_string):
+    """Format date string for display"""
+    try:
+        pub_date = date_parser.parse(date_string)
+        return pub_date.strftime("%b %d, %Y")
+    except:
+        return "Recently"
 
 def main():
     """Main function to fetch posts and update README"""
@@ -148,6 +189,7 @@ def main():
     # Get usernames from environment variables
     medium_username = os.getenv('MEDIUM_USERNAME', 'mabualzait')
     devto_username = os.getenv('DEVTO_USERNAME', 'mabualzait')
+    future_username = os.getenv('FUTURE_USERNAME', 'mabualzait')
     
     print(f"📝 Fetching Medium posts for @{medium_username}")
     medium_posts = fetch_medium_posts(medium_username)
@@ -157,8 +199,12 @@ def main():
     devto_posts = fetch_devto_posts(devto_username)
     print(f"   Found {len(devto_posts)} Dev.to posts")
     
+    print(f"🚀 Fetching Future Forem posts for @{future_username}")
+    future_posts = fetch_future_forem_posts(future_username)
+    print(f"   Found {len(future_posts)} Future Forem posts")
+    
     # Combine all posts
-    all_posts = medium_posts + devto_posts
+    all_posts = medium_posts + devto_posts + future_posts
     print(f"📊 Total posts found: {len(all_posts)}")
     
     # Update README

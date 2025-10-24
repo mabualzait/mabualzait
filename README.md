@@ -31,7 +31,7 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 <br>Java Development • Kotlin Programming • PHP Laravel • REST API Development
 </td>
 <td align="center" width="200">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50"/>
+<img src="https://img.icons8.com/color/50/000000/amazon-web-services.png" width="50" height="50"/>
 <br><strong>Cloud Solutions</strong>
 <br>AWS Cloud • Firebase • DevOps • CI/CD Pipelines
 </td>
@@ -54,16 +54,29 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 
 </div>
 
-<!-- BLOG-POST-LIST:START -->
-1. 💻 **[Namespaces and Policy: Inside the Micro‑MCP Gateway](https://dev.to/mabualzait/namespaces-and-policy-inside-the-micro-mcp-gateway-1cnn)** - Sep 29, 2025
-2. 💻 **[Micro‑MCP Security: Designing Least‑Privilege Context for LLMs](https://dev.to/mabualzait/micro-mcp-security-designing-least-privilege-context-for-llms-1h7d)** - Sep 29, 2025
-3. 💻 **[The Future is Tiny: Introducing My Vision for a Micro MCP Server](https://dev.to/mabualzait/the-future-is-tiny-introducing-my-vision-for-a-micro-mcp-server-22k9)** - Sep 29, 2025
-<!-- BLOG-POST-LIST:END -->
+### 💻 Dev.to Articles
+
+<!-- DEVTO-POST-LIST:START -->
+1. **[Royals Align with AI Pioneers: A Call to Reveal Limits of Superintelligence](https://dev.to/mabualzait/royals-align-with-ai-pioneers-a-call-to-reveal-limits-of-superintelligence-1onp)** - Oct 22, 2025
+2. **[Auto-Pilot Your CI/CD with Intelligent Rules](https://dev.to/mabualzait/auto-pilot-your-cicd-with-intelligent-rules-26jk)** - Oct 22, 2025
+3. **[Unlocking the Power of Artificial Intelligence in Your Code](https://dev.to/mabualzait/unlocking-the-power-of-artificial-intelligence-in-your-code-4g8p)** - Oct 21, 2025
+4. **[Building Smarter Apps with Artificial Intelligence](https://dev.to/mabualzait/building-smarter-apps-with-artificial-intelligence-509)** - Oct 19, 2025
+<!-- DEVTO-POST-LIST:END -->
+
+### 🚀 Future Forem Articles
+
+<!-- FUTURE-POST-LIST:START -->
+1. **[Can We Tame the Beast? Royal Couple Joins Push for AI Superintelligenve Morat...](https://future.forem.com/mabualzait/can-we-tame-the-beast-royal-couple-joins-push-for-ai-superintelligenve-morat-5ek5)** - Oct 22, 2025
+2. **[AI Hubs Spark Frenzy Across Borders: From Mexico to Ireland](https://future.forem.com/mabualzait/ai-hubs-spark-frenzy-across-borders-from-mexico-to-ireland-ng5)** - Oct 21, 2025
+3. **[AI Absolution: Are Companies Using Automation as a Cop-Out?](https://future.forem.com/mabualzait/ai-absolution-are-companies-using-automation-as-a-cop-out-fil)** - Oct 20, 2025
+4. **[Praying to the Machines: How AI is Redefining Faith and Code](https://future.forem.com/mabualzait/praying-to-the-machines-how-ai-is-redefining-faith-and-code-55jb)** - Oct 19, 2025
+<!-- FUTURE-POST-LIST:END -->
 
 <div align="center">
 
 [![Medium](https://img.shields.io/badge/Read_on_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mabualzait)
 [![Dev.to](https://img.shields.io/badge/Read_on_Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/mabualzait)
+[![Future Forem](https://img.shields.io/badge/Read_on_Future_Forem-00D4AA?style=for-the-badge&logo=rocket&logoColor=white)](https://future.forem.com/mabualzait)
 
 </div>
 
