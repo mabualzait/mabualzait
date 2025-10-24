@@ -226,18 +226,24 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 <p><em>Java • Kotlin • Firebase • Security</em></p>
 </td>
 <td align="center" width="300">
-<img src="https://img.icons8.com/color/100/000000/continuous-integration.png"/>
-<h3>⚙️ CI/CD Pipeline System</h3>
-<p><strong>Custom-built automation</strong> for streamlined app releases and deployment workflows</p>
-<p><em>Jenkins • GitHub Actions • Gradle</em></p>
+<img src="https://togetherbudget.com/wp-content/uploads/2025/06/together-3.png" width="100" height="100"/>
+<h3>💰 TogetherBudget</h3>
+<p><strong>Family budget management app</strong> helping families track expenses and achieve financial goals together</p>
+<p><em>React • Node.js • MongoDB • Finance</em></p>
+<a href="https://togetherbudget.com" target="_blank">
+<img src="https://img.shields.io/badge/Visit_Site-00D4AA?style=for-the-badge&logo=link&logoColor=white"/>
+</a>
 </td>
 </tr>
 <tr>
 <td align="center" width="300">
-<img src="https://img.icons8.com/color/100/000000/bluetooth.png"/>
-<h3>📡 IoT Enterprise Integration</h3>
-<p><strong>Bluetooth/iBeacon solutions</strong> for enterprise-grade location services and asset tracking</p>
-<p><em>Android • Bluetooth • IoT</em></p>
+<img src="https://app-testers.com/assets/logo.png" width="100" height="100"/>
+<h3>📱 App Testers Hub</h3>
+<p><strong>Professional app testing platform</strong> connecting developers with quality assurance experts worldwide</p>
+<p><em>Web Platform • Testing • QA • Mobile</em></p>
+<a href="https://app-testers.com" target="_blank">
+<img src="https://img.shields.io/badge/Visit_Site-FF6B6B?style=for-the-badge&logo=link&logoColor=white"/>
+</a>
 </td>
 <td align="center" width="300">
 <img src="https://img.icons8.com/color/100/000000/artificial-intelligence.png"/>
