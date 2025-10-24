@@ -99,23 +99,30 @@ def fetch_udemy_courses():
             {
                 'title': 'Design Patterns in Software Development',
                 'url': 'https://www.udemy.com/user/malik-abualzait/',
-                'students': 12500,
+                'students': 12000,
                 'rating': 4.8,
                 'duration': '1h 43min'
             },
             {
                 'title': 'Mobile App Development with Android',
                 'url': 'https://www.udemy.com/user/malik-abualzait/',
-                'students': 8500,
+                'students': 8000,
                 'rating': 4.7,
                 'duration': '2h 15min'
             },
             {
                 'title': 'Enterprise Software Architecture',
                 'url': 'https://www.udemy.com/user/malik-abualzait/',
-                'students': 2231,
+                'students': 2000,
                 'rating': 4.9,
                 'duration': '3h 30min'
+            },
+            {
+                'title': 'Advanced Java Programming Techniques',
+                'url': 'https://www.udemy.com/user/malik-abualzait/',
+                'students': 1231,
+                'rating': 4.6,
+                'duration': '2h 45min'
             }
         ]
         
