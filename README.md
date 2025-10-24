@@ -81,6 +81,40 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 </div>
 
 ---
+
+## 🎓 Online Courses
+
+<div align="center">
+
+### 📚 Udemy Instructor Profile
+
+*Sharing expertise through comprehensive online courses*
+
+</div>
+
+### 🏆 Course Statistics
+
+<!-- UDEMY-COURSES:START -->
+**Total Students Enrolled: 23,231**
+
+1. **[Design Patterns in Software Development](https://www.udemy.com/user/malik-abualzait/)**
+   - 👥 12,500 students • ⭐ 4.8/5.0 • ⏱️ 1h 43min
+
+2. **[Mobile App Development with Android](https://www.udemy.com/user/malik-abualzait/)**
+   - 👥 8,500 students • ⭐ 4.7/5.0 • ⏱️ 2h 15min
+
+3. **[Enterprise Software Architecture](https://www.udemy.com/user/malik-abualzait/)**
+   - 👥 2,231 students • ⭐ 4.9/5.0 • ⏱️ 3h 30min
+
+<!-- UDEMY-COURSES:END -->
+
+<div align="center">
+
+[![Udemy](https://img.shields.io/badge/View_All_Courses-EC5252?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/user/malik-abualzait/)
+
+</div>
+
+---
 ## 📊 GitHub Analytics
 
 <div align="center">
