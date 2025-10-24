@@ -74,7 +74,7 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 
 <div align="center">
 
-[![Medium](https://img.shields.io/badge/Read_on_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mabualzait)
+[![Medium](https://img.shields.io/badge/Read_on_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@m.abualzait)
 [![Dev.to](https://img.shields.io/badge/Read_on_Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/mabualzait)
 [![Future Forem](https://img.shields.io/badge/Read_on_Future_Forem-00D4AA?style=for-the-badge&logo=rocket&logoColor=white)](https://future.forem.com/mabualzait)
 

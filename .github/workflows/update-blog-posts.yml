@@ -13,12 +13,14 @@ on:
 jobs:
   update-blog-posts:
     runs-on: ubuntu-latest
-    
+    permissions:
+      contents: write   # ✅ allow pushing changes
+
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
-        token: ${{ secrets.GITHUB_TOKEN }}
+        persist-credentials: false  # ✅ use custom push credentials
         fetch-depth: 0
 
     - name: Set up Python
@@ -38,12 +40,13 @@ jobs:
         MEDIUM_USERNAME: mabualzait
         DEVTO_USERNAME: mabualzait
         FUTURE_USERNAME: mabualzait
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Commit and push changes
       run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
         git add README.md
         git diff --staged --quiet || git commit -m "🤖 Auto-update blog posts [skip ci]"
-        git push
+        git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }} HEAD:main
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
