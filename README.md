@@ -98,16 +98,16 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 **Total Students Enrolled: 23,231**
 
 1. **[Design Patterns in Software Development](https://www.udemy.com/user/malik-abualzait/)**
-   - 👥 12,000 students • ⭐ 4.8/5.0 • ⏱️ 1h 43min
+   - 👥 12,456 students • ⭐ 4.8/5.0 • ⏱️ 1h 43min
 
 2. **[Mobile App Development with Android](https://www.udemy.com/user/malik-abualzait/)**
-   - 👥 8,000 students • ⭐ 4.7/5.0 • ⏱️ 2h 15min
+   - 👥 7,856 students • ⭐ 4.7/5.0 • ⏱️ 2h 15min
 
 3. **[Enterprise Software Architecture](https://www.udemy.com/user/malik-abualzait/)**
-   - 👥 2,000 students • ⭐ 4.9/5.0 • ⏱️ 3h 30min
+   - 👥 1,923 students • ⭐ 4.9/5.0 • ⏱️ 3h 30min
 
 4. **[Advanced Java Programming Techniques](https://www.udemy.com/user/malik-abualzait/)**
-   - 👥 1,231 students • ⭐ 4.6/5.0 • ⏱️ 2h 45min
+   - 👥 996 students • ⭐ 4.6/5.0 • ⏱️ 2h 45min
 
 <!-- UDEMY-COURSES:END -->
 
