@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Royals Align with AI Pioneers: A Call to Reveal Limits of Superintelligence](https://dev.to/mabualzait/royals-align-with-ai-pioneers-a-call-to-reveal-limits-of-superintelligence-1onp)** - Oct 22, 2025
-2. **[Auto-Pilot Your CI/CD with Intelligent Rules](https://dev.to/mabualzait/auto-pilot-your-cicd-with-intelligent-rules-26jk)** - Oct 22, 2025
-3. **[Unlocking the Power of Artificial Intelligence in Your Code](https://dev.to/mabualzait/unlocking-the-power-of-artificial-intelligence-in-your-code-4g8p)** - Oct 21, 2025
-4. **[Building Smarter Apps with Artificial Intelligence](https://dev.to/mabualzait/building-smarter-apps-with-artificial-intelligence-509)** - Oct 19, 2025
+1. **[TPUs Hit Peak Performance: A Decade of Fine-Tuning AI's Secret Sauce](https://dev.to/mabualzait/tpus-hit-peak-performance-a-decade-of-fine-tuning-ais-secret-sauce-163f)** - Oct 24, 2025
+2. **[Beyond Automation: Why Human Developers Still Reign Supreme](https://dev.to/mabualzait/beyond-automation-why-human-developers-still-reign-supreme-46pl)** - Oct 24, 2025
+3. **[Meta Cuts Back on AI Ambitions with Major Job Reductions](https://dev.to/mabualzait/meta-cuts-back-on-ai-ambitions-with-major-job-reductions-568)** - Oct 23, 2025
+4. **[Taming AI Chaos: From Wild West to Code-Driven Governance](https://dev.to/mabualzait/taming-ai-chaos-from-wild-west-to-code-driven-governance-2172)** - Oct 23, 2025
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
