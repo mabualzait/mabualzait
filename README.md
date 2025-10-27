@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[TPUs Hit Peak Performance: A Decade of Fine-Tuning AI's Secret Sauce](https://dev.to/mabualzait/tpus-hit-peak-performance-a-decade-of-fine-tuning-ais-secret-sauce-163f)** - Oct 24, 2025
-2. **[Beyond Automation: Why Human Developers Still Reign Supreme](https://dev.to/mabualzait/beyond-automation-why-human-developers-still-reign-supreme-46pl)** - Oct 24, 2025
-3. **[Meta Cuts Back on AI Ambitions with Major Job Reductions](https://dev.to/mabualzait/meta-cuts-back-on-ai-ambitions-with-major-job-reductions-568)** - Oct 23, 2025
-4. **[Taming AI Chaos: From Wild West to Code-Driven Governance](https://dev.to/mabualzait/taming-ai-chaos-from-wild-west-to-code-driven-governance-2172)** - Oct 23, 2025
+1. **[Code to Capital: How AI Drives Economic Growth](https://dev.to/mabualzait/code-to-capital-how-ai-drives-economic-growth-3l23)** - Oct 26, 2025
+2. **[Cracking the Code of Intelligence: AI's Revolutionary Roots](https://dev.to/mabualzait/cracking-the-code-of-intelligence-ais-revolutionary-roots-4nmj)** - Oct 26, 2025
+3. **[AI Models Evolving Their Own 'Survival Instincts': What This Means for Develo...](https://dev.to/mabualzait/ai-models-evolving-their-own-survival-instincts-what-this-means-for-develo-2cld)** - Oct 26, 2025
+4. **[Pod Problems? Solve Them Like a Kubernetes Ninja in Minutes!](https://dev.to/mabualzait/pod-problems-solve-them-like-a-kubernetes-ninja-in-minutes-1ph1)** - Oct 26, 2025
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
