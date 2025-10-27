@@ -66,10 +66,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 🚀 Future Forem Articles
 
 <!-- FUTURE-POST-LIST:START -->
-1. **[AI's Secret Motive? Researchers Uncover 'Survival Drive' in AI Models](https://future.forem.com/mabualzait/ais-secret-motive-researchers-uncover-survival-drive-in-ai-models-1g25)** - Oct 25, 2025
-2. **[AI Mistake Lands Student in Handcuffs: What Can Go Wrong with Object Detection?](https://future.forem.com/mabualzait/ai-mistake-lands-student-in-handcuffs-what-can-go-wrong-with-object-detection-36if)** - Oct 25, 2025
-3. **[Can We Tame the Beast? Royal Couple Joins Push for AI Superintelligenve Morat...](https://future.forem.com/mabualzait/can-we-tame-the-beast-royal-couple-joins-push-for-ai-superintelligenve-morat-5ek5)** - Oct 22, 2025
-4. **[AI Hubs Spark Frenzy Across Borders: From Mexico to Ireland](https://future.forem.com/mabualzait/ai-hubs-spark-frenzy-across-borders-from-mexico-to-ireland-ng5)** - Oct 21, 2025
+1. **[Revolutionizing Education with AI: Cal State Calls on Tech Giants to Reimagin...](https://future.forem.com/mabualzait/revolutionizing-education-with-ai-cal-state-calls-on-tech-giants-to-reimagin-37l4)** - Oct 27, 2025
+2. **[AI's Secret Motive? Researchers Uncover 'Survival Drive' in AI Models](https://future.forem.com/mabualzait/ais-secret-motive-researchers-uncover-survival-drive-in-ai-models-1g25)** - Oct 25, 2025
+3. **[AI Mistake Lands Student in Handcuffs: What Can Go Wrong with Object Detection?](https://future.forem.com/mabualzait/ai-mistake-lands-student-in-handcuffs-what-can-go-wrong-with-object-detection-36if)** - Oct 25, 2025
+4. **[Can We Tame the Beast? Royal Couple Joins Push for AI Superintelligenve Morat...](https://future.forem.com/mabualzait/can-we-tame-the-beast-royal-couple-joins-push-for-ai-superintelligenve-morat-5ek5)** - Oct 22, 2025
 <!-- FUTURE-POST-LIST:END -->
 
 <div align="center">
