@@ -66,10 +66,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 🚀 Future Forem Articles
 
 <!-- FUTURE-POST-LIST:START -->
-1. **[China's Ambitious AI Plan: Harnessing Deep Learning for Military Advancements](https://future.forem.com/mabualzait/chinas-ambitious-ai-plan-harnessing-deep-learning-for-military-advancements-2699)** - Oct 27, 2025
-2. **[Revolutionizing Education with AI: Cal State Calls on Tech Giants to Reimagin...](https://future.forem.com/mabualzait/revolutionizing-education-with-ai-cal-state-calls-on-tech-giants-to-reimagin-37l4)** - Oct 27, 2025
-3. **[AI's Secret Motive? Researchers Uncover 'Survival Drive' in AI Models](https://future.forem.com/mabualzait/ais-secret-motive-researchers-uncover-survival-drive-in-ai-models-1g25)** - Oct 25, 2025
-4. **[AI Mistake Lands Student in Handcuffs: What Can Go Wrong with Object Detection?](https://future.forem.com/mabualzait/ai-mistake-lands-student-in-handcuffs-what-can-go-wrong-with-object-detection-36if)** - Oct 25, 2025
+1. **[Nvidia Brings AI Manufacturing Boom to the Desert](https://future.forem.com/mabualzait/nvidia-brings-ai-manufacturing-boom-to-the-desert-24c6)** - Oct 29, 2025
+2. **[China's Ambitious AI Plan: Harnessing Deep Learning for Military Advancements](https://future.forem.com/mabualzait/chinas-ambitious-ai-plan-harnessing-deep-learning-for-military-advancements-2699)** - Oct 27, 2025
+3. **[Revolutionizing Education with AI: Cal State Calls on Tech Giants to Reimagin...](https://future.forem.com/mabualzait/revolutionizing-education-with-ai-cal-state-calls-on-tech-giants-to-reimagin-37l4)** - Oct 27, 2025
+4. **[AI's Secret Motive? Researchers Uncover 'Survival Drive' in AI Models](https://future.forem.com/mabualzait/ais-secret-motive-researchers-uncover-survival-drive-in-ai-models-1g25)** - Oct 25, 2025
 <!-- FUTURE-POST-LIST:END -->
 
 <div align="center">
