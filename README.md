@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[A.I. Blackout: What Happens When Tech Goes Offline?](https://dev.to/mabualzait/ai-blackout-what-happens-when-tech-goes-offline-5bhf)** - Oct 29, 2025
-2. **[Unlocking Scalable Data with Autonomous AI Superpowers](https://dev.to/mabualzait/unlocking-scalable-data-with-autonomous-ai-superpowers-5i6)** - Oct 29, 2025
-3. **[AI's Shocking Impact: Chegg Cuts 45% of Staff Amid Industry Upheaval](https://dev.to/mabualzait/ais-shocking-impact-chegg-cuts-45-of-staff-amid-industry-upheaval-5ei7)** - Oct 28, 2025
-4. **[Registering Schemas for Smarter AI Models](https://dev.to/mabualzait/registering-schemas-for-smarter-ai-models-ph2)** - Oct 28, 2025
+1. **[Building AI-Powered APIs in Minutes, Not Months](https://dev.to/mabualzait/building-ai-powered-apis-in-minutes-not-months-3fi7)** - Oct 31, 2025
+2. **[Revolutionizing Code Completion with AI](https://dev.to/mabualzait/revolutionizing-code-completion-with-ai-1en)** - Oct 30, 2025
+3. **[A.I. Blackout: What Happens When Tech Goes Offline?](https://dev.to/mabualzait/ai-blackout-what-happens-when-tech-goes-offline-5bhf)** - Oct 29, 2025
+4. **[Unlocking Scalable Data with Autonomous AI Superpowers](https://dev.to/mabualzait/unlocking-scalable-data-with-autonomous-ai-superpowers-5i6)** - Oct 29, 2025
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
