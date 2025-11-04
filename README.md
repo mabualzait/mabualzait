@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[AI-Generated Death Threats: Where Reality Meets Deception](https://dev.to/mabualzait/ai-generated-death-threats-where-reality-meets-deception-1afb)** - Nov 01, 2025
-2. **[Cracking Code with Quantum: Can Machines Really Understand Us?](https://dev.to/mabualzait/cracking-code-with-quantum-can-machines-really-understand-us-43nh)** - Nov 01, 2025
-3. **[Building AI-Powered APIs in Minutes, Not Months](https://dev.to/mabualzait/building-ai-powered-apis-in-minutes-not-months-3fi7)** - Oct 31, 2025
-4. **[Revolutionizing Code Completion with AI](https://dev.to/mabualzait/revolutionizing-code-completion-with-ai-1en)** - Oct 30, 2025
+1. **[Unleashing Next-Gen AI: AWS & OpenAI Join Forces in Groundbreaking Partnership](https://dev.to/mabualzait/unleashing-next-gen-ai-aws-openai-join-forces-in-groundbreaking-partnership-1bjo)** - Nov 04, 2025
+2. **[OpenAI's $38B AWS Coup Drives Amazon to Record High](https://dev.to/mabualzait/openais-38b-aws-coup-drives-amazon-to-record-high-4642)** - Nov 04, 2025
+3. **[Observability Made Easy: How AI & OpenTelemetry Tame Tool Sprawl](https://dev.to/mabualzait/observability-made-easy-how-ai-opentelemetry-tame-tool-sprawl-1hkh)** - Nov 04, 2025
+4. **[23-Year-Old Indian Duo Cracks Billionaire Status with AI Startup Mastery](https://dev.to/mabualzait/23-year-old-indian-duo-cracks-billionaire-status-with-ai-startup-mastery-42i8)** - Nov 03, 2025
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
