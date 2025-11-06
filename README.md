@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Unleashing Next-Gen AI: AWS & OpenAI Join Forces in Groundbreaking Partnership](https://dev.to/mabualzait/unleashing-next-gen-ai-aws-openai-join-forces-in-groundbreaking-partnership-1bjo)** - Nov 04, 2025
-2. **[OpenAI's $38B AWS Coup Drives Amazon to Record High](https://dev.to/mabualzait/openais-38b-aws-coup-drives-amazon-to-record-high-4642)** - Nov 04, 2025
-3. **[Observability Made Easy: How AI & OpenTelemetry Tame Tool Sprawl](https://dev.to/mabualzait/observability-made-easy-how-ai-opentelemetry-tame-tool-sprawl-1hkh)** - Nov 04, 2025
-4. **[23-Year-Old Indian Duo Cracks Billionaire Status with AI Startup Mastery](https://dev.to/mabualzait/23-year-old-indian-duo-cracks-billionaire-status-with-ai-startup-mastery-42i8)** - Nov 03, 2025
+1. **[Unlock AI Power with Customizable Language Graphs](https://dev.to/mabualzait/unlock-ai-power-with-customizable-language-graphs-4iih)** - Nov 06, 2025
+2. **[AI Uprising: IBM Lays Off Thousands as A.I. Jobs Rise](https://dev.to/mabualzait/ai-uprising-ibm-lays-off-thousands-as-ai-jobs-rise-4gm1)** - Nov 05, 2025
+3. **[Deciphering Human Language for Machines: A Developer's Guide to NLP](https://dev.to/mabualzait/deciphering-human-language-for-machines-a-developers-guide-to-nlp-289a)** - Nov 05, 2025
+4. **[Unleashing Next-Gen AI: AWS & OpenAI Join Forces in Groundbreaking Partnership](https://dev.to/mabualzait/unleashing-next-gen-ai-aws-openai-join-forces-in-groundbreaking-partnership-1bjo)** - Nov 04, 2025
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
