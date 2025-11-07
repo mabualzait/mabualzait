@@ -66,10 +66,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 🚀 Future Forem Articles
 
 <!-- FUTURE-POST-LIST:START -->
-1. **[Nvidia CEO Stokes AI Fears: China Set to Outpace US in AI Supremacy](https://future.forem.com/mabualzait/nvidia-ceo-stokes-ai-fears-china-set-to-outpace-us-in-ai-supremacy-1lbp)** - Nov 06, 2025
-2. **[Consciousness Exclusive: Microsoft's AI Chief Debunks Neural Net Fictions](https://future.forem.com/mabualzait/consciousness-exclusive-microsofts-ai-chief-debunks-neural-net-fictions-3fk0)** - Nov 03, 2025
-3. **[AI's $1B Problem: Can Human Labor Be Replaced for Profit?](https://future.forem.com/mabualzait/ais-1b-problem-can-human-labor-be-replaced-for-profit-4p8a)** - Nov 02, 2025
-4. **[Cheaters Beware: Students' AI-Powered Mea Culpa Raises Questions About Accoun...](https://future.forem.com/mabualzait/cheaters-beware-students-ai-powered-mea-culpa-raises-questions-about-accoun-1gf)** - Oct 31, 2025
+1. **[OpenAI Bailout Debacle: No Fed Help for AI from Trump's Tech Chief](https://future.forem.com/mabualzait/openai-bailout-debacle-no-fed-help-for-ai-from-trumps-tech-chief-3ig5)** - Nov 07, 2025
+2. **[AI Bailouts: OpenAI CEO Stirs Debate on Government Intervention](https://future.forem.com/mabualzait/ai-bailouts-openai-ceo-stirs-debate-on-government-intervention-3f4p)** - Nov 07, 2025
+3. **[Nvidia CEO Stokes AI Fears: China Set to Outpace US in AI Supremacy](https://future.forem.com/mabualzait/nvidia-ceo-stokes-ai-fears-china-set-to-outpace-us-in-ai-supremacy-1lbp)** - Nov 06, 2025
+4. **[Consciousness Exclusive: Microsoft's AI Chief Debunks Neural Net Fictions](https://future.forem.com/mabualzait/consciousness-exclusive-microsofts-ai-chief-debunks-neural-net-fictions-3fk0)** - Nov 03, 2025
 <!-- FUTURE-POST-LIST:END -->
 
 <div align="center">
