@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Unlock AI Power with Customizable Language Graphs](https://dev.to/mabualzait/unlock-ai-power-with-customizable-language-graphs-4iih)** - Nov 06, 2025
-2. **[AI Uprising: IBM Lays Off Thousands as A.I. Jobs Rise](https://dev.to/mabualzait/ai-uprising-ibm-lays-off-thousands-as-ai-jobs-rise-4gm1)** - Nov 05, 2025
-3. **[Deciphering Human Language for Machines: A Developer's Guide to NLP](https://dev.to/mabualzait/deciphering-human-language-for-machines-a-developers-guide-to-nlp-289a)** - Nov 05, 2025
-4. **[Unleashing Next-Gen AI: AWS & OpenAI Join Forces in Groundbreaking Partnership](https://dev.to/mabualzait/unleashing-next-gen-ai-aws-openai-join-forces-in-groundbreaking-partnership-1bjo)** - Nov 04, 2025
+1. **[Revolutionizing Continuous Learning with Nested Neural Networks](https://dev.to/mabualzait/revolutionizing-continuous-learning-with-nested-neural-networks-38e6)** - Nov 08, 2025
+2. **[Breaking Free from Dark UX: Strategies for Honest App Design](https://dev.to/mabualzait/breaking-free-from-dark-ux-strategies-for-honest-app-design-4p45)** - Nov 08, 2025
+3. **[Unlock AI Power with Customizable Language Graphs](https://dev.to/mabualzait/unlock-ai-power-with-customizable-language-graphs-4iih)** - Nov 06, 2025
+4. **[AI Uprising: IBM Lays Off Thousands as A.I. Jobs Rise](https://dev.to/mabualzait/ai-uprising-ibm-lays-off-thousands-as-ai-jobs-rise-4gm1)** - Nov 05, 2025
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
