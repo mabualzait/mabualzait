@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Unlocking Cognitive Potential with Intelligent Systems](https://dev.to/mabualzait/unlocking-cognitive-potential-with-intelligent-systems-39h7)** - Nov 10, 2025
-2. **[Google Play Approved: A Robust Compliance Solution for Android Devs](https://dev.to/mabualzait/google-play-approved-a-robust-compliance-solution-for-android-devs-lgg)** - Nov 09, 2025
-3. **[Conquering Google Play Store Approval: A Compliant Android Dev's Guide](https://dev.to/mabualzait/conquering-google-play-store-approval-a-compliant-android-devs-guide-3j9h)** - Nov 09, 2025
-4. **[AI's Secret Agents: Revolutionizing Enterprise Insights with Autonomy](https://dev.to/mabualzait/ais-secret-agents-revolutionizing-enterprise-insights-with-autonomy-2hd3)** - Nov 09, 2025
+1. **[Threat Alert: How to Spot and Fix Model-Poisoning Attacks in Your AI Pipeline](https://dev.to/mabualzait/threat-alert-how-to-spot-and-fix-model-poisoning-attacks-in-your-ai-pipeline-2m83)** - Nov 12, 2025
+2. **[Unlocking Secure AI: Private Compute Revolutionizes DevWorkflows](https://dev.to/mabualzait/unlocking-secure-ai-private-compute-revolutionizes-devworkflows-k7l)** - Nov 12, 2025
+3. **[Cutting-Edge Tools for Building Top-Tier Mobile Apps in 2022](https://dev.to/mabualzait/cutting-edge-tools-for-building-top-tier-mobile-apps-in-2022-53ae)** - Nov 11, 2025
+4. **[6 Docker Security Hacks for Humans (No AI Needed)](https://dev.to/mabualzait/6-docker-security-hacks-for-humans-no-ai-needed-5f1i)** - Nov 11, 2025
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
