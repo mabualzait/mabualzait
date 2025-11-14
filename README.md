@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Threat Alert: How to Spot and Fix Model-Poisoning Attacks in Your AI Pipeline](https://dev.to/mabualzait/threat-alert-how-to-spot-and-fix-model-poisoning-attacks-in-your-ai-pipeline-2m83)** - Nov 12, 2025
-2. **[Unlocking Secure AI: Private Compute Revolutionizes DevWorkflows](https://dev.to/mabualzait/unlocking-secure-ai-private-compute-revolutionizes-devworkflows-k7l)** - Nov 12, 2025
-3. **[Cutting-Edge Tools for Building Top-Tier Mobile Apps in 2022](https://dev.to/mabualzait/cutting-edge-tools-for-building-top-tier-mobile-apps-in-2022-53ae)** - Nov 11, 2025
-4. **[6 Docker Security Hacks for Humans (No AI Needed)](https://dev.to/mabualzait/6-docker-security-hacks-for-humans-no-ai-needed-5f1i)** - Nov 11, 2025
+1. **[Battle-Tested Architectures: Databricks vs Snowflake for Scalable Enterprise AI](https://dev.to/mabualzait/battle-tested-architectures-databricks-vs-snowflake-for-scalable-enterprise-ai-41ph)** - Nov 14, 2025
+2. **[Oracle Stakes Claim as Unexpected Leader in Enterprise AI Cloud Battle](https://dev.to/mabualzait/oracle-stakes-claim-as-unexpected-leader-in-enterprise-ai-cloud-battle-2i6m)** - Nov 14, 2025
+3. **[Automate OTel Collector Deployments with Bindplane's New Feature](https://dev.to/mabualzait/automate-otel-collector-deployments-with-bindplanes-new-feature-4d51)** - Nov 13, 2025
+4. **[Unlocking Smarter Code with AI Integration](https://dev.to/mabualzait/unlocking-smarter-code-with-ai-integration-871)** - Nov 13, 2025
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
