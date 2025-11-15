@@ -58,18 +58,18 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 
 <!-- DEVTO-POST-LIST:START -->
 1. **[Battle-Tested Architectures: Databricks vs Snowflake for Scalable Enterprise AI](https://dev.to/mabualzait/battle-tested-architectures-databricks-vs-snowflake-for-scalable-enterprise-ai-41ph)** - Nov 14, 2025
-2. **[Oracle Stakes Claim as Unexpected Leader in Enterprise AI Cloud Battle](https://dev.to/mabualzait/oracle-stakes-claim-as-unexpected-leader-in-enterprise-ai-cloud-battle-2i6m)** - Nov 14, 2025
-3. **[Automate OTel Collector Deployments with Bindplane's New Feature](https://dev.to/mabualzait/automate-otel-collector-deployments-with-bindplanes-new-feature-4d51)** - Nov 13, 2025
-4. **[Unlocking Smarter Code with AI Integration](https://dev.to/mabualzait/unlocking-smarter-code-with-ai-integration-871)** - Nov 13, 2025
+2. **[Automate OTel Collector Deployments with Bindplane's New Feature](https://dev.to/mabualzait/automate-otel-collector-deployments-with-bindplanes-new-feature-4d51)** - Nov 13, 2025
+3. **[Unlocking Smarter Code with AI Integration](https://dev.to/mabualzait/unlocking-smarter-code-with-ai-integration-871)** - Nov 13, 2025
+4. **[Threat Alert: How to Spot and Fix Model-Poisoning Attacks in Your AI Pipeline](https://dev.to/mabualzait/threat-alert-how-to-spot-and-fix-model-poisoning-attacks-in-your-ai-pipeline-2m83)** - Nov 12, 2025
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
 
 <!-- FUTURE-POST-LIST:START -->
-1. **[OpenAI Bailout Debacle: No Fed Help for AI from Trump's Tech Chief](https://future.forem.com/mabualzait/openai-bailout-debacle-no-fed-help-for-ai-from-trumps-tech-chief-3ig5)** - Nov 07, 2025
-2. **[AI Bailouts: OpenAI CEO Stirs Debate on Government Intervention](https://future.forem.com/mabualzait/ai-bailouts-openai-ceo-stirs-debate-on-government-intervention-3f4p)** - Nov 07, 2025
-3. **[Nvidia CEO Stokes AI Fears: China Set to Outpace US in AI Supremacy](https://future.forem.com/mabualzait/nvidia-ceo-stokes-ai-fears-china-set-to-outpace-us-in-ai-supremacy-1lbp)** - Nov 06, 2025
-4. **[Consciousness Exclusive: Microsoft's AI Chief Debunks Neural Net Fictions](https://future.forem.com/mabualzait/consciousness-exclusive-microsofts-ai-chief-debunks-neural-net-fictions-3fk0)** - Nov 03, 2025
+1. **[Oracle Stakes Claim as Unexpected Leader in Enterprise AI Cloud Battle](https://future.forem.com/mabualzait/oracle-stakes-claim-as-unexpected-leader-in-enterprise-ai-cloud-battle-2i6m)** - Nov 14, 2025
+2. **[OpenAI Bailout Debacle: No Fed Help for AI from Trump's Tech Chief](https://future.forem.com/mabualzait/openai-bailout-debacle-no-fed-help-for-ai-from-trumps-tech-chief-3ig5)** - Nov 07, 2025
+3. **[AI Bailouts: OpenAI CEO Stirs Debate on Government Intervention](https://future.forem.com/mabualzait/ai-bailouts-openai-ceo-stirs-debate-on-government-intervention-3f4p)** - Nov 07, 2025
+4. **[Nvidia CEO Stokes AI Fears: China Set to Outpace US in AI Supremacy](https://future.forem.com/mabualzait/nvidia-ceo-stokes-ai-fears-china-set-to-outpace-us-in-ai-supremacy-1lbp)** - Nov 06, 2025
 <!-- FUTURE-POST-LIST:END -->
 
 <div align="center">
