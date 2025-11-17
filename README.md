@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Battle-Tested Architectures: Databricks vs Snowflake for Scalable Enterprise AI](https://dev.to/mabualzait/battle-tested-architectures-databricks-vs-snowflake-for-scalable-enterprise-ai-41ph)** - Nov 14, 2025
-2. **[Automate OTel Collector Deployments with Bindplane's New Feature](https://dev.to/mabualzait/automate-otel-collector-deployments-with-bindplanes-new-feature-4d51)** - Nov 13, 2025
-3. **[Unlocking Smarter Code with AI Integration](https://dev.to/mabualzait/unlocking-smarter-code-with-ai-integration-871)** - Nov 13, 2025
-4. **[Threat Alert: How to Spot and Fix Model-Poisoning Attacks in Your AI Pipeline](https://dev.to/mabualzait/threat-alert-how-to-spot-and-fix-model-poisoning-attacks-in-your-ai-pipeline-2m83)** - Nov 12, 2025
+1. **[Winning Ways: Expert Analysis for a World Cup Champion](https://dev.to/mabualzait/winning-ways-expert-analysis-for-a-world-cup-champion-103b)** - Nov 16, 2025
+2. **[Countdown to Glory: Uncovering 2026 World Cup Trends & Predictions](https://dev.to/mabualzait/countdown-to-glory-uncovering-2026-world-cup-trends-predictions-415m)** - Nov 16, 2025
+3. **[Can AI Trustworthy? Uncovering the Limits of LLM-Powered Code Security](https://dev.to/mabualzait/can-ai-trustworthy-uncovering-the-limits-of-llm-powered-code-security-2999)** - Nov 15, 2025
+4. **[Revolutionizing Code with TypeScript, Python, and AI: Closing the Dev Loop](https://dev.to/mabualzait/revolutionizing-code-with-typescript-python-and-ai-closing-the-dev-loop-2jp3)** - Nov 15, 2025
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
