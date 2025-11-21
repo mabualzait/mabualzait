@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Bootstrapping Local AI with Ollama & Python in 10](https://dev.to/mabualzait/bootstrapping-local-ai-with-ollama-python-in-10-l4e)** - Nov 19, 2025
-2. **[Kicking Off 2026: The Ultimate WC Preview Guide](https://dev.to/mabualzait/kicking-off-2026-the-ultimate-wc-preview-guide-3ch4)** - Nov 19, 2025
-3. **[Kicking Off 2026: Unlocking World Cup Secrets](https://dev.to/mabualzait/kicking-off-2026-unlocking-world-cup-secrets-4gmb)** - Nov 18, 2025
-4. **[Broken Code, Not My Problem: Programmer's Meme Group Hits 30](https://dev.to/mabualzait/broken-code-not-my-problem-programmers-meme-group-hits-30-27ep)** - Nov 18, 2025
+1. **[World Cup 2026: The Stage is Set for Global Showdowns](https://dev.to/mabualzait/world-cup-2026-the-stage-is-set-for-global-showdowns-52ko)** - Nov 20, 2025
+2. **[Projecting ML to Reality: Physics-Consistent Predictions in 3D Space](https://dev.to/mabualzait/projecting-ml-to-reality-physics-consistent-predictions-in-3d-space-2in6)** - Nov 20, 2025
+3. **[Building Smarter Apps with End-to-End AI Integration](https://dev.to/mabualzait/building-smarter-apps-with-end-to-end-ai-integration-i4j)** - Nov 20, 2025
+4. **[Cloudflare Crashes: Nov 18, 2025 Outage Causes Chaos for Devs Worldwide](https://dev.to/mabualzait/cloudflare-crashes-nov-18-2025-outage-causes-chaos-for-devs-worldwide-ooe)** - Nov 20, 2025
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
