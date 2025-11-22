@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[World Cup 2026: The Stage is Set for Global Showdowns](https://dev.to/mabualzait/world-cup-2026-the-stage-is-set-for-global-showdowns-52ko)** - Nov 20, 2025
-2. **[Projecting ML to Reality: Physics-Consistent Predictions in 3D Space](https://dev.to/mabualzait/projecting-ml-to-reality-physics-consistent-predictions-in-3d-space-2in6)** - Nov 20, 2025
-3. **[Building Smarter Apps with End-to-End AI Integration](https://dev.to/mabualzait/building-smarter-apps-with-end-to-end-ai-integration-i4j)** - Nov 20, 2025
-4. **[Cloudflare Crashes: Nov 18, 2025 Outage Causes Chaos for Devs Worldwide](https://dev.to/mabualzait/cloudflare-crashes-nov-18-2025-outage-causes-chaos-for-devs-worldwide-ooe)** - Nov 20, 2025
+1. **[Integrating Google ADK to Build Smarter Multimodal AI Agents](https://dev.to/mabualzait/integrating-google-adk-to-build-smarter-multimodal-ai-agents-26bh)** - Nov 22, 2025
+2. **[Cloud Giants Clash: Amazon Tussles with Microsoft and Itself](https://dev.to/mabualzait/cloud-giants-clash-amazon-tussles-with-microsoft-and-itself-4f0n)** - Nov 22, 2025
+3. **[Unlocking Data Science Mastery with New Professional Degree Programs](https://dev.to/mabualzait/unlocking-data-science-mastery-with-new-professional-degree-programs-o7f)** - Nov 22, 2025
+4. **[Kicking Off 2026: Expert Analysis & Predictions for the Big Game](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-predictions-for-the-big-game-71i)** - Nov 22, 2025
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
