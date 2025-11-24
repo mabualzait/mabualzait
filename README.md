@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Integrating Google ADK to Build Smarter Multimodal AI Agents](https://dev.to/mabualzait/integrating-google-adk-to-build-smarter-multimodal-ai-agents-26bh)** - Nov 22, 2025
-2. **[Cloud Giants Clash: Amazon Tussles with Microsoft and Itself](https://dev.to/mabualzait/cloud-giants-clash-amazon-tussles-with-microsoft-and-itself-4f0n)** - Nov 22, 2025
-3. **[Unlocking Data Science Mastery with New Professional Degree Programs](https://dev.to/mabualzait/unlocking-data-science-mastery-with-new-professional-degree-programs-o7f)** - Nov 22, 2025
-4. **[Kicking Off 2026: Expert Analysis & Predictions for the Big Game](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-predictions-for-the-big-game-71i)** - Nov 22, 2025
+1. **[India, Australia, and Carney Team Up on AI Breakthrough Partnership](https://dev.to/mabualzait/india-australia-and-carney-team-up-on-ai-breakthrough-partnership-4n72)** - Nov 24, 2025
+2. **[AI Bubble Warning Signs Are Rising: What Devs Need to Know Now](https://dev.to/mabualzait/ai-bubble-warning-signs-are-rising-what-devs-need-to-know-now-538)** - Nov 24, 2025
+3. **[Kicking Off 2026: Top Trends & Predictions for the Next Big Tournament](https://dev.to/mabualzait/kicking-off-2026-top-trends-predictions-for-the-next-big-tournament-obi)** - Nov 24, 2025
+4. **[2026 World Cup Preview: Key Takeaways & Trends to Watch](https://dev.to/mabualzait/2026-world-cup-preview-key-takeaways-trends-to-watch-4ll7)** - Nov 23, 2025
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
