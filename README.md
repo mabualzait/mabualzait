@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Kicking Off the Big Picture: World Cup 2026 Analysis](https://dev.to/mabualzait/kicking-off-the-big-picture-world-cup-2026-analysis-2255)** - Nov 24, 2025
-2. **[India, Australia, and Carney Team Up on AI Breakthrough Partnership](https://dev.to/mabualzait/india-australia-and-carney-team-up-on-ai-breakthrough-partnership-4n72)** - Nov 24, 2025
-3. **[AI Bubble Warning Signs Are Rising: What Devs Need to Know Now](https://dev.to/mabualzait/ai-bubble-warning-signs-are-rising-what-devs-need-to-know-now-538)** - Nov 24, 2025
-4. **[Kicking Off 2026: Top Trends & Predictions for the Next Big Tournament](https://dev.to/mabualzait/kicking-off-2026-top-trends-predictions-for-the-next-big-tournament-obi)** - Nov 24, 2025
+1. **[Kicking Off 2026: World Cup Predictions & Insights](https://dev.to/mabualzait/kicking-off-2026-world-cup-predictions-insights-4pg8)** - Nov 26, 2025
+2. **[Code Detective: Using Vector Databases to Power AI-Powered Search and Docs](https://dev.to/mabualzait/code-detective-using-vector-databases-to-power-ai-powered-search-and-docs-3g07)** - Nov 26, 2025
+3. **[Code Crusaders of Ahmedabad: Top 9 Game Dev Studios to Watch](https://dev.to/mabualzait/code-crusaders-of-ahmedabad-top-9-game-dev-studios-to-watch-52gb)** - Nov 26, 2025
+4. **[Kicking Off the Ultimate Showdown: World Cup 2026 Predictions & Analysis](https://dev.to/mabualzait/kicking-off-the-ultimate-showdown-world-cup-2026-predictions-analysis-22ji)** - Nov 26, 2025
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
