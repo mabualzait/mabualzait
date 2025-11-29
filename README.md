@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Kicking Off 2026: World Cup Predictions & Insights](https://dev.to/mabualzait/kicking-off-2026-world-cup-predictions-insights-4pg8)** - Nov 26, 2025
-2. **[Code Detective: Using Vector Databases to Power AI-Powered Search and Docs](https://dev.to/mabualzait/code-detective-using-vector-databases-to-power-ai-powered-search-and-docs-3g07)** - Nov 26, 2025
-3. **[Code Crusaders of Ahmedabad: Top 9 Game Dev Studios to Watch](https://dev.to/mabualzait/code-crusaders-of-ahmedabad-top-9-game-dev-studios-to-watch-52gb)** - Nov 26, 2025
-4. **[Kicking Off the Ultimate Showdown: World Cup 2026 Predictions & Analysis](https://dev.to/mabualzait/kicking-off-the-ultimate-showdown-world-cup-2026-predictions-analysis-22ji)** - Nov 26, 2025
+1. **[Beyond Stacked Layers: The Limitations of Traditional Deep Learning Architecture](https://dev.to/mabualzait/beyond-stacked-layers-the-limitations-of-traditional-deep-learning-architecture-27jf)** - Nov 29, 2025
+2. **[From Code to Wok: Dev's Surprise Career Switch to Prawn Noodle Mastery](https://dev.to/mabualzait/from-code-to-wok-devs-surprise-career-switch-to-prawn-noodle-mastery-1kak)** - Nov 29, 2025
+3. **[Kicking Off: Expert Analysis for World Cup 2026](https://dev.to/mabualzait/kicking-off-expert-analysis-for-world-cup-2026-4o2a)** - Nov 29, 2025
+4. **[Sizing Up the Pitch: World Cup 2026 Projections](https://dev.to/mabualzait/sizing-up-the-pitch-world-cup-2026-projections-8h8)** - Nov 28, 2025
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
