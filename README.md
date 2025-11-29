@@ -66,10 +66,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 🚀 Future Forem Articles
 
 <!-- FUTURE-POST-LIST:START -->
-1. **[Oracle Stakes Claim as Unexpected Leader in Enterprise AI Cloud Battle](https://future.forem.com/mabualzait/oracle-stakes-claim-as-unexpected-leader-in-enterprise-ai-cloud-battle-2i6m)** - Nov 14, 2025
-2. **[OpenAI Bailout Debacle: No Fed Help for AI from Trump's Tech Chief](https://future.forem.com/mabualzait/openai-bailout-debacle-no-fed-help-for-ai-from-trumps-tech-chief-3ig5)** - Nov 07, 2025
-3. **[AI Bailouts: OpenAI CEO Stirs Debate on Government Intervention](https://future.forem.com/mabualzait/ai-bailouts-openai-ceo-stirs-debate-on-government-intervention-3f4p)** - Nov 07, 2025
-4. **[Nvidia CEO Stokes AI Fears: China Set to Outpace US in AI Supremacy](https://future.forem.com/mabualzait/nvidia-ceo-stokes-ai-fears-china-set-to-outpace-us-in-ai-supremacy-1lbp)** - Nov 06, 2025
+1. **[Machine Learning Boosts Rockets: AI Propels Space Travel Forward with Nuclear...](https://future.forem.com/mabualzait/machine-learning-boosts-rockets-ai-propels-space-travel-forward-with-nuclear-3o19)** - Nov 29, 2025
+2. **[Oracle Stakes Claim as Unexpected Leader in Enterprise AI Cloud Battle](https://future.forem.com/mabualzait/oracle-stakes-claim-as-unexpected-leader-in-enterprise-ai-cloud-battle-2i6m)** - Nov 14, 2025
+3. **[OpenAI Bailout Debacle: No Fed Help for AI from Trump's Tech Chief](https://future.forem.com/mabualzait/openai-bailout-debacle-no-fed-help-for-ai-from-trumps-tech-chief-3ig5)** - Nov 07, 2025
+4. **[AI Bailouts: OpenAI CEO Stirs Debate on Government Intervention](https://future.forem.com/mabualzait/ai-bailouts-openai-ceo-stirs-debate-on-government-intervention-3f4p)** - Nov 07, 2025
 <!-- FUTURE-POST-LIST:END -->
 
 <div align="center">
