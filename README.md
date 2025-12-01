@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Beyond Stacked Layers: The Limitations of Traditional Deep Learning Architecture](https://dev.to/mabualzait/beyond-stacked-layers-the-limitations-of-traditional-deep-learning-architecture-27jf)** - Nov 29, 2025
-2. **[From Code to Wok: Dev's Surprise Career Switch to Prawn Noodle Mastery](https://dev.to/mabualzait/from-code-to-wok-devs-surprise-career-switch-to-prawn-noodle-mastery-1kak)** - Nov 29, 2025
-3. **[Kicking Off: Expert Analysis for World Cup 2026](https://dev.to/mabualzait/kicking-off-expert-analysis-for-world-cup-2026-4o2a)** - Nov 29, 2025
-4. **[Sizing Up the Pitch: World Cup 2026 Projections](https://dev.to/mabualzait/sizing-up-the-pitch-world-cup-2026-projections-8h8)** - Nov 28, 2025
+1. **[Las Vegas' World Cup Dreams Crushed: The Shocking Truth](https://dev.to/mabualzait/las-vegas-world-cup-dreams-crushed-the-shocking-truth-gdg)** - Nov 30, 2025
+2. **[Firing Up AI with Cognitive Spark](https://dev.to/mabualzait/firing-up-ai-with-cognitive-spark-5ac7)** - Nov 30, 2025
+3. **[Will Data Science Still Rule 2026?](https://dev.to/mabualzait/will-data-science-still-rule-2026-2bj)** - Nov 30, 2025
+4. **[DevOps Unite: Where Development Meets Operations in Perfect Code Harmony](https://dev.to/mabualzait/devops-unite-where-development-meets-operations-in-perfect-code-harmony-3036)** - Nov 30, 2025
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
