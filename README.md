@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Las Vegas' World Cup Dreams Crushed: The Shocking Truth](https://dev.to/mabualzait/las-vegas-world-cup-dreams-crushed-the-shocking-truth-gdg)** - Nov 30, 2025
-2. **[Firing Up AI with Cognitive Spark](https://dev.to/mabualzait/firing-up-ai-with-cognitive-spark-5ac7)** - Nov 30, 2025
-3. **[Will Data Science Still Rule 2026?](https://dev.to/mabualzait/will-data-science-still-rule-2026-2bj)** - Nov 30, 2025
-4. **[DevOps Unite: Where Development Meets Operations in Perfect Code Harmony](https://dev.to/mabualzait/devops-unite-where-development-meets-operations-in-perfect-code-harmony-3036)** - Nov 30, 2025
+1. **[Boost Incident Response with AWS' New DevOps Agent (Preview)](https://dev.to/mabualzait/boost-incident-response-with-aws-new-devops-agent-preview-1pel)** - Dec 03, 2025
+2. **[Cutting Through the Hype: Understanding Agentic AI in Code](https://dev.to/mabualzait/cutting-through-the-hype-understanding-agentic-ai-in-code-2l7j)** - Dec 03, 2025
+3. **[Revolutionizing Mobile Dev with $4.1M AI Boost](https://dev.to/mabualzait/revolutionizing-mobile-dev-with-41m-ai-boost-1k8n)** - Dec 03, 2025
+4. **[Unlocking AI Potential with Open Models](https://dev.to/mabualzait/unlocking-ai-potential-with-open-models-kl6)** - Dec 02, 2025
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
