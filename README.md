@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Boosting Dev Velocity with AWS Frontier Agents: A Game-Changer for Software D...](https://dev.to/mabualzait/boosting-dev-velocity-with-aws-frontier-agents-a-game-changer-for-software-d-5gep)** - Dec 04, 2025
-2. **[Say Goodbye to Manual Specs with AutoDoc: A Markdown Primer](https://dev.to/mabualzait/say-goodbye-to-manual-specs-with-autodoc-a-markdown-primer-117h)** - Dec 04, 2025
-3. **[Define Data Harmony with Python: Simplifying Data Exchange for Data Scientists](https://dev.to/mabualzait/define-data-harmony-with-python-simplifying-data-exchange-for-data-scientists-1jjc)** - Dec 04, 2025
-4. **[Boost Incident Response with AWS' New DevOps Agent (Preview)](https://dev.to/mabualzait/boost-incident-response-with-aws-new-devops-agent-preview-1pel)** - Dec 03, 2025
+1. **[Kicking Off 2026: Expert Analysis & Predictions for the World Cup](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-predictions-for-the-world-cup-4nj5)** - Dec 04, 2025
+2. **[Boosting Dev Velocity with AWS Frontier Agents: A Game-Changer for Software D...](https://dev.to/mabualzait/boosting-dev-velocity-with-aws-frontier-agents-a-game-changer-for-software-d-5gep)** - Dec 04, 2025
+3. **[Say Goodbye to Manual Specs with AutoDoc: A Markdown Primer](https://dev.to/mabualzait/say-goodbye-to-manual-specs-with-autodoc-a-markdown-primer-117h)** - Dec 04, 2025
+4. **[Define Data Harmony with Python: Simplifying Data Exchange for Data Scientists](https://dev.to/mabualzait/define-data-harmony-with-python-simplifying-data-exchange-for-data-scientists-1jjc)** - Dec 04, 2025
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
