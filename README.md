@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Kicking Off 2026: Expert Analysis & Predictions for the World Cup](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-predictions-for-the-world-cup-4nj5)** - Dec 04, 2025
-2. **[Boosting Dev Velocity with AWS Frontier Agents: A Game-Changer for Software D...](https://dev.to/mabualzait/boosting-dev-velocity-with-aws-frontier-agents-a-game-changer-for-software-d-5gep)** - Dec 04, 2025
-3. **[Say Goodbye to Manual Specs with AutoDoc: A Markdown Primer](https://dev.to/mabualzait/say-goodbye-to-manual-specs-with-autodoc-a-markdown-primer-117h)** - Dec 04, 2025
-4. **[Define Data Harmony with Python: Simplifying Data Exchange for Data Scientists](https://dev.to/mabualzait/define-data-harmony-with-python-simplifying-data-exchange-for-data-scientists-1jjc)** - Dec 04, 2025
+1. **[Can Traditional QA Cut It? The Limitations of Generative AI in Tech Support](https://dev.to/mabualzait/can-traditional-qa-cut-it-the-limitations-of-generative-ai-in-tech-support-369c)** - Dec 05, 2025
+2. **[NVIDIA Unleashes CUDA 13.1: CUDA Tile Takes Computing to the Next Level](https://dev.to/mabualzait/nvidia-unleashes-cuda-131-cuda-tile-takes-computing-to-the-next-level-pf7)** - Dec 05, 2025
+3. **[Kicking Off 2026: Expert Analysis & Predictions for the World Cup](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-predictions-for-the-world-cup-4nj5)** - Dec 04, 2025
+4. **[Boosting Dev Velocity with AWS Frontier Agents: A Game-Changer for Software D...](https://dev.to/mabualzait/boosting-dev-velocity-with-aws-frontier-agents-a-game-changer-for-software-d-5gep)** - Dec 04, 2025
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
