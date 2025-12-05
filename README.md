@@ -57,19 +57,19 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Can Traditional QA Cut It? The Limitations of Generative AI in Tech Support](https://dev.to/mabualzait/can-traditional-qa-cut-it-the-limitations-of-generative-ai-in-tech-support-369c)** - Dec 05, 2025
-2. **[NVIDIA Unleashes CUDA 13.1: CUDA Tile Takes Computing to the Next Level](https://dev.to/mabualzait/nvidia-unleashes-cuda-131-cuda-tile-takes-computing-to-the-next-level-pf7)** - Dec 05, 2025
-3. **[Kicking Off 2026: Expert Analysis & Predictions for the World Cup](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-predictions-for-the-world-cup-4nj5)** - Dec 04, 2025
-4. **[Boosting Dev Velocity with AWS Frontier Agents: A Game-Changer for Software D...](https://dev.to/mabualzait/boosting-dev-velocity-with-aws-frontier-agents-a-game-changer-for-software-d-5gep)** - Dec 04, 2025
+1. **[Kicking Off 2026: Expert Analysis & Predictions for the World Cup](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-predictions-for-the-world-cup-4nj5)** - Dec 04, 2025
+2. **[Boosting Dev Velocity with AWS Frontier Agents: A Game-Changer for Software D...](https://dev.to/mabualzait/boosting-dev-velocity-with-aws-frontier-agents-a-game-changer-for-software-d-5gep)** - Dec 04, 2025
+3. **[Say Goodbye to Manual Specs with AutoDoc: A Markdown Primer](https://dev.to/mabualzait/say-goodbye-to-manual-specs-with-autodoc-a-markdown-primer-117h)** - Dec 04, 2025
+4. **[Define Data Harmony with Python: Simplifying Data Exchange for Data Scientists](https://dev.to/mabualzait/define-data-harmony-with-python-simplifying-data-exchange-for-data-scientists-1jjc)** - Dec 04, 2025
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
 
 <!-- FUTURE-POST-LIST:START -->
-1. **[Machine Learning Boosts Rockets: AI Propels Space Travel Forward with Nuclear...](https://future.forem.com/mabualzait/machine-learning-boosts-rockets-ai-propels-space-travel-forward-with-nuclear-3o19)** - Nov 29, 2025
-2. **[Oracle Stakes Claim as Unexpected Leader in Enterprise AI Cloud Battle](https://future.forem.com/mabualzait/oracle-stakes-claim-as-unexpected-leader-in-enterprise-ai-cloud-battle-2i6m)** - Nov 14, 2025
-3. **[OpenAI Bailout Debacle: No Fed Help for AI from Trump's Tech Chief](https://future.forem.com/mabualzait/openai-bailout-debacle-no-fed-help-for-ai-from-trumps-tech-chief-3ig5)** - Nov 07, 2025
-4. **[AI Bailouts: OpenAI CEO Stirs Debate on Government Intervention](https://future.forem.com/mabualzait/ai-bailouts-openai-ceo-stirs-debate-on-government-intervention-3f4p)** - Nov 07, 2025
+1. **[AI Pioneer Warns Mass Unemployment Ahead Despite Bill & Elon's Optimism](https://future.forem.com/mabualzait/ai-pioneer-warns-mass-unemployment-ahead-despite-bill-elons-optimism-20n6)** - Dec 05, 2025
+2. **[Machine Learning Boosts Rockets: AI Propels Space Travel Forward with Nuclear...](https://future.forem.com/mabualzait/machine-learning-boosts-rockets-ai-propels-space-travel-forward-with-nuclear-3o19)** - Nov 29, 2025
+3. **[Oracle Stakes Claim as Unexpected Leader in Enterprise AI Cloud Battle](https://future.forem.com/mabualzait/oracle-stakes-claim-as-unexpected-leader-in-enterprise-ai-cloud-battle-2i6m)** - Nov 14, 2025
+4. **[OpenAI Bailout Debacle: No Fed Help for AI from Trump's Tech Chief](https://future.forem.com/mabualzait/openai-bailout-debacle-no-fed-help-for-ai-from-trumps-tech-chief-3ig5)** - Nov 07, 2025
 <!-- FUTURE-POST-LIST:END -->
 
 <div align="center">
