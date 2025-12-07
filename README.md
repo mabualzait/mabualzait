@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Kicking Off 2026: Expert Analysis & Predictions for the World Cup](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-predictions-for-the-world-cup-4nj5)** - Dec 04, 2025
-2. **[Boosting Dev Velocity with AWS Frontier Agents: A Game-Changer for Software D...](https://dev.to/mabualzait/boosting-dev-velocity-with-aws-frontier-agents-a-game-changer-for-software-d-5gep)** - Dec 04, 2025
-3. **[Say Goodbye to Manual Specs with AutoDoc: A Markdown Primer](https://dev.to/mabualzait/say-goodbye-to-manual-specs-with-autodoc-a-markdown-primer-117h)** - Dec 04, 2025
-4. **[Define Data Harmony with Python: Simplifying Data Exchange for Data Scientists](https://dev.to/mabualzait/define-data-harmony-with-python-simplifying-data-exchange-for-data-scientists-1jjc)** - Dec 04, 2025
+1. **[Kicking Off 2026: Expert Analysis & Predictions for the World Cup](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-predictions-for-the-world-cup-1nk1)** - Dec 06, 2025
+2. **[Boost Incident Resolution with Datadog & AWS: Early Access Now Live](https://dev.to/mabualzait/boost-incident-resolution-with-datadog-aws-early-access-now-live-216f)** - Dec 06, 2025
+3. **[Crack the Code with Intelligent K: Uncover Pattern Secrets in Your Data](https://dev.to/mabualzait/crack-the-code-with-intelligent-k-uncover-pattern-secrets-in-your-data-4ofm)** - Dec 06, 2025
+4. **[Vision AI Breakthrough: Gemini 3 Pro Pioneers New Frontiers](https://dev.to/mabualzait/vision-ai-breakthrough-gemini-3-pro-pioneers-new-frontiers-454b)** - Dec 06, 2025
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
