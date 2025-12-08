@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Kicking Off 2026: Expert Analysis & Predictions for the World Cup](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-predictions-for-the-world-cup-1nk1)** - Dec 06, 2025
-2. **[Boost Incident Resolution with Datadog & AWS: Early Access Now Live](https://dev.to/mabualzait/boost-incident-resolution-with-datadog-aws-early-access-now-live-216f)** - Dec 06, 2025
-3. **[Crack the Code with Intelligent K: Uncover Pattern Secrets in Your Data](https://dev.to/mabualzait/crack-the-code-with-intelligent-k-uncover-pattern-secrets-in-your-data-4ofm)** - Dec 06, 2025
-4. **[Vision AI Breakthrough: Gemini 3 Pro Pioneers New Frontiers](https://dev.to/mabualzait/vision-ai-breakthrough-gemini-3-pro-pioneers-new-frontiers-454b)** - Dec 06, 2025
+1. **[Unlock GPU Power with CUDA Tiles: A Python Developer's Guide](https://dev.to/mabualzait/unlock-gpu-power-with-cuda-tiles-a-python-developers-guide-1mf5)** - Dec 08, 2025
+2. **[Kicking Off 2026: Exclusive World Cup Predictions & Analysis](https://dev.to/mabualzait/kicking-off-2026-exclusive-world-cup-predictions-analysis-4fme)** - Dec 07, 2025
+3. **[Electrifying AI with Code: A Spark of Innovation](https://dev.to/mabualzait/electrifying-ai-with-code-a-spark-of-innovation-5cd6)** - Dec 07, 2025
+4. **[Tech's Environmental Impact: Can Code Save Nature?](https://dev.to/mabualzait/techs-environmental-impact-can-code-save-nature-2o08)** - Dec 07, 2025
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
