@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Kicking Off 2026: Expert Analysis & Predictions for the World Cup](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-predictions-for-the-world-cup-1nk1)** - Dec 06, 2025
-2. **[Boost Incident Resolution with Datadog & AWS: Early Access Now Live](https://dev.to/mabualzait/boost-incident-resolution-with-datadog-aws-early-access-now-live-216f)** - Dec 06, 2025
-3. **[Crack the Code with Intelligent K: Uncover Pattern Secrets in Your Data](https://dev.to/mabualzait/crack-the-code-with-intelligent-k-uncover-pattern-secrets-in-your-data-4ofm)** - Dec 06, 2025
-4. **[Vision AI Breakthrough: Gemini 3 Pro Pioneers New Frontiers](https://dev.to/mabualzait/vision-ai-breakthrough-gemini-3-pro-pioneers-new-frontiers-454b)** - Dec 06, 2025
+1. **[Cache, Not Cache: The AI Performance Bottleneck You Never Saw Coming](https://dev.to/mabualzait/cache-not-cache-the-ai-performance-bottleneck-you-never-saw-coming-2ohm)** - Dec 09, 2025
+2. **[GoLand 2025.3 Ups Your Golang Game: What's New?](https://dev.to/mabualzait/goland-20253-ups-your-golang-game-whats-new-2c69)** - Dec 09, 2025
+3. **[Kicking Off 2026: Expert World Cup Analysis & Predictions](https://dev.to/mabualzait/kicking-off-2026-expert-world-cup-analysis-predictions-2le7)** - Dec 08, 2025
+4. **[Unlock GPU Power with CUDA Tiles: A Python Developer's Guide](https://dev.to/mabualzait/unlock-gpu-power-with-cuda-tiles-a-python-developers-guide-1mf5)** - Dec 08, 2025
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
