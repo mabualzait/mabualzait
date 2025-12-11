@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Crunching Life's Code: Intellicule Wins Grant for Revolutionary Biomolecular ...](https://dev.to/mabualzait/crunching-lifes-code-intellicule-wins-grant-for-revolutionary-biomolecular--1844)** - Dec 09, 2025
-2. **[Cache, Not Cache: The AI Performance Bottleneck You Never Saw Coming](https://dev.to/mabualzait/cache-not-cache-the-ai-performance-bottleneck-you-never-saw-coming-2ohm)** - Dec 09, 2025
-3. **[GoLand 2025.3 Ups Your Golang Game: What's New?](https://dev.to/mabualzait/goland-20253-ups-your-golang-game-whats-new-2c69)** - Dec 09, 2025
-4. **[Kicking Off 2026: Expert World Cup Analysis & Predictions](https://dev.to/mabualzait/kicking-off-2026-expert-world-cup-analysis-predictions-2le7)** - Dec 08, 2025
+1. **[OpenAI's GPT-3 Hits Roadblock: What's Next?](https://dev.to/mabualzait/openais-gpt-3-hits-roadblock-whats-next-gpb)** - Dec 11, 2025
+2. **[Protecting Your Cloud Apps from AI-Driven Threats](https://dev.to/mabualzait/protecting-your-cloud-apps-from-ai-driven-threats-4b52)** - Dec 11, 2025
+3. **[Kicking Off 2026: Expert Analysis & Predictions for the Big Games](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-predictions-for-the-big-games-43hj)** - Dec 10, 2025
+4. **[Nvidia's Moment of Truth: Trump Lifts Decades-Old Tech Embargo](https://dev.to/mabualzait/nvidias-moment-of-truth-trump-lifts-decades-old-tech-embargo-119j)** - Dec 10, 2025
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
