@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[OpenAI's GPT-3 Hits Roadblock: What's Next?](https://dev.to/mabualzait/openais-gpt-3-hits-roadblock-whats-next-gpb)** - Dec 11, 2025
-2. **[Protecting Your Cloud Apps from AI-Driven Threats](https://dev.to/mabualzait/protecting-your-cloud-apps-from-ai-driven-threats-4b52)** - Dec 11, 2025
-3. **[Kicking Off 2026: Expert Analysis & Predictions for the Big Games](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-predictions-for-the-big-games-43hj)** - Dec 10, 2025
-4. **[Nvidia's Moment of Truth: Trump Lifts Decades-Old Tech Embargo](https://dev.to/mabualzait/nvidias-moment-of-truth-trump-lifts-decades-old-tech-embargo-119j)** - Dec 10, 2025
+1. **[Code Revolution Hits Roads: Revolutionary Software Update Looms for Auto Indu...](https://dev.to/mabualzait/code-revolution-hits-roads-revolutionary-software-update-looms-for-auto-indu-2256)** - Dec 13, 2025
+2. **[Automate Compliance with AI: Transforming Risk Management for Devs](https://dev.to/mabualzait/automate-compliance-with-ai-transforming-risk-management-for-devs-2mgi)** - Dec 13, 2025
+3. **[Meet the Visionaries Redefining Tech in 2025](https://dev.to/mabualzait/meet-the-visionaries-redefining-tech-in-2025-3g7d)** - Dec 13, 2025
+4. **[Kicking Off 2026: Your Ultimate World Cup Preview Guide](https://dev.to/mabualzait/kicking-off-2026-your-ultimate-world-cup-preview-guide-aba)** - Dec 12, 2025
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
