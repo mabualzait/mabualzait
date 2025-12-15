@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Pandas Performance Hacks for Data Scientists](https://dev.to/mabualzait/pandas-performance-hacks-for-data-scientists-532l)** - Dec 14, 2025
-2. **[Code Revolution Hits Roads: Revolutionary Software Update Looms for Auto Indu...](https://dev.to/mabualzait/code-revolution-hits-roads-revolutionary-software-update-looms-for-auto-indu-2256)** - Dec 13, 2025
-3. **[Automate Compliance with AI: Transforming Risk Management for Devs](https://dev.to/mabualzait/automate-compliance-with-ai-transforming-risk-management-for-devs-2mgi)** - Dec 13, 2025
-4. **[Meet the Visionaries Redefining Tech in 2025](https://dev.to/mabualzait/meet-the-visionaries-redefining-tech-in-2025-3g7d)** - Dec 13, 2025
+1. **[Code Revolution Hits Roads: Revolutionary Software Update Looms for Auto Indu...](https://dev.to/mabualzait/code-revolution-hits-roads-revolutionary-software-update-looms-for-auto-indu-2256)** - Dec 13, 2025
+2. **[Automate Compliance with AI: Transforming Risk Management for Devs](https://dev.to/mabualzait/automate-compliance-with-ai-transforming-risk-management-for-devs-2mgi)** - Dec 13, 2025
+3. **[Meet the Visionaries Redefining Tech in 2025](https://dev.to/mabualzait/meet-the-visionaries-redefining-tech-in-2025-3g7d)** - Dec 13, 2025
+4. **[Kicking Off 2026: Your Ultimate World Cup Preview Guide](https://dev.to/mabualzait/kicking-off-2026-your-ultimate-world-cup-preview-guide-aba)** - Dec 12, 2025
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
