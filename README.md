@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Pandas Performance Hacks for Data Scientists](https://dev.to/mabualzait/pandas-performance-hacks-for-data-scientists-532l)** - Dec 14, 2025
-2. **[Code Revolution Hits Roads: Revolutionary Software Update Looms for Auto Indu...](https://dev.to/mabualzait/code-revolution-hits-roads-revolutionary-software-update-looms-for-auto-indu-2256)** - Dec 13, 2025
-3. **[Automate Compliance with AI: Transforming Risk Management for Devs](https://dev.to/mabualzait/automate-compliance-with-ai-transforming-risk-management-for-devs-2mgi)** - Dec 13, 2025
-4. **[Meet the Visionaries Redefining Tech in 2025](https://dev.to/mabualzait/meet-the-visionaries-redefining-tech-in-2025-3g7d)** - Dec 13, 2025
+1. **[Introducing AI-Powered DevOps Engineers: Automating Infrastructure Work with ...](https://dev.to/mabualzait/introducing-ai-powered-devops-engineers-automating-infrastructure-work-with--3g7m)** - Dec 16, 2025
+2. **[Cracking the Code: AI Data Storage in Depth](https://dev.to/mabualzait/cracking-the-code-ai-data-storage-in-depth-327p)** - Dec 16, 2025
+3. **[Maxing Out Mobile Devs: Manus Launches New Agent & Design Tools](https://dev.to/mabualzait/maxing-out-mobile-devs-manus-launches-new-agent-design-tools-2p1l)** - Dec 16, 2025
+4. **[Kicking Off 2026: World Cup Predictions and Expert Analysis](https://dev.to/mabualzait/kicking-off-2026-world-cup-predictions-and-expert-analysis-5482)** - Dec 15, 2025
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
