@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Introducing AI-Powered DevOps Engineers: Automating Infrastructure Work with ...](https://dev.to/mabualzait/introducing-ai-powered-devops-engineers-automating-infrastructure-work-with--3g7m)** - Dec 16, 2025
-2. **[Cracking the Code: AI Data Storage in Depth](https://dev.to/mabualzait/cracking-the-code-ai-data-storage-in-depth-327p)** - Dec 16, 2025
-3. **[Maxing Out Mobile Devs: Manus Launches New Agent & Design Tools](https://dev.to/mabualzait/maxing-out-mobile-devs-manus-launches-new-agent-design-tools-2p1l)** - Dec 16, 2025
-4. **[Kicking Off 2026: World Cup Predictions and Expert Analysis](https://dev.to/mabualzait/kicking-off-2026-world-cup-predictions-and-expert-analysis-5482)** - Dec 15, 2025
+1. **[Fixing the Fatal Flaw in Your AI Pipeline](https://dev.to/mabualzait/fixing-the-fatal-flaw-in-your-ai-pipeline-27nc)** - Dec 18, 2025
+2. **[Automate Incidents with AWS' New DevOps Agent: Boosting System Uptime](https://dev.to/mabualzait/automate-incidents-with-aws-new-devops-agent-boosting-system-uptime-46j2)** - Dec 18, 2025
+3. **[Predicting Glory: World Cup 2026 Matchup Breakdowns & Trends](https://dev.to/mabualzait/predicting-glory-world-cup-2026-matchup-breakdowns-trends-535)** - Dec 17, 2025
+4. **[AI Powerhouses: How to Leverage Joint Neural Networks in Multimodal Apps](https://dev.to/mabualzait/ai-powerhouses-how-to-leverage-joint-neural-networks-in-multimodal-apps-fdg)** - Dec 17, 2025
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
