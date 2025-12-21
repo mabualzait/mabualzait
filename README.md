@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Fixing the Fatal Flaw in Your AI Pipeline](https://dev.to/mabualzait/fixing-the-fatal-flaw-in-your-ai-pipeline-27nc)** - Dec 18, 2025
-2. **[Automate Incidents with AWS' New DevOps Agent: Boosting System Uptime](https://dev.to/mabualzait/automate-incidents-with-aws-new-devops-agent-boosting-system-uptime-46j2)** - Dec 18, 2025
-3. **[Predicting Glory: World Cup 2026 Matchup Breakdowns & Trends](https://dev.to/mabualzait/predicting-glory-world-cup-2026-matchup-breakdowns-trends-535)** - Dec 17, 2025
-4. **[AI Powerhouses: How to Leverage Joint Neural Networks in Multimodal Apps](https://dev.to/mabualzait/ai-powerhouses-how-to-leverage-joint-neural-networks-in-multimodal-apps-fdg)** - Dec 17, 2025
+1. **[Kicking Off 2026: The Ultimate World Cup Preview](https://dev.to/mabualzait/kicking-off-2026-the-ultimate-world-cup-preview-doo)** - Dec 20, 2025
+2. **[Boot Up Your Project: A Beginner's Guide to Spring Boot](https://dev.to/mabualzait/boot-up-your-project-a-beginners-guide-to-spring-boot-3414)** - Dec 20, 2025
+3. **[Boosting Cloud Security with AI: A New Layer of Protection](https://dev.to/mabualzait/boosting-cloud-security-with-ai-a-new-layer-of-protection-jak)** - Dec 20, 2025
+4. **[Cloud Wars: Google Secures Record Deal with Palo Alto Networks for $10B+](https://dev.to/mabualzait/cloud-wars-google-secures-record-deal-with-palo-alto-networks-for-10b-490c)** - Dec 20, 2025
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
