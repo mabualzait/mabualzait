@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Kicking Off 2026: The Ultimate World Cup Preview](https://dev.to/mabualzait/kicking-off-2026-the-ultimate-world-cup-preview-doo)** - Dec 20, 2025
-2. **[Boot Up Your Project: A Beginner's Guide to Spring Boot](https://dev.to/mabualzait/boot-up-your-project-a-beginners-guide-to-spring-boot-3414)** - Dec 20, 2025
-3. **[Boosting Cloud Security with AI: A New Layer of Protection](https://dev.to/mabualzait/boosting-cloud-security-with-ai-a-new-layer-of-protection-jak)** - Dec 20, 2025
-4. **[Cloud Wars: Google Secures Record Deal with Palo Alto Networks for $10B+](https://dev.to/mabualzait/cloud-wars-google-secures-record-deal-with-palo-alto-networks-for-10b-490c)** - Dec 20, 2025
+1. **[Your AI's Dirty Secret: Phantom APIs Exposed](https://dev.to/mabualzait/your-ais-dirty-secret-phantom-apis-exposed-5che)** - Dec 23, 2025
+2. **[Cloud Giant Alert: Watch This AI Upstart Eclipse AWS by the 2030s](https://dev.to/mabualzait/cloud-giant-alert-watch-this-ai-upstart-eclipse-aws-by-the-2030s-1pmf)** - Dec 23, 2025
+3. **[Predictions and Picks for World Cup 2026: Expert Analysis Inside](https://dev.to/mabualzait/predictions-and-picks-for-world-cup-2026-expert-analysis-inside-45ao)** - Dec 22, 2025
+4. **[Unlocking World Cup 2026 Secrets: Expert Analysis Inside](https://dev.to/mabualzait/unlocking-world-cup-2026-secrets-expert-analysis-inside-516)** - Dec 21, 2025
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
