@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Your AI's Dirty Secret: Phantom APIs Exposed](https://dev.to/mabualzait/your-ais-dirty-secret-phantom-apis-exposed-5che)** - Dec 23, 2025
-2. **[Cloud Giant Alert: Watch This AI Upstart Eclipse AWS by the 2030s](https://dev.to/mabualzait/cloud-giant-alert-watch-this-ai-upstart-eclipse-aws-by-the-2030s-1pmf)** - Dec 23, 2025
-3. **[Predictions and Picks for World Cup 2026: Expert Analysis Inside](https://dev.to/mabualzait/predictions-and-picks-for-world-cup-2026-expert-analysis-inside-45ao)** - Dec 22, 2025
-4. **[Unlocking World Cup 2026 Secrets: Expert Analysis Inside](https://dev.to/mabualzait/unlocking-world-cup-2026-secrets-expert-analysis-inside-516)** - Dec 21, 2025
+1. **[Nvidia Acquires Groq Assets in Record-Breaking $20B AI Chip Deal](https://dev.to/mabualzait/nvidia-acquires-groq-assets-in-record-breaking-20b-ai-chip-deal-4pe2)** - Dec 25, 2025
+2. **[Nvidia Licenses Groq Tech, Poaches Top Execs in Latest Industry Deal](https://dev.to/mabualzait/nvidia-licenses-groq-tech-poaches-top-execs-in-latest-industry-deal-ibf)** - Dec 25, 2025
+3. **[Kicking Off in Arlington: AT&T Stadium's World Cup Moment](https://dev.to/mabualzait/kicking-off-in-arlington-att-stadiums-world-cup-moment-2boj)** - Dec 24, 2025
+4. **[Unlocking Smart Contracts with AI-Powered Blockchain Architectures](https://dev.to/mabualzait/unlocking-smart-contracts-with-ai-powered-blockchain-architectures-23je)** - Dec 24, 2025
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
