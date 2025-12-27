@@ -66,10 +66,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 🚀 Future Forem Articles
 
 <!-- FUTURE-POST-LIST:START -->
-1. **[AI Pioneer Warns Mass Unemployment Ahead Despite Bill & Elon's Optimism](https://future.forem.com/mabualzait/ai-pioneer-warns-mass-unemployment-ahead-despite-bill-elons-optimism-20n6)** - Dec 05, 2025
-2. **[Machine Learning Boosts Rockets: AI Propels Space Travel Forward with Nuclear...](https://future.forem.com/mabualzait/machine-learning-boosts-rockets-ai-propels-space-travel-forward-with-nuclear-3o19)** - Nov 29, 2025
-3. **[Oracle Stakes Claim as Unexpected Leader in Enterprise AI Cloud Battle](https://future.forem.com/mabualzait/oracle-stakes-claim-as-unexpected-leader-in-enterprise-ai-cloud-battle-2i6m)** - Nov 14, 2025
-4. **[OpenAI Bailout Debacle: No Fed Help for AI from Trump's Tech Chief](https://future.forem.com/mabualzait/openai-bailout-debacle-no-fed-help-for-ai-from-trumps-tech-chief-3ig5)** - Nov 07, 2025
+1. **[China Boosts Hard Tech Investing with Venture Capital Funds Launch](https://future.forem.com/mabualzait/china-boosts-hard-tech-investing-with-venture-capital-funds-launch-2gmb)** - Dec 27, 2025
+2. **[AI Pioneer Warns Mass Unemployment Ahead Despite Bill & Elon's Optimism](https://future.forem.com/mabualzait/ai-pioneer-warns-mass-unemployment-ahead-despite-bill-elons-optimism-20n6)** - Dec 05, 2025
+3. **[Machine Learning Boosts Rockets: AI Propels Space Travel Forward with Nuclear...](https://future.forem.com/mabualzait/machine-learning-boosts-rockets-ai-propels-space-travel-forward-with-nuclear-3o19)** - Nov 29, 2025
+4. **[Oracle Stakes Claim as Unexpected Leader in Enterprise AI Cloud Battle](https://future.forem.com/mabualzait/oracle-stakes-claim-as-unexpected-leader-in-enterprise-ai-cloud-battle-2i6m)** - Nov 14, 2025
 <!-- FUTURE-POST-LIST:END -->
 
 <div align="center">
