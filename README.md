@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[AI Revolutionizes DevOps: From Tools to Standards](https://dev.to/mabualzait/ai-revolutionizes-devops-from-tools-to-standards-4fcn)** - Dec 27, 2025
-2. **[Busting the Randomness: Building Predictable AI with Reliable Prompt Designs](https://dev.to/mabualzait/busting-the-randomness-building-predictable-ai-with-reliable-prompt-designs-2b2b)** - Dec 27, 2025
-3. **[Kicking Off 2026: Expert World Cup Analysis & Predictions](https://dev.to/mabualzait/kicking-off-2026-expert-world-cup-analysis-predictions-h84)** - Dec 26, 2025
-4. **[Frontend Evolution or Extinction?](https://dev.to/mabualzait/frontend-evolution-or-extinction-ae0)** - Dec 26, 2025
+1. **[Kicking Off the Future: 2026 World Cup Predictions & Analysis](https://dev.to/mabualzait/kicking-off-the-future-2026-world-cup-predictions-analysis-nc0)** - Dec 28, 2025
+2. **[Injecting AI into Your Code](https://dev.to/mabualzait/injecting-ai-into-your-code-59o2)** - Dec 28, 2025
+3. **[Dublin's Mobile Home Parks Get a High-Tech Overhaul: What Developers Need to ...](https://dev.to/mabualzait/dublins-mobile-home-parks-get-a-high-tech-overhaul-what-developers-need-to--3pkh)** - Dec 28, 2025
+4. **[Kicking Off '26: World Cup Predictions & Analysis](https://dev.to/mabualzait/kicking-off-26-world-cup-predictions-analysis-464m)** - Dec 27, 2025
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
