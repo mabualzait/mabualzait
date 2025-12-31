@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Kicking Off 2026: Expert Analysis & Predictions for the World Cup](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-predictions-for-the-world-cup-5gl)** - Dec 30, 2025
-2. **[IGNOU Launches Cutting-Edge MS in DS&A for Developers](https://dev.to/mabualzait/ignou-launches-cutting-edge-ms-in-dsa-for-developers-4h25)** - Dec 30, 2025
-3. **[Small but Mighty: How Smarter AI Models are Redefining Speed and Efficiency](https://dev.to/mabualzait/small-but-mighty-how-smarter-ai-models-are-redefining-speed-and-efficiency-kmh)** - Dec 30, 2025
-4. **[Cloudifying the Skies: How Europe's Giants Are Rethinking Infrastructure for ...](https://dev.to/mabualzait/cloudifying-the-skies-how-europes-giants-are-rethinking-infrastructure-for--2kfk)** - Dec 30, 2025
+1. **[Kicking Off the Future: 2026 World Cup Predictions & Analysis](https://dev.to/mabualzait/kicking-off-the-future-2026-world-cup-predictions-analysis-nc0)** - Dec 28, 2025
+2. **[Injecting AI into Your Code](https://dev.to/mabualzait/injecting-ai-into-your-code-59o2)** - Dec 28, 2025
+3. **[Dublin's Mobile Home Parks Get a High-Tech Overhaul: What Developers Need to ...](https://dev.to/mabualzait/dublins-mobile-home-parks-get-a-high-tech-overhaul-what-developers-need-to--3pkh)** - Dec 28, 2025
+4. **[Kicking Off '26: World Cup Predictions & Analysis](https://dev.to/mabualzait/kicking-off-26-world-cup-predictions-analysis-464m)** - Dec 27, 2025
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
