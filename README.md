@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Kicking Off 2026: Expert Analysis & Predictions for the World Cup](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-predictions-for-the-world-cup-5gl)** - Dec 30, 2025
-2. **[IGNOU Launches Cutting-Edge MS in DS&A for Developers](https://dev.to/mabualzait/ignou-launches-cutting-edge-ms-in-dsa-for-developers-4h25)** - Dec 30, 2025
-3. **[Small but Mighty: How Smarter AI Models are Redefining Speed and Efficiency](https://dev.to/mabualzait/small-but-mighty-how-smarter-ai-models-are-redefining-speed-and-efficiency-kmh)** - Dec 30, 2025
-4. **[Cloudifying the Skies: How Europe's Giants Are Rethinking Infrastructure for ...](https://dev.to/mabualzait/cloudifying-the-skies-how-europes-giants-are-rethinking-infrastructure-for--2kfk)** - Dec 30, 2025
+1. **[Revolutionizing Data Flow with LLMs: Where AI Meets ETL](https://dev.to/mabualzait/revolutionizing-data-flow-with-llms-where-ai-meets-etl-47nc)** - Jan 02, 2026
+2. **[Accelerating DX in Dubai: Top 10 App Dev Firms to Watch](https://dev.to/mabualzait/accelerating-dx-in-dubai-top-10-app-dev-firms-to-watch-33c2)** - Jan 02, 2026
+3. **[Unpacking the 2026 World Cup Calendar: Every Date, Every Kickoff Time](https://dev.to/mabualzait/unpacking-the-2026-world-cup-calendar-every-date-every-kickoff-time-cak)** - Jan 01, 2026
+4. **[Streamlining AI Development with Unified Data Pipelines](https://dev.to/mabualzait/streamlining-ai-development-with-unified-data-pipelines-4gjb)** - Jan 01, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
