@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[AI's Dirty Secret: Can We Green Our Algorithms?](https://dev.to/mabualzait/ais-dirty-secret-can-we-green-our-algorithms-fo7)** - Jan 04, 2026
-2. **[10 Hidden Gems to Supercharge Your Python Data Science Toolbox in '26](https://dev.to/mabualzait/10-hidden-gems-to-supercharge-your-python-data-science-toolbox-in-26-2576)** - Jan 03, 2026
-3. **[Cutting Edge Machine Learning Pipelines in Minutes, Not Months](https://dev.to/mabualzait/cutting-edge-machine-learning-pipelines-in-minutes-not-months-2ffn)** - Jan 03, 2026
-4. **[AI Matures in Embedded Dev: From Lab to Mainframe](https://dev.to/mabualzait/ai-matures-in-embedded-dev-from-lab-to-mainframe-3mm8)** - Jan 03, 2026
+1. **[Rescue Your Legacy Code: A Practical NLP Hack for Cleaning Up Dirty Data](https://dev.to/mabualzait/rescue-your-legacy-code-a-practical-nlp-hack-for-cleaning-up-dirty-data-2pki)** - Jan 06, 2026
+2. **[Mobile Apps in the Modern Era: How Silverback Approaches Dev with Emerging Te...](https://dev.to/mabualzait/mobile-apps-in-the-modern-era-how-silverback-approaches-dev-with-emerging-te-53il)** - Jan 06, 2026
+3. **[Decoupling Expectations: Mastering Covariance Shift in Machine Learning Models](https://dev.to/mabualzait/decoupling-expectations-mastering-covariance-shift-in-machine-learning-models-hgd)** - Jan 06, 2026
+4. **[Kicking Off 2026: Expert Analysis & Predictions for the Ultimate Showdown](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-predictions-for-the-ultimate-showdown-18i9)** - Jan 05, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
