@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[C#: Crowned Top Programming Language in 2025 by Tiobe Index](https://dev.to/mabualzait/c-crowned-top-programming-language-in-2025-by-tiobe-index-40fl)** - Jan 08, 2026
-2. **[LLM Data Leaks: Exposing Hidden Risks in ETL/ELT Pipelines](https://dev.to/mabualzait/llm-data-leaks-exposing-hidden-risks-in-etlelt-pipelines-35aa)** - Jan 08, 2026
-3. **[Unmasking the Dark Side of AI Layoffs: What's Really Behind the Numbers?](https://dev.to/mabualzait/unmasking-the-dark-side-of-ai-layoffs-whats-really-behind-the-numbers-5cl4)** - Jan 08, 2026
-4. **[Kicking Off 2026: Expert Analysis from the World Cup Stage](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-from-the-world-cup-stage-12ab)** - Jan 07, 2026
+1. **[Python Blasts Off into 2026 with Major Updates](https://dev.to/mabualzait/python-blasts-off-into-2026-with-major-updates-34hp)** - Jan 12, 2026
+2. **[Embering Code with AI](https://dev.to/mabualzait/embering-code-with-ai-25gd)** - Jan 11, 2026
+3. **[Deploying AI Agents with AWS, Kubernetes, and Python's FastAPI Powerhouse](https://dev.to/mabualzait/deploying-ai-agents-with-aws-kubernetes-and-pythons-fastapi-powerhouse-3k8o)** - Jan 11, 2026
+4. **[Revolutionizing DevOps with Prisma AIRS: Agent-Driven Software Automation](https://dev.to/mabualzait/revolutionizing-devops-with-prisma-airs-agent-driven-software-automation-21n6)** - Jan 11, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
