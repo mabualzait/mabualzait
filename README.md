@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Python Blasts Off into 2026 with Major Updates](https://dev.to/mabualzait/python-blasts-off-into-2026-with-major-updates-34hp)** - Jan 12, 2026
-2. **[Embering Code with AI](https://dev.to/mabualzait/embering-code-with-ai-25gd)** - Jan 11, 2026
-3. **[Deploying AI Agents with AWS, Kubernetes, and Python's FastAPI Powerhouse](https://dev.to/mabualzait/deploying-ai-agents-with-aws-kubernetes-and-pythons-fastapi-powerhouse-3k8o)** - Jan 11, 2026
-4. **[Revolutionizing DevOps with Prisma AIRS: Agent-Driven Software Automation](https://dev.to/mabualzait/revolutionizing-devops-with-prisma-airs-agent-driven-software-automation-21n6)** - Jan 11, 2026
+1. **[Cracking the Migration Code: Monarchs' Secret Journeys Unlocked with AI-Drive...](https://dev.to/mabualzait/cracking-the-migration-code-monarchs-secret-journeys-unlocked-with-ai-drive-2cdo)** - Jan 14, 2026
+2. **[Building Scalable AI Systems from Ground Up](https://dev.to/mabualzait/building-scalable-ai-systems-from-ground-up-2l20)** - Jan 14, 2026
+3. **[AI's Coming: Is Your DevOps Process Next on the Chopping Block?](https://dev.to/mabualzait/ais-coming-is-your-devops-process-next-on-the-chopping-block-24d4)** - Jan 14, 2026
+4. **[Tactical Overhaul Coming to a Pitch Near You: WC 2026 Preview](https://dev.to/mabualzait/tactical-overhaul-coming-to-a-pitch-near-you-wc-2026-preview-1m0m)** - Jan 13, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
