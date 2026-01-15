@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Cracking the Migration Code: Monarchs' Secret Journeys Unlocked with AI-Drive...](https://dev.to/mabualzait/cracking-the-migration-code-monarchs-secret-journeys-unlocked-with-ai-drive-2cdo)** - Jan 14, 2026
-2. **[Building Scalable AI Systems from Ground Up](https://dev.to/mabualzait/building-scalable-ai-systems-from-ground-up-2l20)** - Jan 14, 2026
-3. **[AI's Coming: Is Your DevOps Process Next on the Chopping Block?](https://dev.to/mabualzait/ais-coming-is-your-devops-process-next-on-the-chopping-block-24d4)** - Jan 14, 2026
-4. **[Tactical Overhaul Coming to a Pitch Near You: WC 2026 Preview](https://dev.to/mabualzait/tactical-overhaul-coming-to-a-pitch-near-you-wc-2026-preview-1m0m)** - Jan 13, 2026
+1. **[Kicking Off '26: Expert Analysis for the Next World Cup Champion](https://dev.to/mabualzait/kicking-off-26-expert-analysis-for-the-next-world-cup-champion-4830)** - Jan 14, 2026
+2. **[Cracking the Migration Code: Monarchs' Secret Journeys Unlocked with AI-Drive...](https://dev.to/mabualzait/cracking-the-migration-code-monarchs-secret-journeys-unlocked-with-ai-drive-2cdo)** - Jan 14, 2026
+3. **[Building Scalable AI Systems from Ground Up](https://dev.to/mabualzait/building-scalable-ai-systems-from-ground-up-2l20)** - Jan 14, 2026
+4. **[AI's Coming: Is Your DevOps Process Next on the Chopping Block?](https://dev.to/mabualzait/ais-coming-is-your-devops-process-next-on-the-chopping-block-24d4)** - Jan 14, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
