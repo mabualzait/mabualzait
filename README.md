@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Kicking Off '26: Expert Analysis for the Next World Cup Champion](https://dev.to/mabualzait/kicking-off-26-expert-analysis-for-the-next-world-cup-champion-4830)** - Jan 14, 2026
-2. **[Cracking the Migration Code: Monarchs' Secret Journeys Unlocked with AI-Drive...](https://dev.to/mabualzait/cracking-the-migration-code-monarchs-secret-journeys-unlocked-with-ai-drive-2cdo)** - Jan 14, 2026
-3. **[Building Scalable AI Systems from Ground Up](https://dev.to/mabualzait/building-scalable-ai-systems-from-ground-up-2l20)** - Jan 14, 2026
-4. **[AI's Coming: Is Your DevOps Process Next on the Chopping Block?](https://dev.to/mabualzait/ais-coming-is-your-devops-process-next-on-the-chopping-block-24d4)** - Jan 14, 2026
+1. **[Scaling RAGs: Data Engineering Hurdles in High-Performance AI](https://dev.to/mabualzait/scaling-rags-data-engineering-hurdles-in-high-performance-ai-438g)** - Jan 17, 2026
+2. **[ML Model Forecasts XRP Price with Surprising Accuracy by 2026](https://dev.to/mabualzait/ml-model-forecasts-xrp-price-with-surprising-accuracy-by-2026-bmb)** - Jan 17, 2026
+3. **[Unlocking 2026 World Cup Secrets: Insider Analysis & Predictions](https://dev.to/mabualzait/unlocking-2026-world-cup-secrets-insider-analysis-predictions-gg7)** - Jan 16, 2026
+4. **[Protecting Your AI from the Inside Out](https://dev.to/mabualzait/protecting-your-ai-from-the-inside-out-3op1)** - Jan 16, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
