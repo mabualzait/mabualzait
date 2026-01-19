@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Scaling RAGs: Data Engineering Hurdles in High-Performance AI](https://dev.to/mabualzait/scaling-rags-data-engineering-hurdles-in-high-performance-ai-438g)** - Jan 17, 2026
-2. **[ML Model Forecasts XRP Price with Surprising Accuracy by 2026](https://dev.to/mabualzait/ml-model-forecasts-xrp-price-with-surprising-accuracy-by-2026-bmb)** - Jan 17, 2026
-3. **[Unlocking 2026 World Cup Secrets: Insider Analysis & Predictions](https://dev.to/mabualzait/unlocking-2026-world-cup-secrets-insider-analysis-predictions-gg7)** - Jan 16, 2026
-4. **[Protecting Your AI from the Inside Out](https://dev.to/mabualzait/protecting-your-ai-from-the-inside-out-3op1)** - Jan 16, 2026
+1. **[Developers Crush It! Timpview's 92% Web Dev Cert Pass Rate Sets a High Bar](https://dev.to/mabualzait/developers-crush-it-timpviews-92-web-dev-cert-pass-rate-sets-a-high-bar-1b8)** - Jan 19, 2026
+2. **[Kicking Off 2026: World Cup Predictions & Trends](https://dev.to/mabualzait/kicking-off-2026-world-cup-predictions-trends-589l)** - Jan 18, 2026
+3. **[Injecting Smarts into Codebases with AI Sparks](https://dev.to/mabualzait/injecting-smarts-into-codebases-with-ai-sparks-502c)** - Jan 18, 2026
+4. **[AI Coding Breaks Ground: Seattle Developers Stunned by Claude's Revolutionary...](https://dev.to/mabualzait/ai-coding-breaks-ground-seattle-developers-stunned-by-claudes-revolutionary-4228)** - Jan 18, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
