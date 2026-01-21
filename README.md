@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Developers Crush It! Timpview's 92% Web Dev Cert Pass Rate Sets a High Bar](https://dev.to/mabualzait/developers-crush-it-timpviews-92-web-dev-cert-pass-rate-sets-a-high-bar-1b8)** - Jan 19, 2026
-2. **[Kicking Off 2026: World Cup Predictions & Trends](https://dev.to/mabualzait/kicking-off-2026-world-cup-predictions-trends-589l)** - Jan 18, 2026
-3. **[Injecting Smarts into Codebases with AI Sparks](https://dev.to/mabualzait/injecting-smarts-into-codebases-with-ai-sparks-502c)** - Jan 18, 2026
-4. **[AI Coding Breaks Ground: Seattle Developers Stunned by Claude's Revolutionary...](https://dev.to/mabualzait/ai-coding-breaks-ground-seattle-developers-stunned-by-claudes-revolutionary-4228)** - Jan 18, 2026
+1. **[Building Blocks of Code: Mobile Powers Affordable Housing Project with $22M I...](https://dev.to/mabualzait/building-blocks-of-code-mobile-powers-affordable-housing-project-with-22m-i-8i6)** - Jan 21, 2026
+2. **[Code Your Own Debugger: How AI Can Automate Error Tracking](https://dev.to/mabualzait/code-your-own-debugger-how-ai-can-automate-error-tracking-5djp)** - Jan 21, 2026
+3. **[3 New Web Dev Wins for The Loop Marketing at 2026 Web Excellence Awards](https://dev.to/mabualzait/3-new-web-dev-wins-for-the-loop-marketing-at-2026-web-excellence-awards-h4n)** - Jan 21, 2026
+4. **[Kicking Off 2026: Expert Analysis & Predictions for the World Cup](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-predictions-for-the-world-cup-2ncb)** - Jan 20, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
