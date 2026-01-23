@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Building Blocks of Code: Mobile Powers Affordable Housing Project with $22M I...](https://dev.to/mabualzait/building-blocks-of-code-mobile-powers-affordable-housing-project-with-22m-i-8i6)** - Jan 21, 2026
-2. **[Code Your Own Debugger: How AI Can Automate Error Tracking](https://dev.to/mabualzait/code-your-own-debugger-how-ai-can-automate-error-tracking-5djp)** - Jan 21, 2026
-3. **[3 New Web Dev Wins for The Loop Marketing at 2026 Web Excellence Awards](https://dev.to/mabualzait/3-new-web-dev-wins-for-the-loop-marketing-at-2026-web-excellence-awards-h4n)** - Jan 21, 2026
-4. **[Kicking Off 2026: Expert Analysis & Predictions for the World Cup](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-predictions-for-the-world-cup-2ncb)** - Jan 20, 2026
+1. **[Streaming Smarter with Flink: Powering Next-Gen AI Pipelines](https://dev.to/mabualzait/streaming-smarter-with-flink-powering-next-gen-ai-pipelines-55d5)** - Jan 22, 2026
+2. **[Cracking the Code of DNA Computing: Move Machines with Programming](https://dev.to/mabualzait/cracking-the-code-of-dna-computing-move-machines-with-programming-khm)** - Jan 22, 2026
+3. **[World Cup 2026: The Ultimate Tournament Breakdown](https://dev.to/mabualzait/world-cup-2026-the-ultimate-tournament-breakdown-293i)** - Jan 21, 2026
+4. **[Building Blocks of Code: Mobile Powers Affordable Housing Project with $22M I...](https://dev.to/mabualzait/building-blocks-of-code-mobile-powers-affordable-housing-project-with-22m-i-8i6)** - Jan 21, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
