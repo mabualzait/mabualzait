@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Streaming Smarter with Flink: Powering Next-Gen AI Pipelines](https://dev.to/mabualzait/streaming-smarter-with-flink-powering-next-gen-ai-pipelines-55d5)** - Jan 22, 2026
-2. **[Cracking the Code of DNA Computing: Move Machines with Programming](https://dev.to/mabualzait/cracking-the-code-of-dna-computing-move-machines-with-programming-khm)** - Jan 22, 2026
-3. **[World Cup 2026: The Ultimate Tournament Breakdown](https://dev.to/mabualzait/world-cup-2026-the-ultimate-tournament-breakdown-293i)** - Jan 21, 2026
-4. **[Building Blocks of Code: Mobile Powers Affordable Housing Project with $22M I...](https://dev.to/mabualzait/building-blocks-of-code-mobile-powers-affordable-housing-project-with-22m-i-8i6)** - Jan 21, 2026
+1. **[Kicking Off: 2026 World Cup Predictions & Analysis](https://dev.to/mabualzait/kicking-off-2026-world-cup-predictions-analysis-17f2)** - Feb 01, 2026
+2. **[Code Ignition: Firing Up Intelligent Systems](https://dev.to/mabualzait/code-ignition-firing-up-intelligent-systems-45mm)** - Feb 01, 2026
+3. **[AI Agents in Action: How BigID Secures Data Governance with Intelligent Autom...](https://dev.to/mabualzait/ai-agents-in-action-how-bigid-secures-data-governance-with-intelligent-autom-3nbp)** - Feb 01, 2026
+4. **[Breaking the DevOps Cycle: Mastering Continuous Improvement](https://dev.to/mabualzait/breaking-the-devops-cycle-mastering-continuous-improvement-4mla)** - Feb 01, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
