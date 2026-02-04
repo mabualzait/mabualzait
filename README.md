@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Kicking Off: 2026 World Cup Predictions & Analysis](https://dev.to/mabualzait/kicking-off-2026-world-cup-predictions-analysis-17f2)** - Feb 01, 2026
-2. **[Code Ignition: Firing Up Intelligent Systems](https://dev.to/mabualzait/code-ignition-firing-up-intelligent-systems-45mm)** - Feb 01, 2026
-3. **[AI Agents in Action: How BigID Secures Data Governance with Intelligent Autom...](https://dev.to/mabualzait/ai-agents-in-action-how-bigid-secures-data-governance-with-intelligent-autom-3nbp)** - Feb 01, 2026
-4. **[Breaking the DevOps Cycle: Mastering Continuous Improvement](https://dev.to/mabualzait/breaking-the-devops-cycle-mastering-continuous-improvement-4mla)** - Feb 01, 2026
+1. **[Scaling Video Encoding with Edge AI Power](https://dev.to/mabualzait/scaling-video-encoding-with-edge-ai-power-59p3)** - Feb 04, 2026
+2. **[Scoring Big on World Cup 2026: What to Expect](https://dev.to/mabualzait/scoring-big-on-world-cup-2026-what-to-expect-cpk)** - Feb 03, 2026
+3. **[Unlocking E-commerce with Google UCP: A Dev's Comprehensive Guide](https://dev.to/mabualzait/unlocking-e-commerce-with-google-ucp-a-devs-comprehensive-guide-545c)** - Feb 03, 2026
+4. **[Kicking Off 2026: World Cup Predictions and Analysis](https://dev.to/mabualzait/kicking-off-2026-world-cup-predictions-and-analysis-521c)** - Feb 02, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
