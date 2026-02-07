@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Scaling Video Encoding with Edge AI Power](https://dev.to/mabualzait/scaling-video-encoding-with-edge-ai-power-59p3)** - Feb 04, 2026
-2. **[Scoring Big on World Cup 2026: What to Expect](https://dev.to/mabualzait/scoring-big-on-world-cup-2026-what-to-expect-cpk)** - Feb 03, 2026
-3. **[Unlocking E-commerce with Google UCP: A Dev's Comprehensive Guide](https://dev.to/mabualzait/unlocking-e-commerce-with-google-ucp-a-devs-comprehensive-guide-545c)** - Feb 03, 2026
-4. **[Kicking Off 2026: World Cup Predictions and Analysis](https://dev.to/mabualzait/kicking-off-2026-world-cup-predictions-and-analysis-521c)** - Feb 02, 2026
+1. **[Kicking Off 2026: The Ultimate World Cup Preview](https://dev.to/mabualzait/kicking-off-2026-the-ultimate-world-cup-preview-4ce9)** - Feb 06, 2026
+2. **[Scaling AI Systems: Key Principles for Success](https://dev.to/mabualzait/scaling-ai-systems-key-principles-for-success-1e8b)** - Feb 06, 2026
+3. **[Kicking Off: Expert Analysis for WC 2026](https://dev.to/mabualzait/kicking-off-expert-analysis-for-wc-2026-5a2f)** - Feb 05, 2026
+4. **[Economist's Tech Internship: Where Econ Meets Code](https://dev.to/mabualzait/economists-tech-internship-where-econ-meets-code-28go)** - Feb 05, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
