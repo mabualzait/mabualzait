@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Kicking Off 2026: World Cup Predictions & Trends](https://dev.to/mabualzait/kicking-off-2026-world-cup-predictions-trends-2ji7)** - Feb 08, 2026
-2. **[Igniting AI with Neural Sparks](https://dev.to/mabualzait/igniting-ai-with-neural-sparks-39bd)** - Feb 08, 2026
-3. **[Decoding the Future: A Guide to 8 Cutting-Edge AI Architectures](https://dev.to/mabualzait/decoding-the-future-a-guide-to-8-cutting-edge-ai-architectures-20g5)** - Feb 08, 2026
-4. **[Predicting Glory: Top Trends for World Cup 2026](https://dev.to/mabualzait/predicting-glory-top-trends-for-world-cup-2026-4ijg)** - Feb 07, 2026
+1. **[Kicking Off 2026: Expert Analysis for the World's Biggest Stage](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-for-the-worlds-biggest-stage-210f)** - Feb 10, 2026
+2. **[Code with Context: The Missing Ingredient in AI Development](https://dev.to/mabualzait/code-with-context-the-missing-ingredient-in-ai-development-29g4)** - Feb 10, 2026
+3. **[Predicting the Perfect Pitch: World Cup 2026 Breakdowns](https://dev.to/mabualzait/predicting-the-perfect-pitch-world-cup-2026-breakdowns-1nh)** - Feb 09, 2026
+4. **[Kicking Off 2026: World Cup Predictions & Trends](https://dev.to/mabualzait/kicking-off-2026-world-cup-predictions-trends-2ji7)** - Feb 08, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
