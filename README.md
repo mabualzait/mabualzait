@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Kicking Off 2026: Expert Analysis for the World's Biggest Stage](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-for-the-worlds-biggest-stage-210f)** - Feb 10, 2026
-2. **[Code with Context: The Missing Ingredient in AI Development](https://dev.to/mabualzait/code-with-context-the-missing-ingredient-in-ai-development-29g4)** - Feb 10, 2026
-3. **[Predicting the Perfect Pitch: World Cup 2026 Breakdowns](https://dev.to/mabualzait/predicting-the-perfect-pitch-world-cup-2026-breakdowns-1nh)** - Feb 09, 2026
-4. **[Kicking Off 2026: World Cup Predictions & Trends](https://dev.to/mabualzait/kicking-off-2026-world-cup-predictions-trends-2ji7)** - Feb 08, 2026
+1. **[Becoming AI-Literate: A Step-by-Step Guide for Developers](https://dev.to/mabualzait/becoming-ai-literate-a-step-by-step-guide-for-developers-4c86)** - Feb 13, 2026
+2. **[Kicking Off 2026: Exclusive World Cup Analysis & Predictions](https://dev.to/mabualzait/kicking-off-2026-exclusive-world-cup-analysis-predictions-16mp)** - Feb 12, 2026
+3. **[Cracking the Code with AI: A Developer's Guide to Harnessing Power](https://dev.to/mabualzait/cracking-the-code-with-ai-a-developers-guide-to-harnessing-power-g5b)** - Feb 12, 2026
+4. **[Cloud Giants Clash: Who's Really Leading the Pack?](https://dev.to/mabualzait/cloud-giants-clash-whos-really-leading-the-pack-3ki8)** - Feb 12, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
