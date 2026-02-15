@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Becoming AI-Literate: A Step-by-Step Guide for Developers](https://dev.to/mabualzait/becoming-ai-literate-a-step-by-step-guide-for-developers-4c86)** - Feb 13, 2026
-2. **[Kicking Off 2026: Exclusive World Cup Analysis & Predictions](https://dev.to/mabualzait/kicking-off-2026-exclusive-world-cup-analysis-predictions-16mp)** - Feb 12, 2026
-3. **[Cracking the Code with AI: A Developer's Guide to Harnessing Power](https://dev.to/mabualzait/cracking-the-code-with-ai-a-developers-guide-to-harnessing-power-g5b)** - Feb 12, 2026
-4. **[Cloud Giants Clash: Who's Really Leading the Pack?](https://dev.to/mabualzait/cloud-giants-clash-whos-really-leading-the-pack-3ki8)** - Feb 12, 2026
+1. **[Unleashing Efficiency in Mobile App Dev: A Step-by-Step Framework](https://dev.to/mabualzait/unleashing-efficiency-in-mobile-app-dev-a-step-by-step-framework-4n0b)** - Feb 15, 2026
+2. **[Unlocking AI's Secret Life: From LLMs to Truly Smart Systems](https://dev.to/mabualzait/unlocking-ais-secret-life-from-llms-to-truly-smart-systems-39c)** - Feb 14, 2026
+3. **[Kicking Off with a Boost: How Friendlies Inform World Cup Success](https://dev.to/mabualzait/kicking-off-with-a-boost-how-friendlies-inform-world-cup-success-25c2)** - Feb 13, 2026
+4. **[Becoming AI-Literate: A Step-by-Step Guide for Developers](https://dev.to/mabualzait/becoming-ai-literate-a-step-by-step-guide-for-developers-4c86)** - Feb 13, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
