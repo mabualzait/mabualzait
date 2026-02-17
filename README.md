@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Unleashing Efficiency in Mobile App Dev: A Step-by-Step Framework](https://dev.to/mabualzait/unleashing-efficiency-in-mobile-app-dev-a-step-by-step-framework-4n0b)** - Feb 15, 2026
-2. **[Unlocking AI's Secret Life: From LLMs to Truly Smart Systems](https://dev.to/mabualzait/unlocking-ais-secret-life-from-llms-to-truly-smart-systems-39c)** - Feb 14, 2026
-3. **[Kicking Off with a Boost: How Friendlies Inform World Cup Success](https://dev.to/mabualzait/kicking-off-with-a-boost-how-friendlies-inform-world-cup-success-25c2)** - Feb 13, 2026
-4. **[Becoming AI-Literate: A Step-by-Step Guide for Developers](https://dev.to/mabualzait/becoming-ai-literate-a-step-by-step-guide-for-developers-4c86)** - Feb 13, 2026
+1. **[AI's Dirty Secret: When Less is Actually More](https://dev.to/mabualzait/ais-dirty-secret-when-less-is-actually-more-5c8k)** - Feb 17, 2026
+2. **[Kicking Off 2026: Expert Analysis & Predictions for the Next World Cup Frenzy](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-predictions-for-the-next-world-cup-frenzy-4o)** - Feb 16, 2026
+3. **[World Cup 2026: Unlocking the Future of Football](https://dev.to/mabualzait/world-cup-2026-unlocking-the-future-of-football-5e3p)** - Feb 15, 2026
+4. **[Injecting AI into Your Codebase](https://dev.to/mabualzait/injecting-ai-into-your-codebase-15al)** - Feb 15, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
