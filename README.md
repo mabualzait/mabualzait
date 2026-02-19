@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[AI's Dirty Secret: When Less is Actually More](https://dev.to/mabualzait/ais-dirty-secret-when-less-is-actually-more-5c8k)** - Feb 17, 2026
-2. **[Kicking Off 2026: Expert Analysis & Predictions for the Next World Cup Frenzy](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-predictions-for-the-next-world-cup-frenzy-4o)** - Feb 16, 2026
-3. **[World Cup 2026: Unlocking the Future of Football](https://dev.to/mabualzait/world-cup-2026-unlocking-the-future-of-football-5e3p)** - Feb 15, 2026
-4. **[Injecting AI into Your Codebase](https://dev.to/mabualzait/injecting-ai-into-your-codebase-15al)** - Feb 15, 2026
+1. **[Modi on Mission: Bringing Inclusive Tech to All at AI Impact Summit](https://dev.to/mabualzait/modi-on-mission-bringing-inclusive-tech-to-all-at-ai-impact-summit-fln)** - Feb 19, 2026
+2. **[Unlocking the Power of Gemini 3 with Code](https://dev.to/mabualzait/unlocking-the-power-of-gemini-3-with-code-120f)** - Feb 19, 2026
+3. **[Kicking Off '26: Your Expert Guide to World Cup Predictions & Analysis](https://dev.to/mabualzait/kicking-off-26-your-expert-guide-to-world-cup-predictions-analysis-4ahe)** - Feb 18, 2026
+4. **[Your AI is Judging You: The Dark Side of Human-in-the-Loop](https://dev.to/mabualzait/your-ai-is-judging-you-the-dark-side-of-human-in-the-loop-28a5)** - Feb 18, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
