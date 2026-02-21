@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Modi on Mission: Bringing Inclusive Tech to All at AI Impact Summit](https://dev.to/mabualzait/modi-on-mission-bringing-inclusive-tech-to-all-at-ai-impact-summit-fln)** - Feb 19, 2026
-2. **[Unlocking the Power of Gemini 3 with Code](https://dev.to/mabualzait/unlocking-the-power-of-gemini-3-with-code-120f)** - Feb 19, 2026
-3. **[Kicking Off '26: Your Expert Guide to World Cup Predictions & Analysis](https://dev.to/mabualzait/kicking-off-26-your-expert-guide-to-world-cup-predictions-analysis-4ahe)** - Feb 18, 2026
-4. **[Your AI is Judging You: The Dark Side of Human-in-the-Loop](https://dev.to/mabualzait/your-ai-is-judging-you-the-dark-side-of-human-in-the-loop-28a5)** - Feb 18, 2026
+1. **[Revolutionizing Git with Model-Driven Development](https://dev.to/mabualzait/revolutionizing-git-with-model-driven-development-3jo6)** - Feb 21, 2026
+2. **[Unlocking World Cup 2026 Secrets and Strategies](https://dev.to/mabualzait/unlocking-world-cup-2026-secrets-and-strategies-3e4k)** - Feb 20, 2026
+3. **[Building Scalable Agentic AI with Code: Part 2](https://dev.to/mabualzait/building-scalable-agentic-ai-with-code-part-2-3ip8)** - Feb 20, 2026
+4. **[Cracking the Code: Super 8's Secret to World Cup Glory](https://dev.to/mabualzait/cracking-the-code-super-8s-secret-to-world-cup-glory-ljd)** - Feb 19, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
