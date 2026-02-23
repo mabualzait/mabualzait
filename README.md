@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Revolutionizing Git with Model-Driven Development](https://dev.to/mabualzait/revolutionizing-git-with-model-driven-development-3jo6)** - Feb 21, 2026
-2. **[Unlocking World Cup 2026 Secrets and Strategies](https://dev.to/mabualzait/unlocking-world-cup-2026-secrets-and-strategies-3e4k)** - Feb 20, 2026
-3. **[Building Scalable Agentic AI with Code: Part 2](https://dev.to/mabualzait/building-scalable-agentic-ai-with-code-part-2-3ip8)** - Feb 20, 2026
-4. **[Cracking the Code: Super 8's Secret to World Cup Glory](https://dev.to/mabualzait/cracking-the-code-super-8s-secret-to-world-cup-glory-ljd)** - Feb 19, 2026
+1. **[Kicking Off 2026: Expert Analysis & Predictions for the Next World Cup Showdown](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-predictions-for-the-next-world-cup-showdown-p4n)** - Feb 22, 2026
+2. **[Injecting AI into Your Codebase](https://dev.to/mabualzait/injecting-ai-into-your-codebase-149)** - Feb 22, 2026
+3. **[FCC Taps into Nationalism with New Pro-American Coding Initiative](https://dev.to/mabualzait/fcc-taps-into-nationalism-with-new-pro-american-coding-initiative-21e3)** - Feb 22, 2026
+4. **[Cracking the Code: World Cup 2026 Predictions & Trends](https://dev.to/mabualzait/cracking-the-code-world-cup-2026-predictions-trends-3llh)** - Feb 21, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
