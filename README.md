@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Kicking Off 2026: Expert Analysis & Predictions for the Next World Cup Showdown](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-predictions-for-the-next-world-cup-showdown-p4n)** - Feb 22, 2026
-2. **[Injecting AI into Your Codebase](https://dev.to/mabualzait/injecting-ai-into-your-codebase-149)** - Feb 22, 2026
-3. **[FCC Taps into Nationalism with New Pro-American Coding Initiative](https://dev.to/mabualzait/fcc-taps-into-nationalism-with-new-pro-american-coding-initiative-21e3)** - Feb 22, 2026
-4. **[Cracking the Code: World Cup 2026 Predictions & Trends](https://dev.to/mabualzait/cracking-the-code-world-cup-2026-predictions-trends-3llh)** - Feb 21, 2026
+1. **[Build a Smarter App with AI-Powered Chatbots in 5 Easy Steps](https://dev.to/mabualzait/build-a-smarter-app-with-ai-powered-chatbots-in-5-easy-steps-3oh)** - Feb 25, 2026
+2. **[Kicking Off the Future: 2026 World Cup Predictions & Analysis](https://dev.to/mabualzait/kicking-off-the-future-2026-world-cup-predictions-analysis-1ib0)** - Feb 24, 2026
+3. **[Phi vs Azure SLM: A Deep Dive into Azure's AI Optimizer](https://dev.to/mabualzait/phi-vs-azure-slm-a-deep-dive-into-azures-ai-optimizer-2ih9)** - Feb 24, 2026
+4. **[Squaring Up for '26: Expert Analysis on World Cup Favorites](https://dev.to/mabualzait/squaring-up-for-26-expert-analysis-on-world-cup-favorites-468a)** - Feb 23, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
