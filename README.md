@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Build a Smarter App with AI-Powered Chatbots in 5 Easy Steps](https://dev.to/mabualzait/build-a-smarter-app-with-ai-powered-chatbots-in-5-easy-steps-3oh)** - Feb 25, 2026
-2. **[Kicking Off the Future: 2026 World Cup Predictions & Analysis](https://dev.to/mabualzait/kicking-off-the-future-2026-world-cup-predictions-analysis-1ib0)** - Feb 24, 2026
-3. **[Phi vs Azure SLM: A Deep Dive into Azure's AI Optimizer](https://dev.to/mabualzait/phi-vs-azure-slm-a-deep-dive-into-azures-ai-optimizer-2ih9)** - Feb 24, 2026
-4. **[Squaring Up for '26: Expert Analysis on World Cup Favorites](https://dev.to/mabualzait/squaring-up-for-26-expert-analysis-on-world-cup-favorites-468a)** - Feb 23, 2026
+1. **[GenAI Showdown: AWS Bedrock vs SageMaker - Which One Reigns Supreme?](https://dev.to/mabualzait/genai-showdown-aws-bedrock-vs-sagemaker-which-one-reigns-supreme-3bie)** - Feb 27, 2026
+2. **[Kicking Off 2026: World Cup Predictions & Insights](https://dev.to/mabualzait/kicking-off-2026-world-cup-predictions-insights-11k3)** - Feb 26, 2026
+3. **[Hegseth Cranks Up the Heat on Anthropic: Demands Access to Cutting-Edge AI Tech](https://dev.to/mabualzait/hegseth-cranks-up-the-heat-on-anthropic-demands-access-to-cutting-edge-ai-tech-3e2f)** - Feb 26, 2026
+4. **[Unleashing Smart Search: How AI Translates Queries into Actionable Insights](https://dev.to/mabualzait/unleashing-smart-search-how-ai-translates-queries-into-actionable-insights-1d60)** - Feb 26, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
