@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[GenAI Showdown: AWS Bedrock vs SageMaker - Which One Reigns Supreme?](https://dev.to/mabualzait/genai-showdown-aws-bedrock-vs-sagemaker-which-one-reigns-supreme-3bie)** - Feb 27, 2026
-2. **[Kicking Off 2026: World Cup Predictions & Insights](https://dev.to/mabualzait/kicking-off-2026-world-cup-predictions-insights-11k3)** - Feb 26, 2026
-3. **[Hegseth Cranks Up the Heat on Anthropic: Demands Access to Cutting-Edge AI Tech](https://dev.to/mabualzait/hegseth-cranks-up-the-heat-on-anthropic-demands-access-to-cutting-edge-ai-tech-3e2f)** - Feb 26, 2026
-4. **[Unleashing Smart Search: How AI Translates Queries into Actionable Insights](https://dev.to/mabualzait/unleashing-smart-search-how-ai-translates-queries-into-actionable-insights-1d60)** - Feb 26, 2026
+1. **[Amazon Invests Big in OpenAI: What It Means for Cloud AI Adoption](https://dev.to/mabualzait/amazon-invests-big-in-openai-what-it-means-for-cloud-ai-adoption-7cb)** - Mar 01, 2026
+2. **[Kicking Off 2026: Expert Analysis from the World Cup Pitch](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-from-the-world-cup-pitch-2m4b)** - Feb 28, 2026
+3. **[Unlocking AWS AI Potential with the Well Framework](https://dev.to/mabualzait/unlocking-aws-ai-potential-with-the-well-framework-4h7m)** - Feb 28, 2026
+4. **[Kicking Off 2026: Expert Analysis & Predictions for the Ultimate Showdown](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-predictions-for-the-ultimate-showdown-42mc)** - Feb 27, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
