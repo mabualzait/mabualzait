@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Amazon Invests Big in OpenAI: What It Means for Cloud AI Adoption](https://dev.to/mabualzait/amazon-invests-big-in-openai-what-it-means-for-cloud-ai-adoption-7cb)** - Mar 01, 2026
-2. **[Kicking Off 2026: Expert Analysis from the World Cup Pitch](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-from-the-world-cup-pitch-2m4b)** - Feb 28, 2026
-3. **[Unlocking AWS AI Potential with the Well Framework](https://dev.to/mabualzait/unlocking-aws-ai-potential-with-the-well-framework-4h7m)** - Feb 28, 2026
-4. **[Kicking Off 2026: Expert Analysis & Predictions for the Ultimate Showdown](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-predictions-for-the-ultimate-showdown-42mc)** - Feb 27, 2026
+1. **[Empowering Dev Teams with AI-Driven Collaboration](https://dev.to/mabualzait/empowering-dev-teams-with-ai-driven-collaboration-1l6h)** - Mar 10, 2026
+2. **[Kicking Off 2026: World Cup Predictions & Trends](https://dev.to/mabualzait/kicking-off-2026-world-cup-predictions-trends-32p8)** - Mar 09, 2026
+3. **[AI-Powered Testing: Revolutionizing Your Test Suites with LLM Autonomy](https://dev.to/mabualzait/ai-powered-testing-revolutionizing-your-test-suites-with-llm-autonomy-5c4b)** - Mar 09, 2026
+4. **[Code Unplugged: Top Laptops for Remote Devs](https://dev.to/mabualzait/code-unplugged-top-laptops-for-remote-devs-49h3)** - Mar 09, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
