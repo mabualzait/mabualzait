@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Empowering Dev Teams with AI-Driven Collaboration](https://dev.to/mabualzait/empowering-dev-teams-with-ai-driven-collaboration-1l6h)** - Mar 10, 2026
-2. **[Kicking Off 2026: World Cup Predictions & Trends](https://dev.to/mabualzait/kicking-off-2026-world-cup-predictions-trends-32p8)** - Mar 09, 2026
-3. **[AI-Powered Testing: Revolutionizing Your Test Suites with LLM Autonomy](https://dev.to/mabualzait/ai-powered-testing-revolutionizing-your-test-suites-with-llm-autonomy-5c4b)** - Mar 09, 2026
-4. **[Code Unplugged: Top Laptops for Remote Devs](https://dev.to/mabualzait/code-unplugged-top-laptops-for-remote-devs-49h3)** - Mar 09, 2026
+1. **[NCsoft Dives into Mobile with 70% Stake in JustPlay Acquisition](https://dev.to/mabualzait/ncsoft-dives-into-mobile-with-70-stake-in-justplay-acquisition-5anc)** - Mar 12, 2026
+2. **[Building AI Pipelines with DataFlow - The Open Source Framework](https://dev.to/mabualzait/building-ai-pipelines-with-dataflow-the-open-source-framework-2c7a)** - Mar 12, 2026
+3. **[Kicking Off 2026: Expert Analysis for World Cup Victory](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-for-world-cup-victory-5873)** - Mar 11, 2026
+4. **[Code Smarts Meet AI: Revolutionizing the Dev Cycle](https://dev.to/mabualzait/code-smarts-meet-ai-revolutionizing-the-dev-cycle-58ab)** - Mar 11, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
