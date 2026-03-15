@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[NCsoft Dives into Mobile with 70% Stake in JustPlay Acquisition](https://dev.to/mabualzait/ncsoft-dives-into-mobile-with-70-stake-in-justplay-acquisition-5anc)** - Mar 12, 2026
-2. **[Building AI Pipelines with DataFlow - The Open Source Framework](https://dev.to/mabualzait/building-ai-pipelines-with-dataflow-the-open-source-framework-2c7a)** - Mar 12, 2026
-3. **[Kicking Off 2026: Expert Analysis for World Cup Victory](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-for-world-cup-victory-5873)** - Mar 11, 2026
-4. **[Code Smarts Meet AI: Revolutionizing the Dev Cycle](https://dev.to/mabualzait/code-smarts-meet-ai-revolutionizing-the-dev-cycle-58ab)** - Mar 11, 2026
+1. **[Scoring Big: World Cup 2026 Predictions & Analysis](https://dev.to/mabualzait/scoring-big-world-cup-2026-predictions-analysis-4f52)** - Mar 14, 2026
+2. **[Building Chatbots That Actually Understand](https://dev.to/mabualzait/building-chatbots-that-actually-understand-32bn)** - Mar 14, 2026
+3. **[Kicking Off 2026: Expert Analysis & Predictions for the World Cup](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-predictions-for-the-world-cup-1h92)** - Mar 13, 2026
+4. **[Unlocking the Power of Google Cloud's Gemini 3: Multifaceted AI Agents at You...](https://dev.to/mabualzait/unlocking-the-power-of-google-clouds-gemini-3-multifaceted-ai-agents-at-you-4k1l)** - Mar 13, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
