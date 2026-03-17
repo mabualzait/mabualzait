@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Scoring Big: World Cup 2026 Predictions & Analysis](https://dev.to/mabualzait/scoring-big-world-cup-2026-predictions-analysis-4f52)** - Mar 14, 2026
-2. **[Building Chatbots That Actually Understand](https://dev.to/mabualzait/building-chatbots-that-actually-understand-32bn)** - Mar 14, 2026
-3. **[Kicking Off 2026: Expert Analysis & Predictions for the World Cup](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-predictions-for-the-world-cup-1h92)** - Mar 13, 2026
-4. **[Unlocking the Power of Google Cloud's Gemini 3: Multifaceted AI Agents at You...](https://dev.to/mabualzait/unlocking-the-power-of-google-clouds-gemini-3-multifaceted-ai-agents-at-you-4k1l)** - Mar 13, 2026
+1. **[Unlocking Large Language Models with LaunchDarkly & Vercel's AI Gateway](https://dev.to/mabualzait/unlocking-large-language-models-with-launchdarkly-vercels-ai-gateway-2hpb)** - Mar 17, 2026
+2. **[**World Cup 2026: Unlocking the Path to Glory with Team Performance Insights**](https://dev.to/mabualzait/world-cup-2026-unlocking-the-path-to-glory-with-team-performance-insights-1hd1)** - Mar 16, 2026
+3. **[Kicking Off the Decade: World Cup 2026 Predictions & Analysis](https://dev.to/mabualzait/kicking-off-the-decade-world-cup-2026-predictions-analysis-cp)** - Mar 15, 2026
+4. **[Spark Ignition: Firing Up AI with Machine Learning](https://dev.to/mabualzait/spark-ignition-firing-up-ai-with-machine-learning-3kef)** - Mar 15, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
