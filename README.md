@@ -66,10 +66,7 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 🚀 Future Forem Articles
 
 <!-- FUTURE-POST-LIST:START -->
-1. **[DeSantis Declares War on AI: 'Rejecting the Unthinkable'](https://future.forem.com/mabualzait/desantis-declares-war-on-ai-rejecting-the-unthinkable-34nh)** - Dec 29, 2025
-2. **[China Boosts Hard Tech Investing with Venture Capital Funds Launch](https://future.forem.com/mabualzait/china-boosts-hard-tech-investing-with-venture-capital-funds-launch-2gmb)** - Dec 27, 2025
-3. **[AI Pioneer Warns Mass Unemployment Ahead Despite Bill & Elon's Optimism](https://future.forem.com/mabualzait/ai-pioneer-warns-mass-unemployment-ahead-despite-bill-elons-optimism-20n6)** - Dec 05, 2025
-4. **[Machine Learning Boosts Rockets: AI Propels Space Travel Forward with Nuclear...](https://future.forem.com/mabualzait/machine-learning-boosts-rockets-ai-propels-space-travel-forward-with-nuclear-3o19)** - Nov 29, 2025
+**No recent Future Forem articles found** - Check back soon for new content!
 <!-- FUTURE-POST-LIST:END -->
 
 <div align="center">
