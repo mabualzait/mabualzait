@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Unlocking Large Language Models with LaunchDarkly & Vercel's AI Gateway](https://dev.to/mabualzait/unlocking-large-language-models-with-launchdarkly-vercels-ai-gateway-2hpb)** - Mar 17, 2026
-2. **[**World Cup 2026: Unlocking the Path to Glory with Team Performance Insights**](https://dev.to/mabualzait/world-cup-2026-unlocking-the-path-to-glory-with-team-performance-insights-1hd1)** - Mar 16, 2026
-3. **[Kicking Off the Decade: World Cup 2026 Predictions & Analysis](https://dev.to/mabualzait/kicking-off-the-decade-world-cup-2026-predictions-analysis-cp)** - Mar 15, 2026
-4. **[Spark Ignition: Firing Up AI with Machine Learning](https://dev.to/mabualzait/spark-ignition-firing-up-ai-with-machine-learning-3kef)** - Mar 15, 2026
+1. **[Decoupling Cables: MediaTek & Microsoft Unleash Next-Gen Data Center Efficiency](https://dev.to/mabualzait/decoupling-cables-mediatek-microsoft-unleash-next-gen-data-center-efficiency-2i88)** - Mar 19, 2026
+2. **[From Zero to Hero: Building Intelligent Systems from Scratch](https://dev.to/mabualzait/from-zero-to-hero-building-intelligent-systems-from-scratch-d0g)** - Mar 19, 2026
+3. **[Unpacking the Drama: 2026 World Cup Predictions & Analysis](https://dev.to/mabualzait/unpacking-the-drama-2026-world-cup-predictions-analysis-1hcj)** - Mar 18, 2026
+4. **[Code Your AI Superpower: Building a Robust Framework from Scratch](https://dev.to/mabualzait/code-your-ai-superpower-building-a-robust-framework-from-scratch-1mh9)** - Mar 18, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
