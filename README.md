@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Decoupling Cables: MediaTek & Microsoft Unleash Next-Gen Data Center Efficiency](https://dev.to/mabualzait/decoupling-cables-mediatek-microsoft-unleash-next-gen-data-center-efficiency-2i88)** - Mar 19, 2026
-2. **[From Zero to Hero: Building Intelligent Systems from Scratch](https://dev.to/mabualzait/from-zero-to-hero-building-intelligent-systems-from-scratch-d0g)** - Mar 19, 2026
-3. **[Unpacking the Drama: 2026 World Cup Predictions & Analysis](https://dev.to/mabualzait/unpacking-the-drama-2026-world-cup-predictions-analysis-1hcj)** - Mar 18, 2026
-4. **[Code Your AI Superpower: Building a Robust Framework from Scratch](https://dev.to/mabualzait/code-your-ai-superpower-building-a-robust-framework-from-scratch-1mh9)** - Mar 18, 2026
+1. **[Unpacking the WC26 Squads: The Road to Glory Begins](https://dev.to/mabualzait/unpacking-the-wc26-squads-the-road-to-glory-begins-1idl)** - Mar 21, 2026
+2. **[Beyond Demos: Separating Hype from Reality in GenAI Development](https://dev.to/mabualzait/beyond-demos-separating-hype-from-reality-in-genai-development-3bl9)** - Mar 21, 2026
+3. **[Will Big Teams Struggle to Adapt at World Cup 2026?](https://dev.to/mabualzait/will-big-teams-struggle-to-adapt-at-world-cup-2026-29d6)** - Mar 20, 2026
+4. **[Beyond Scans: Hardening AI-Powered Server Infrastructure](https://dev.to/mabualzait/beyond-scans-hardening-ai-powered-server-infrastructure-25od)** - Mar 20, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
