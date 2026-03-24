@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Unpacking the WC26 Squads: The Road to Glory Begins](https://dev.to/mabualzait/unpacking-the-wc26-squads-the-road-to-glory-begins-1idl)** - Mar 21, 2026
-2. **[Beyond Demos: Separating Hype from Reality in GenAI Development](https://dev.to/mabualzait/beyond-demos-separating-hype-from-reality-in-genai-development-3bl9)** - Mar 21, 2026
-3. **[Will Big Teams Struggle to Adapt at World Cup 2026?](https://dev.to/mabualzait/will-big-teams-struggle-to-adapt-at-world-cup-2026-29d6)** - Mar 20, 2026
-4. **[Beyond Scans: Hardening AI-Powered Server Infrastructure](https://dev.to/mabualzait/beyond-scans-hardening-ai-powered-server-infrastructure-25od)** - Mar 20, 2026
+1. **[AI Supercharge Your Code with Intelligent Agents Inside](https://dev.to/mabualzait/ai-supercharge-your-code-with-intelligent-agents-inside-apm)** - Mar 24, 2026
+2. **[Cracking the Code: Expert Analysis for World Cup 2026 Success](https://dev.to/mabualzait/cracking-the-code-expert-analysis-for-world-cup-2026-success-19e4)** - Mar 23, 2026
+3. **[Kicking Off '26: Predictions & Surprises from the World's Top Stage](https://dev.to/mabualzait/kicking-off-26-predictions-surprises-from-the-worlds-top-stage-kf)** - Mar 22, 2026
+4. **[Flames of Code: Igniting AI-Driven Development](https://dev.to/mabualzait/flames-of-code-igniting-ai-driven-development-4fff)** - Mar 22, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
