@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[AI Supercharge Your Code with Intelligent Agents Inside](https://dev.to/mabualzait/ai-supercharge-your-code-with-intelligent-agents-inside-apm)** - Mar 24, 2026
-2. **[Cracking the Code: Expert Analysis for World Cup 2026 Success](https://dev.to/mabualzait/cracking-the-code-expert-analysis-for-world-cup-2026-success-19e4)** - Mar 23, 2026
-3. **[Kicking Off '26: Predictions & Surprises from the World's Top Stage](https://dev.to/mabualzait/kicking-off-26-predictions-surprises-from-the-worlds-top-stage-kf)** - Mar 22, 2026
-4. **[Flames of Code: Igniting AI-Driven Development](https://dev.to/mabualzait/flames-of-code-igniting-ai-driven-development-4fff)** - Mar 22, 2026
+1. **[Elevating Your Models: Beyond Lift-and-Shrink in AI Development](https://dev.to/mabualzait/elevating-your-models-beyond-lift-and-shrink-in-ai-development-4m71)** - Mar 26, 2026
+2. **[Kicking Off '26: Expert Analysis & Predictions for the World Cup](https://dev.to/mabualzait/kicking-off-26-expert-analysis-predictions-for-the-world-cup-13e4)** - Mar 25, 2026
+3. **[Building Your Own Personal AI Assistant from Scratch](https://dev.to/mabualzait/building-your-own-personal-ai-assistant-from-scratch-344f)** - Mar 25, 2026
+4. **[Kicking Off World Cup 2026: Expert Analysis & Predictions](https://dev.to/mabualzait/kicking-off-world-cup-2026-expert-analysis-predictions-23kh)** - Mar 24, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
