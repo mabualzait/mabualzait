@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Elevating Your Models: Beyond Lift-and-Shrink in AI Development](https://dev.to/mabualzait/elevating-your-models-beyond-lift-and-shrink-in-ai-development-4m71)** - Mar 26, 2026
-2. **[Kicking Off '26: Expert Analysis & Predictions for the World Cup](https://dev.to/mabualzait/kicking-off-26-expert-analysis-predictions-for-the-world-cup-13e4)** - Mar 25, 2026
-3. **[Building Your Own Personal AI Assistant from Scratch](https://dev.to/mabualzait/building-your-own-personal-ai-assistant-from-scratch-344f)** - Mar 25, 2026
-4. **[Kicking Off World Cup 2026: Expert Analysis & Predictions](https://dev.to/mabualzait/kicking-off-world-cup-2026-expert-analysis-predictions-23kh)** - Mar 24, 2026
+1. **[Streamline Long-Running Apps with Design-Driven DevOps](https://dev.to/mabualzait/streamline-long-running-apps-with-design-driven-devops-4p5b)** - Mar 26, 2026
+2. **[Elevating Your Models: Beyond Lift-and-Shrink in AI Development](https://dev.to/mabualzait/elevating-your-models-beyond-lift-and-shrink-in-ai-development-4m71)** - Mar 26, 2026
+3. **[Kicking Off '26: Expert Analysis & Predictions for the World Cup](https://dev.to/mabualzait/kicking-off-26-expert-analysis-predictions-for-the-world-cup-13e4)** - Mar 25, 2026
+4. **[Building Your Own Personal AI Assistant from Scratch](https://dev.to/mabualzait/building-your-own-personal-ai-assistant-from-scratch-344f)** - Mar 25, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
