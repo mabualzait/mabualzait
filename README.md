@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Streamline Long-Running Apps with Design-Driven DevOps](https://dev.to/mabualzait/streamline-long-running-apps-with-design-driven-devops-4p5b)** - Mar 26, 2026
-2. **[Elevating Your Models: Beyond Lift-and-Shrink in AI Development](https://dev.to/mabualzait/elevating-your-models-beyond-lift-and-shrink-in-ai-development-4m71)** - Mar 26, 2026
-3. **[Kicking Off '26: Expert Analysis & Predictions for the World Cup](https://dev.to/mabualzait/kicking-off-26-expert-analysis-predictions-for-the-world-cup-13e4)** - Mar 25, 2026
-4. **[Building Your Own Personal AI Assistant from Scratch](https://dev.to/mabualzait/building-your-own-personal-ai-assistant-from-scratch-344f)** - Mar 25, 2026
+1. **[Level Up Your Java APIs: Scaling AI Workloads Without Sacrificing Stability](https://dev.to/mabualzait/level-up-your-java-apis-scaling-ai-workloads-without-sacrificing-stability-56gd)** - Mar 28, 2026
+2. **[Predictions & Trends for World Cup 2026: A Deep Dive](https://dev.to/mabualzait/predictions-trends-for-world-cup-2026-a-deep-dive-oe9)** - Mar 27, 2026
+3. **[Supercharge Your Builds with AI-Powered Dependency Updates](https://dev.to/mabualzait/supercharge-your-builds-with-ai-powered-dependency-updates-4bff)** - Mar 27, 2026
+4. **[Friendlies Frenzy: The Hidden Key to World Cup Success in 2026](https://dev.to/mabualzait/friendlies-frenzy-the-hidden-key-to-world-cup-success-in-2026-3m46)** - Mar 26, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
