@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Level Up Your Java APIs: Scaling AI Workloads Without Sacrificing Stability](https://dev.to/mabualzait/level-up-your-java-apis-scaling-ai-workloads-without-sacrificing-stability-56gd)** - Mar 28, 2026
-2. **[Predictions & Trends for World Cup 2026: A Deep Dive](https://dev.to/mabualzait/predictions-trends-for-world-cup-2026-a-deep-dive-oe9)** - Mar 27, 2026
-3. **[Supercharge Your Builds with AI-Powered Dependency Updates](https://dev.to/mabualzait/supercharge-your-builds-with-ai-powered-dependency-updates-4bff)** - Mar 27, 2026
-4. **[Friendlies Frenzy: The Hidden Key to World Cup Success in 2026](https://dev.to/mabualzait/friendlies-frenzy-the-hidden-key-to-world-cup-success-in-2026-3m46)** - Mar 26, 2026
+1. **[Unlocking Cognitive Complexity with AI Spark](https://dev.to/mabualzait/unlocking-cognitive-complexity-with-ai-spark-1fn1)** - Mar 29, 2026
+2. **[Predicting Peptide Aggregation with AI: A Novel Approach to Chemical Synthesis](https://dev.to/mabualzait/predicting-peptide-aggregation-with-ai-a-novel-approach-to-chemical-synthesis-5mb)** - Mar 29, 2026
+3. **[Level Up Your Java APIs: Scaling AI Workloads Without Sacrificing Stability](https://dev.to/mabualzait/level-up-your-java-apis-scaling-ai-workloads-without-sacrificing-stability-56gd)** - Mar 28, 2026
+4. **[Predictions & Trends for World Cup 2026: A Deep Dive](https://dev.to/mabualzait/predictions-trends-for-world-cup-2026-a-deep-dive-oe9)** - Mar 27, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
