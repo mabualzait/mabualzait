@@ -57,19 +57,19 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Unlocking Cognitive Complexity with AI Spark](https://dev.to/mabualzait/unlocking-cognitive-complexity-with-ai-spark-1fn1)** - Mar 29, 2026
-2. **[Predicting Peptide Aggregation with AI: A Novel Approach to Chemical Synthesis](https://dev.to/mabualzait/predicting-peptide-aggregation-with-ai-a-novel-approach-to-chemical-synthesis-5mb)** - Mar 29, 2026
-3. **[Level Up Your Java APIs: Scaling AI Workloads Without Sacrificing Stability](https://dev.to/mabualzait/level-up-your-java-apis-scaling-ai-workloads-without-sacrificing-stability-56gd)** - Mar 28, 2026
-4. **[Predictions & Trends for World Cup 2026: A Deep Dive](https://dev.to/mabualzait/predictions-trends-for-world-cup-2026-a-deep-dive-oe9)** - Mar 27, 2026
+1. **[Unpacking the Blueprint for a Winning WC26](https://dev.to/mabualzait/unpacking-the-blueprint-for-a-winning-wc26-3l9a)** - Apr 01, 2026
+2. **[Time-Travel Debugging: Building a Video Evidence Layer with Moment Indexing](https://dev.to/mabualzait/time-travel-debugging-building-a-video-evidence-layer-with-moment-indexing-2026)** - Apr 01, 2026
+3. **[Building Smarter Apps with Multi-Agent Systems in AI](https://dev.to/mabualzait/building-smarter-apps-with-multi-agent-systems-in-ai-a4h)** - Mar 31, 2026
+4. **[Kicking Off 2026: World Cup Predictions & Analysis](https://dev.to/mabualzait/kicking-off-2026-world-cup-predictions-analysis-3p6j)** - Mar 30, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
 
 <!-- FUTURE-POST-LIST:START -->
-1. **[Time-Travel Debugging: Building a Video Evidence Layer with Moment Indexing](https://dev.to/mabualzait/time-travel-debugging-building-a-video-evidence-layer-with-moment-indexing-2026)** - Apr 01, 2026
-2. **[Building Smarter Apps with Multi-Agent Systems in AI](https://dev.to/mabualzait/building-smarter-apps-with-multi-agent-systems-in-ai-a4h)** - Mar 31, 2026
-3. **[Kicking Off 2026: World Cup Predictions & Analysis](https://dev.to/mabualzait/kicking-off-2026-world-cup-predictions-analysis-3p6j)** - Mar 30, 2026
-4. **[Unlocking Cognitive Complexity with AI Spark](https://dev.to/mabualzait/unlocking-cognitive-complexity-with-ai-spark-1fn1)** - Mar 29, 2026
+1. **[DeSantis Declares War on AI: 'Rejecting the Unthinkable'](https://future.forem.com/mabualzait/desantis-declares-war-on-ai-rejecting-the-unthinkable-34nh)** - Dec 29, 2025
+2. **[China Boosts Hard Tech Investing with Venture Capital Funds Launch](https://future.forem.com/mabualzait/china-boosts-hard-tech-investing-with-venture-capital-funds-launch-2gmb)** - Dec 27, 2025
+3. **[AI Pioneer Warns Mass Unemployment Ahead Despite Bill & Elon's Optimism](https://future.forem.com/mabualzait/ai-pioneer-warns-mass-unemployment-ahead-despite-bill-elons-optimism-20n6)** - Dec 05, 2025
+4. **[Machine Learning Boosts Rockets: AI Propels Space Travel Forward with Nuclear...](https://future.forem.com/mabualzait/machine-learning-boosts-rockets-ai-propels-space-travel-forward-with-nuclear-3o19)** - Nov 29, 2025
 <!-- FUTURE-POST-LIST:END -->
 
 <div align="center">
