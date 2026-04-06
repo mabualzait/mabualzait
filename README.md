@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Accelerate Hadoop Workloads with Ampere's Next-Gen CPU](https://dev.to/mabualzait/accelerate-hadoop-workloads-with-amperes-next-gen-cpu-50je)** - Apr 04, 2026
-2. **[Unleashing the Fury: Predictions for a Dominant World Cup 2026](https://dev.to/mabualzait/unleashing-the-fury-predictions-for-a-dominant-world-cup-2026-279o)** - Apr 03, 2026
-3. **[Decision Trees from Data: Building Context-Aware Models](https://dev.to/mabualzait/decision-trees-from-data-building-context-aware-models-2knl)** - Apr 03, 2026
-4. **[**"WORLD CUP GROUP GAMESHACK: Unlocking Winners and Losers in 2026"**](https://dev.to/mabualzait/world-cup-group-gameshack-unlocking-winners-and-losers-in-2026-4dkh)** - Apr 02, 2026
+1. **[Kicking Off 2026: World Cup Insights & Analysis](https://dev.to/mabualzait/kicking-off-2026-world-cup-insights-analysis-4l27)** - Apr 05, 2026
+2. **[Code Ignition: How AI Sparks Innovation in Software Development](https://dev.to/mabualzait/code-ignition-how-ai-sparks-innovation-in-software-development-33b4)** - Apr 05, 2026
+3. **[Kicking Off 2026: The Ultimate WC Preview Guide](https://dev.to/mabualzait/kicking-off-2026-the-ultimate-wc-preview-guide-3hni)** - Apr 04, 2026
+4. **[Accelerate Hadoop Workloads with Ampere's Next-Gen CPU](https://dev.to/mabualzait/accelerate-hadoop-workloads-with-amperes-next-gen-cpu-50je)** - Apr 04, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
