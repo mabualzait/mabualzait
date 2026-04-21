@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Kicking Off 2026: World Cup Insights & Analysis](https://dev.to/mabualzait/kicking-off-2026-world-cup-insights-analysis-4l27)** - Apr 05, 2026
-2. **[Code Ignition: How AI Sparks Innovation in Software Development](https://dev.to/mabualzait/code-ignition-how-ai-sparks-innovation-in-software-development-33b4)** - Apr 05, 2026
-3. **[Kicking Off 2026: The Ultimate WC Preview Guide](https://dev.to/mabualzait/kicking-off-2026-the-ultimate-wc-preview-guide-3hni)** - Apr 04, 2026
-4. **[Accelerate Hadoop Workloads with Ampere's Next-Gen CPU](https://dev.to/mabualzait/accelerate-hadoop-workloads-with-amperes-next-gen-cpu-50je)** - Apr 04, 2026
+1. **[Bridging the Gap: Infrastructure for Intelligent Systems](https://dev.to/mabualzait/bridging-the-gap-infrastructure-for-intelligent-systems-2oba)** - Apr 20, 2026
+2. **[Intelligent Systems: Igniting Code with AI Sparks](https://dev.to/mabualzait/intelligent-systems-igniting-code-with-ai-sparks-3kf8)** - Apr 19, 2026
+3. **[Kicking Off 2026: World Cup Insights & Analysis](https://dev.to/mabualzait/kicking-off-2026-world-cup-insights-analysis-4l27)** - Apr 05, 2026
+4. **[Code Ignition: How AI Sparks Innovation in Software Development](https://dev.to/mabualzait/code-ignition-how-ai-sparks-innovation-in-software-development-33b4)** - Apr 05, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
