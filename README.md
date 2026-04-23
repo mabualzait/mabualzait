@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Bridging the Gap: Infrastructure for Intelligent Systems](https://dev.to/mabualzait/bridging-the-gap-infrastructure-for-intelligent-systems-2oba)** - Apr 20, 2026
-2. **[Intelligent Systems: Igniting Code with AI Sparks](https://dev.to/mabualzait/intelligent-systems-igniting-code-with-ai-sparks-3kf8)** - Apr 19, 2026
-3. **[Kicking Off 2026: World Cup Insights & Analysis](https://dev.to/mabualzait/kicking-off-2026-world-cup-insights-analysis-4l27)** - Apr 05, 2026
-4. **[Code Ignition: How AI Sparks Innovation in Software Development](https://dev.to/mabualzait/code-ignition-how-ai-sparks-innovation-in-software-development-33b4)** - Apr 05, 2026
+1. **[Busting Bugs in AI: Quality Assurance Strategies](https://dev.to/mabualzait/busting-bugs-in-ai-quality-assurance-strategies-aoh)** - Apr 21, 2026
+2. **[Bridging the Gap: Infrastructure for Intelligent Systems](https://dev.to/mabualzait/bridging-the-gap-infrastructure-for-intelligent-systems-2oba)** - Apr 20, 2026
+3. **[Intelligent Systems: Igniting Code with AI Sparks](https://dev.to/mabualzait/intelligent-systems-igniting-code-with-ai-sparks-3kf8)** - Apr 19, 2026
+4. **[Kicking Off 2026: World Cup Insights & Analysis](https://dev.to/mabualzait/kicking-off-2026-world-cup-insights-analysis-4l27)** - Apr 05, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
