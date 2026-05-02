@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[LLMs Gone Wild: A Dev's Guide to Choosing the Right AI Model (Part 3)](https://dev.to/mabualzait/llms-gone-wild-a-devs-guide-to-choosing-the-right-ai-model-part-3-2p3p)** - Apr 29, 2026
-2. **[Predicting the Pitch: World Cup 2026 Breakdown](https://dev.to/mabualzait/predicting-the-pitch-world-cup-2026-breakdown-1c0i)** - Apr 28, 2026
-3. **[Building in Big D: Top 5 Mobile Dev Shops in Dallas](https://dev.to/mabualzait/building-in-big-d-top-5-mobile-dev-shops-in-dallas-3k77)** - Apr 28, 2026
-4. **[Revolutionizing Factory Floors with AI: What to Expect by 2026](https://dev.to/mabualzait/revolutionizing-factory-floors-with-ai-what-to-expect-by-2026-1eb)** - Apr 28, 2026
+1. **[Kicking Off '26: Expert Analysis & World Cup Predictions](https://dev.to/mabualzait/kicking-off-26-expert-analysis-world-cup-predictions-2g39)** - May 01, 2026
+2. **[Revolutionize Code with AI: Leveraging Machine Learning in Your Dev Workflow](https://dev.to/mabualzait/revolutionize-code-with-ai-leveraging-machine-learning-in-your-dev-workflow-354a)** - May 01, 2026
+3. **[Predicting the Next Global Champions: World Cup 2026 Breakdowns](https://dev.to/mabualzait/predicting-the-next-global-champions-world-cup-2026-breakdowns-1gh8)** - Apr 30, 2026
+4. **[Taming the Beast: Choosing the Right LLM for Your Project](https://dev.to/mabualzait/taming-the-beast-choosing-the-right-llm-for-your-project-5b97)** - Apr 30, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
