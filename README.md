@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Kicking Off '26: Expert Analysis & World Cup Predictions](https://dev.to/mabualzait/kicking-off-26-expert-analysis-world-cup-predictions-2g39)** - May 01, 2026
-2. **[Revolutionize Code with AI: Leveraging Machine Learning in Your Dev Workflow](https://dev.to/mabualzait/revolutionize-code-with-ai-leveraging-machine-learning-in-your-dev-workflow-354a)** - May 01, 2026
-3. **[Predicting the Next Global Champions: World Cup 2026 Breakdowns](https://dev.to/mabualzait/predicting-the-next-global-champions-world-cup-2026-breakdowns-1gh8)** - Apr 30, 2026
-4. **[Taming the Beast: Choosing the Right LLM for Your Project](https://dev.to/mabualzait/taming-the-beast-choosing-the-right-llm-for-your-project-5b97)** - Apr 30, 2026
+1. **[**"Winning Strategies: Your Ultimate Guide to World Cup 2026 Success"**](https://dev.to/mabualzait/winning-strategies-your-ultimate-guide-to-world-cup-2026-success-3kb)** - May 03, 2026
+2. **[Flames of Code: Fanning the Embers of AI Innovation](https://dev.to/mabualzait/flames-of-code-fanning-the-embers-of-ai-innovation-3bak)** - May 03, 2026
+3. **[AI Models Just Got a Mind of Their Own: Meta's Autodata Revolutionizes Data G...](https://dev.to/mabualzait/ai-models-just-got-a-mind-of-their-own-metas-autodata-revolutionizes-data-g-1ak2)** - May 03, 2026
+4. **[Kicking Off 2026: Expert Analysis from the World Cup](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-from-the-world-cup-4kj7)** - May 02, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
