@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[**"Winning Strategies: Your Ultimate Guide to World Cup 2026 Success"**](https://dev.to/mabualzait/winning-strategies-your-ultimate-guide-to-world-cup-2026-success-3kb)** - May 03, 2026
-2. **[Flames of Code: Fanning the Embers of AI Innovation](https://dev.to/mabualzait/flames-of-code-fanning-the-embers-of-ai-innovation-3bak)** - May 03, 2026
-3. **[AI Models Just Got a Mind of Their Own: Meta's Autodata Revolutionizes Data G...](https://dev.to/mabualzait/ai-models-just-got-a-mind-of-their-own-metas-autodata-revolutionizes-data-g-1ak2)** - May 03, 2026
-4. **[Kicking Off 2026: Expert Analysis from the World Cup](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-from-the-world-cup-4kj7)** - May 02, 2026
+1. **[Converse like a Pro with AI: Mastering Context with Claude's Secret Sauce](https://dev.to/mabualzait/converse-like-a-pro-with-ai-mastering-context-with-claudes-secret-sauce-1fbd)** - May 06, 2026
+2. **[Kicking Off 2026: Expert Analysis & Predictions for the World Cup](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-predictions-for-the-world-cup-42o6)** - May 05, 2026
+3. **[Revolutionizing AI Ops with AgentOps: Beyond DevOps](https://dev.to/mabualzait/revolutionizing-ai-ops-with-agentops-beyond-devops-1ep9)** - May 05, 2026
+4. **[**"Winning Strategies: Your Ultimate Guide to World Cup 2026 Success"**](https://dev.to/mabualzait/winning-strategies-your-ultimate-guide-to-world-cup-2026-success-3kb)** - May 03, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
