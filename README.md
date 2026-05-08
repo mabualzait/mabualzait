@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Converse like a Pro with AI: Mastering Context with Claude's Secret Sauce](https://dev.to/mabualzait/converse-like-a-pro-with-ai-mastering-context-with-claudes-secret-sauce-1fbd)** - May 06, 2026
-2. **[Kicking Off 2026: Expert Analysis & Predictions for the World Cup](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-predictions-for-the-world-cup-42o6)** - May 05, 2026
-3. **[Revolutionizing AI Ops with AgentOps: Beyond DevOps](https://dev.to/mabualzait/revolutionizing-ai-ops-with-agentops-beyond-devops-1ep9)** - May 05, 2026
-4. **[**"Winning Strategies: Your Ultimate Guide to World Cup 2026 Success"**](https://dev.to/mabualzait/winning-strategies-your-ultimate-guide-to-world-cup-2026-success-3kb)** - May 03, 2026
+1. **[AI-Powered Apps with Rails: Leveraging LLMs for Next-Level Development](https://dev.to/mabualzait/ai-powered-apps-with-rails-leveraging-llms-for-next-level-development-125m)** - May 08, 2026
+2. **[Kicking Off 2026: Expert Analysis & Predictions for the World Cup](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-predictions-for-the-world-cup-27aj)** - May 07, 2026
+3. **[Anthropic Pledges $200B for Custom Google Cloud & Chip Infra](https://dev.to/mabualzait/anthropic-pledges-200b-for-custom-google-cloud-chip-infra-47f8)** - May 07, 2026
+4. **[Reasoning on Autopilot: ARC's AI Architecture](https://dev.to/mabualzait/reasoning-on-autopilot-arcs-ai-architecture-ke3)** - May 07, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
