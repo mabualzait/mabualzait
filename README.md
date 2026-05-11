@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[AI-Powered Apps with Rails: Leveraging LLMs for Next-Level Development](https://dev.to/mabualzait/ai-powered-apps-with-rails-leveraging-llms-for-next-level-development-125m)** - May 08, 2026
-2. **[Kicking Off 2026: Expert Analysis & Predictions for the World Cup](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-predictions-for-the-world-cup-27aj)** - May 07, 2026
-3. **[Anthropic Pledges $200B for Custom Google Cloud & Chip Infra](https://dev.to/mabualzait/anthropic-pledges-200b-for-custom-google-cloud-chip-infra-47f8)** - May 07, 2026
-4. **[Reasoning on Autopilot: ARC's AI Architecture](https://dev.to/mabualzait/reasoning-on-autopilot-arcs-ai-architecture-ke3)** - May 07, 2026
+1. **[Kicking Off 2026: World Cup Predictions & Breakdowns](https://dev.to/mabualzait/kicking-off-2026-world-cup-predictions-breakdowns-2038)** - May 10, 2026
+2. **[Injecting Smarts into Code with AI Sparks](https://dev.to/mabualzait/injecting-smarts-into-code-with-ai-sparks-23n2)** - May 10, 2026
+3. **[Unlocking Autonomous SRE with AI-Powered AWS DevOps](https://dev.to/mabualzait/unlocking-autonomous-sre-with-ai-powered-aws-devops-1pdh)** - May 10, 2026
+4. **[Countdown to 2026: Unpacking the World Cup's Ultimate Schedule](https://dev.to/mabualzait/countdown-to-2026-unpacking-the-world-cups-ultimate-schedule-2aeo)** - May 09, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
