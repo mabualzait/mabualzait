@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Kicking Off 2026: The Ultimate World Cup Preview](https://dev.to/mabualzait/kicking-off-2026-the-ultimate-world-cup-preview-55l1)** - May 13, 2026
-2. **[Token Economy 101 for GenAI Apps: Spend Less, Gain More](https://dev.to/mabualzait/token-economy-101-for-genai-apps-spend-less-gain-more-d9c)** - May 13, 2026
-3. **[Kicking Off 2026: World Cup Analysis & Predictions](https://dev.to/mabualzait/kicking-off-2026-world-cup-analysis-predictions-2ch4)** - May 12, 2026
-4. **[Beyond Buzzwords: How AI Actually Helps Your Code](https://dev.to/mabualzait/beyond-buzzwords-how-ai-actually-helps-your-code-1d09)** - May 12, 2026
+1. **[Train Your Own Image Classifier with Apache Camel & DJL](https://dev.to/mabualzait/train-your-own-image-classifier-with-apache-camel-djl-45k)** - May 16, 2026
+2. **[Kicking Off the Big One: World Cup 2026 Predictions & Analysis](https://dev.to/mabualzait/kicking-off-the-big-one-world-cup-2026-predictions-analysis-4flk)** - May 15, 2026
+3. **[Landing AI on Uncharted Territory: Unlocking Hidden Gold in Enterprise Data](https://dev.to/mabualzait/landing-ai-on-uncharted-territory-unlocking-hidden-gold-in-enterprise-data-2ghe)** - May 15, 2026
+4. **[Microservices Gotcha: How AI Agents Uncover Hidden Weaknesses](https://dev.to/mabualzait/microservices-gotcha-how-ai-agents-uncover-hidden-weaknesses-4a9a)** - May 14, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
