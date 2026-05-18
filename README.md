@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Train Your Own Image Classifier with Apache Camel & DJL](https://dev.to/mabualzait/train-your-own-image-classifier-with-apache-camel-djl-45k)** - May 16, 2026
-2. **[Kicking Off the Big One: World Cup 2026 Predictions & Analysis](https://dev.to/mabualzait/kicking-off-the-big-one-world-cup-2026-predictions-analysis-4flk)** - May 15, 2026
-3. **[Landing AI on Uncharted Territory: Unlocking Hidden Gold in Enterprise Data](https://dev.to/mabualzait/landing-ai-on-uncharted-territory-unlocking-hidden-gold-in-enterprise-data-2ghe)** - May 15, 2026
-4. **[Microservices Gotcha: How AI Agents Uncover Hidden Weaknesses](https://dev.to/mabualzait/microservices-gotcha-how-ai-agents-uncover-hidden-weaknesses-4a9a)** - May 14, 2026
+1. **[World Cup 2026 Predictions: Expert Odds & Bets Inside](https://dev.to/mabualzait/world-cup-2026-predictions-expert-odds-bets-inside-1a0e)** - May 17, 2026
+2. **[Flame-Grading Neural Networks: Sparking AI Innovation](https://dev.to/mabualzait/flame-grading-neural-networks-sparking-ai-innovation-44lj)** - May 17, 2026
+3. **[Uncovering Hidden Histories with AI-Powered Drones and Sensors](https://dev.to/mabualzait/uncovering-hidden-histories-with-ai-powered-drones-and-sensors-2egf)** - May 17, 2026
+4. **[Qualifying Frenzy: USA, Mexico & Canada's WC Roadmap Unfolds](https://dev.to/mabualzait/qualifying-frenzy-usa-mexico-canadas-wc-roadmap-unfolds-14d7)** - May 16, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
