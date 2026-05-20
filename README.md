@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[World Cup 2026 Predictions: Expert Odds & Bets Inside](https://dev.to/mabualzait/world-cup-2026-predictions-expert-odds-bets-inside-1a0e)** - May 17, 2026
-2. **[Flame-Grading Neural Networks: Sparking AI Innovation](https://dev.to/mabualzait/flame-grading-neural-networks-sparking-ai-innovation-44lj)** - May 17, 2026
-3. **[Uncovering Hidden Histories with AI-Powered Drones and Sensors](https://dev.to/mabualzait/uncovering-hidden-histories-with-ai-powered-drones-and-sensors-2egf)** - May 17, 2026
-4. **[Qualifying Frenzy: USA, Mexico & Canada's WC Roadmap Unfolds](https://dev.to/mabualzait/qualifying-frenzy-usa-mexico-canadas-wc-roadmap-unfolds-14d7)** - May 16, 2026
+1. **[Airflow to the Rescue: How AI Powers Better DAG Failures](https://dev.to/mabualzait/airflow-to-the-rescue-how-ai-powers-better-dag-failures-3alm)** - May 20, 2026
+2. **[Kicking Off 2026: World Cup Predictions and Analysis](https://dev.to/mabualzait/kicking-off-2026-world-cup-predictions-and-analysis-500o)** - May 19, 2026
+3. **[Unmasking the Silent Saboteur of AI Incident Response](https://dev.to/mabualzait/unmasking-the-silent-saboteur-of-ai-incident-response-37ic)** - May 19, 2026
+4. **[Unlocking World Cup 2026: The Ultimate Preview & Predictions](https://dev.to/mabualzait/unlocking-world-cup-2026-the-ultimate-preview-predictions-12e3)** - May 18, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
