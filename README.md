@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Airflow to the Rescue: How AI Powers Better DAG Failures](https://dev.to/mabualzait/airflow-to-the-rescue-how-ai-powers-better-dag-failures-3alm)** - May 20, 2026
-2. **[Kicking Off 2026: World Cup Predictions and Analysis](https://dev.to/mabualzait/kicking-off-2026-world-cup-predictions-and-analysis-500o)** - May 19, 2026
-3. **[Unmasking the Silent Saboteur of AI Incident Response](https://dev.to/mabualzait/unmasking-the-silent-saboteur-of-ai-incident-response-37ic)** - May 19, 2026
-4. **[Unlocking World Cup 2026: The Ultimate Preview & Predictions](https://dev.to/mabualzait/unlocking-world-cup-2026-the-ultimate-preview-predictions-12e3)** - May 18, 2026
+1. **[Building Smart Healthcare with Java: AI-Powered Data Solutions](https://dev.to/mabualzait/building-smart-healthcare-with-java-ai-powered-data-solutions-pec)** - May 21, 2026
+2. **[Kicking Off 2026: Expert Analysis for the Next World Cup](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-for-the-next-world-cup-3765)** - May 20, 2026
+3. **[Airflow to the Rescue: How AI Powers Better DAG Failures](https://dev.to/mabualzait/airflow-to-the-rescue-how-ai-powers-better-dag-failures-3alm)** - May 20, 2026
+4. **[Kicking Off 2026: World Cup Predictions and Analysis](https://dev.to/mabualzait/kicking-off-2026-world-cup-predictions-and-analysis-500o)** - May 19, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
