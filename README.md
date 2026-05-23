@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Building Smart Healthcare with Java: AI-Powered Data Solutions](https://dev.to/mabualzait/building-smart-healthcare-with-java-ai-powered-data-solutions-pec)** - May 21, 2026
-2. **[Kicking Off 2026: Expert Analysis for the Next World Cup](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-for-the-next-world-cup-3765)** - May 20, 2026
-3. **[Airflow to the Rescue: How AI Powers Better DAG Failures](https://dev.to/mabualzait/airflow-to-the-rescue-how-ai-powers-better-dag-failures-3alm)** - May 20, 2026
-4. **[Kicking Off 2026: World Cup Predictions and Analysis](https://dev.to/mabualzait/kicking-off-2026-world-cup-predictions-and-analysis-500o)** - May 19, 2026
+1. **[Unraveling Agent-Based Workflows with Code](https://dev.to/mabualzait/unraveling-agent-based-workflows-with-code-48l8)** - May 23, 2026
+2. **[Unlocking AI's Identity Crisis with Self-Supervised Learning](https://dev.to/mabualzait/unlocking-ais-identity-crisis-with-self-supervised-learning-3p27)** - May 22, 2026
+3. **[Kickoff to Glory: Expert Analysis for WC 2026](https://dev.to/mabualzait/kickoff-to-glory-expert-analysis-for-wc-2026-324m)** - May 21, 2026
+4. **[Blackstone's Top AI Talent Joins Elliott to Fuel Machine Learning Breakthroughs](https://dev.to/mabualzait/blackstones-top-ai-talent-joins-elliott-to-fuel-machine-learning-breakthroughs-hlp)** - May 21, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
