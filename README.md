@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Unraveling Agent-Based Workflows with Code](https://dev.to/mabualzait/unraveling-agent-based-workflows-with-code-48l8)** - May 23, 2026
-2. **[Unlocking AI's Identity Crisis with Self-Supervised Learning](https://dev.to/mabualzait/unlocking-ais-identity-crisis-with-self-supervised-learning-3p27)** - May 22, 2026
-3. **[Kickoff to Glory: Expert Analysis for WC 2026](https://dev.to/mabualzait/kickoff-to-glory-expert-analysis-for-wc-2026-324m)** - May 21, 2026
-4. **[Blackstone's Top AI Talent Joins Elliott to Fuel Machine Learning Breakthroughs](https://dev.to/mabualzait/blackstones-top-ai-talent-joins-elliott-to-fuel-machine-learning-breakthroughs-hlp)** - May 21, 2026
+1. **[Qualifying Chaos: The Wild Ride to World Cup 2026](https://dev.to/mabualzait/qualifying-chaos-the-wild-ride-to-world-cup-2026-141c)** - May 23, 2026
+2. **[Unraveling Agent-Based Workflows with Code](https://dev.to/mabualzait/unraveling-agent-based-workflows-with-code-48l8)** - May 23, 2026
+3. **[Unlocking AI's Identity Crisis with Self-Supervised Learning](https://dev.to/mabualzait/unlocking-ais-identity-crisis-with-self-supervised-learning-3p27)** - May 22, 2026
+4. **[Kickoff to Glory: Expert Analysis for WC 2026](https://dev.to/mabualzait/kickoff-to-glory-expert-analysis-for-wc-2026-324m)** - May 21, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
