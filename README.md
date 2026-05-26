@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Qualifying Chaos: The Wild Ride to World Cup 2026](https://dev.to/mabualzait/qualifying-chaos-the-wild-ride-to-world-cup-2026-141c)** - May 23, 2026
-2. **[Unraveling Agent-Based Workflows with Code](https://dev.to/mabualzait/unraveling-agent-based-workflows-with-code-48l8)** - May 23, 2026
-3. **[Unlocking AI's Identity Crisis with Self-Supervised Learning](https://dev.to/mabualzait/unlocking-ais-identity-crisis-with-self-supervised-learning-3p27)** - May 22, 2026
-4. **[Kickoff to Glory: Expert Analysis for WC 2026](https://dev.to/mabualzait/kickoff-to-glory-expert-analysis-for-wc-2026-324m)** - May 21, 2026
+1. **[Building Intelligent Assistants from Scratch: A Developer's Guide to 'Build S...](https://dev.to/mabualzait/building-intelligent-assistants-from-scratch-a-developers-guide-to-build-s-m60)** - May 26, 2026
+2. **[**"Team World Cup 2026: The Ultimate Squad Breakdown"**](https://dev.to/mabualzait/team-world-cup-2026-the-ultimate-squad-breakdown-4925)** - May 25, 2026
+3. **[Google Play Store Compliance Made Easy with Our Android SDK](https://dev.to/mabualzait/google-play-store-compliance-made-easy-with-our-android-sdk-2kf5)** - May 25, 2026
+4. **[Kicking Off: Exclusive 2026 World Cup Predictions & Analysis](https://dev.to/mabualzait/kicking-off-exclusive-2026-world-cup-predictions-analysis-j4j)** - May 24, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
