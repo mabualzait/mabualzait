@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Building Intelligent Assistants from Scratch: A Developer's Guide to 'Build S...](https://dev.to/mabualzait/building-intelligent-assistants-from-scratch-a-developers-guide-to-build-s-m60)** - May 26, 2026
-2. **[**"Team World Cup 2026: The Ultimate Squad Breakdown"**](https://dev.to/mabualzait/team-world-cup-2026-the-ultimate-squad-breakdown-4925)** - May 25, 2026
-3. **[Google Play Store Compliance Made Easy with Our Android SDK](https://dev.to/mabualzait/google-play-store-compliance-made-easy-with-our-android-sdk-2kf5)** - May 25, 2026
-4. **[Kicking Off: Exclusive 2026 World Cup Predictions & Analysis](https://dev.to/mabualzait/kicking-off-exclusive-2026-world-cup-predictions-analysis-j4j)** - May 24, 2026
+1. **[Kicking Off the Next Chapter: WC2026 Predictions & Analysis](https://dev.to/mabualzait/kicking-off-the-next-chapter-wc2026-predictions-analysis-g40)** - May 26, 2026
+2. **[Building Intelligent Assistants from Scratch: A Developer's Guide to 'Build S...](https://dev.to/mabualzait/building-intelligent-assistants-from-scratch-a-developers-guide-to-build-s-m60)** - May 26, 2026
+3. **[**"Team World Cup 2026: The Ultimate Squad Breakdown"**](https://dev.to/mabualzait/team-world-cup-2026-the-ultimate-squad-breakdown-4925)** - May 25, 2026
+4. **[Google Play Store Compliance Made Easy with Our Android SDK](https://dev.to/mabualzait/google-play-store-compliance-made-easy-with-our-android-sdk-2kf5)** - May 25, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
