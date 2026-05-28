@@ -57,19 +57,19 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Kicking Off the Next Chapter: WC2026 Predictions & Analysis](https://dev.to/mabualzait/kicking-off-the-next-chapter-wc2026-predictions-analysis-g40)** - May 26, 2026
-2. **[Building Intelligent Assistants from Scratch: A Developer's Guide to 'Build S...](https://dev.to/mabualzait/building-intelligent-assistants-from-scratch-a-developers-guide-to-build-s-m60)** - May 26, 2026
-3. **[**"Team World Cup 2026: The Ultimate Squad Breakdown"**](https://dev.to/mabualzait/team-world-cup-2026-the-ultimate-squad-breakdown-4925)** - May 25, 2026
-4. **[Google Play Store Compliance Made Easy with Our Android SDK](https://dev.to/mabualzait/google-play-store-compliance-made-easy-with-our-android-sdk-2kf5)** - May 25, 2026
+1. **[Kicking Off the Next Chapter: World Cup 2026 Predictions & Analysis](https://dev.to/mabualzait/kicking-off-the-next-chapter-world-cup-2026-predictions-analysis-2hpg)** - May 27, 2026
+2. **[Building Smarter Apps with Zero Architecture](https://dev.to/mabualzait/building-smarter-apps-with-zero-architecture-2fbl)** - May 27, 2026
+3. **[Kicking Off the Next Chapter: WC2026 Predictions & Analysis](https://dev.to/mabualzait/kicking-off-the-next-chapter-wc2026-predictions-analysis-g40)** - May 26, 2026
+4. **[Building Intelligent Assistants from Scratch: A Developer's Guide to 'Build S...](https://dev.to/mabualzait/building-intelligent-assistants-from-scratch-a-developers-guide-to-build-s-m60)** - May 26, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
 
 <!-- FUTURE-POST-LIST:START -->
-1. **[DeSantis Declares War on AI: 'Rejecting the Unthinkable'](https://future.forem.com/mabualzait/desantis-declares-war-on-ai-rejecting-the-unthinkable-34nh)** - Dec 29, 2025
-2. **[China Boosts Hard Tech Investing with Venture Capital Funds Launch](https://future.forem.com/mabualzait/china-boosts-hard-tech-investing-with-venture-capital-funds-launch-2gmb)** - Dec 27, 2025
-3. **[AI Pioneer Warns Mass Unemployment Ahead Despite Bill & Elon's Optimism](https://future.forem.com/mabualzait/ai-pioneer-warns-mass-unemployment-ahead-despite-bill-elons-optimism-20n6)** - Dec 05, 2025
-4. **[Machine Learning Boosts Rockets: AI Propels Space Travel Forward with Nuclear...](https://future.forem.com/mabualzait/machine-learning-boosts-rockets-ai-propels-space-travel-forward-with-nuclear-3o19)** - Nov 29, 2025
+1. **[Kicking Off the Next Chapter: World Cup 2026 Predictions & Analysis](https://dev.to/mabualzait/kicking-off-the-next-chapter-world-cup-2026-predictions-analysis-2hpg)** - May 27, 2026
+2. **[Building Smarter Apps with Zero Architecture](https://dev.to/mabualzait/building-smarter-apps-with-zero-architecture-2fbl)** - May 27, 2026
+3. **[Kicking Off the Next Chapter: WC2026 Predictions & Analysis](https://dev.to/mabualzait/kicking-off-the-next-chapter-wc2026-predictions-analysis-g40)** - May 26, 2026
+4. **[Building Intelligent Assistants from Scratch: A Developer's Guide to 'Build S...](https://dev.to/mabualzait/building-intelligent-assistants-from-scratch-a-developers-guide-to-build-s-m60)** - May 26, 2026
 <!-- FUTURE-POST-LIST:END -->
 
 <div align="center">
