@@ -57,19 +57,19 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Kicking Off the Next Chapter: World Cup 2026 Predictions & Analysis](https://dev.to/mabualzait/kicking-off-the-next-chapter-world-cup-2026-predictions-analysis-2hpg)** - May 27, 2026
-2. **[Building Smarter Apps with Zero Architecture](https://dev.to/mabualzait/building-smarter-apps-with-zero-architecture-2fbl)** - May 27, 2026
-3. **[Kicking Off the Next Chapter: WC2026 Predictions & Analysis](https://dev.to/mabualzait/kicking-off-the-next-chapter-wc2026-predictions-analysis-g40)** - May 26, 2026
-4. **[Building Intelligent Assistants from Scratch: A Developer's Guide to 'Build S...](https://dev.to/mabualzait/building-intelligent-assistants-from-scratch-a-developers-guide-to-build-s-m60)** - May 26, 2026
+1. **[Crunching Code with AI: Warp's Bold Bet on Open Source and GPT-3.5](https://dev.to/mabualzait/crunching-code-with-ai-warps-bold-bet-on-open-source-and-gpt-35-43hg)** - May 28, 2026
+2. **[Flagging Down Performance: How Feature Flags Affect Enterprise Apps at Scale](https://dev.to/mabualzait/flagging-down-performance-how-feature-flags-affect-enterprise-apps-at-scale-25ca)** - May 28, 2026
+3. **[Kicking Off the Next Chapter: World Cup 2026 Predictions & Analysis](https://dev.to/mabualzait/kicking-off-the-next-chapter-world-cup-2026-predictions-analysis-2hpg)** - May 27, 2026
+4. **[Building Smarter Apps with Zero Architecture](https://dev.to/mabualzait/building-smarter-apps-with-zero-architecture-2fbl)** - May 27, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
 
 <!-- FUTURE-POST-LIST:START -->
-1. **[Kicking Off the Next Chapter: World Cup 2026 Predictions & Analysis](https://dev.to/mabualzait/kicking-off-the-next-chapter-world-cup-2026-predictions-analysis-2hpg)** - May 27, 2026
-2. **[Building Smarter Apps with Zero Architecture](https://dev.to/mabualzait/building-smarter-apps-with-zero-architecture-2fbl)** - May 27, 2026
-3. **[Kicking Off the Next Chapter: WC2026 Predictions & Analysis](https://dev.to/mabualzait/kicking-off-the-next-chapter-wc2026-predictions-analysis-g40)** - May 26, 2026
-4. **[Building Intelligent Assistants from Scratch: A Developer's Guide to 'Build S...](https://dev.to/mabualzait/building-intelligent-assistants-from-scratch-a-developers-guide-to-build-s-m60)** - May 26, 2026
+1. **[Crunching Code with AI: Warp's Bold Bet on Open Source and GPT-3.5](https://dev.to/mabualzait/crunching-code-with-ai-warps-bold-bet-on-open-source-and-gpt-35-43hg)** - May 28, 2026
+2. **[Flagging Down Performance: How Feature Flags Affect Enterprise Apps at Scale](https://dev.to/mabualzait/flagging-down-performance-how-feature-flags-affect-enterprise-apps-at-scale-25ca)** - May 28, 2026
+3. **[Kicking Off the Next Chapter: World Cup 2026 Predictions & Analysis](https://dev.to/mabualzait/kicking-off-the-next-chapter-world-cup-2026-predictions-analysis-2hpg)** - May 27, 2026
+4. **[Building Smarter Apps with Zero Architecture](https://dev.to/mabualzait/building-smarter-apps-with-zero-architecture-2fbl)** - May 27, 2026
 <!-- FUTURE-POST-LIST:END -->
 
 <div align="center">
