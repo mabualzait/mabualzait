@@ -57,19 +57,19 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Crunching Code with AI: Warp's Bold Bet on Open Source and GPT-3.5](https://dev.to/mabualzait/crunching-code-with-ai-warps-bold-bet-on-open-source-and-gpt-35-43hg)** - May 28, 2026
-2. **[Flagging Down Performance: How Feature Flags Affect Enterprise Apps at Scale](https://dev.to/mabualzait/flagging-down-performance-how-feature-flags-affect-enterprise-apps-at-scale-25ca)** - May 28, 2026
-3. **[Kicking Off the Next Chapter: World Cup 2026 Predictions & Analysis](https://dev.to/mabualzait/kicking-off-the-next-chapter-world-cup-2026-predictions-analysis-2hpg)** - May 27, 2026
-4. **[Building Smarter Apps with Zero Architecture](https://dev.to/mabualzait/building-smarter-apps-with-zero-architecture-2fbl)** - May 27, 2026
+1. **[AI Detector: How to Build a Malicious Model Sniffer](https://dev.to/mabualzait/ai-detector-how-to-build-a-malicious-model-sniffer-1298)** - May 30, 2026
+2. **[Unlocking the Secrets of Qatar '26: Expert World Cup Analysis](https://dev.to/mabualzait/unlocking-the-secrets-of-qatar-26-expert-world-cup-analysis-4h9l)** - May 29, 2026
+3. **[Exposing the Hidden Weakness in Chaos Engineering with AI](https://dev.to/mabualzait/exposing-the-hidden-weakness-in-chaos-engineering-with-ai-28pe)** - May 29, 2026
+4. **[Kicking Off 2026: Expert Analysis & Predictions for the World Cup](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-predictions-for-the-world-cup-3nhh)** - May 28, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
 
 <!-- FUTURE-POST-LIST:START -->
-1. **[Crunching Code with AI: Warp's Bold Bet on Open Source and GPT-3.5](https://dev.to/mabualzait/crunching-code-with-ai-warps-bold-bet-on-open-source-and-gpt-35-43hg)** - May 28, 2026
-2. **[Flagging Down Performance: How Feature Flags Affect Enterprise Apps at Scale](https://dev.to/mabualzait/flagging-down-performance-how-feature-flags-affect-enterprise-apps-at-scale-25ca)** - May 28, 2026
-3. **[Kicking Off the Next Chapter: World Cup 2026 Predictions & Analysis](https://dev.to/mabualzait/kicking-off-the-next-chapter-world-cup-2026-predictions-analysis-2hpg)** - May 27, 2026
-4. **[Building Smarter Apps with Zero Architecture](https://dev.to/mabualzait/building-smarter-apps-with-zero-architecture-2fbl)** - May 27, 2026
+1. **[AI Detector: How to Build a Malicious Model Sniffer](https://dev.to/mabualzait/ai-detector-how-to-build-a-malicious-model-sniffer-1298)** - May 30, 2026
+2. **[Unlocking the Secrets of Qatar '26: Expert World Cup Analysis](https://dev.to/mabualzait/unlocking-the-secrets-of-qatar-26-expert-world-cup-analysis-4h9l)** - May 29, 2026
+3. **[Exposing the Hidden Weakness in Chaos Engineering with AI](https://dev.to/mabualzait/exposing-the-hidden-weakness-in-chaos-engineering-with-ai-28pe)** - May 29, 2026
+4. **[Kicking Off 2026: Expert Analysis & Predictions for the World Cup](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-predictions-for-the-world-cup-3nhh)** - May 28, 2026
 <!-- FUTURE-POST-LIST:END -->
 
 <div align="center">
