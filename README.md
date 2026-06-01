@@ -57,19 +57,19 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[AI Detector: How to Build a Malicious Model Sniffer](https://dev.to/mabualzait/ai-detector-how-to-build-a-malicious-model-sniffer-1298)** - May 30, 2026
-2. **[Unlocking the Secrets of Qatar '26: Expert World Cup Analysis](https://dev.to/mabualzait/unlocking-the-secrets-of-qatar-26-expert-world-cup-analysis-4h9l)** - May 29, 2026
-3. **[Exposing the Hidden Weakness in Chaos Engineering with AI](https://dev.to/mabualzait/exposing-the-hidden-weakness-in-chaos-engineering-with-ai-28pe)** - May 29, 2026
-4. **[Kicking Off 2026: Expert Analysis & Predictions for the World Cup](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-predictions-for-the-world-cup-3nhh)** - May 28, 2026
+1. **[Kicking Off 2026: The Ultimate WC Preview Guide](https://dev.to/mabualzait/kicking-off-2026-the-ultimate-wc-preview-guide-2p6g)** - May 31, 2026
+2. **[Intelligence by Design: Sparking Innovation in Code](https://dev.to/mabualzait/intelligence-by-design-sparking-innovation-in-code-14hd)** - May 31, 2026
+3. **[Cobol's Unlikely Survival: Banks Paying Fortunes for Legacy Code](https://dev.to/mabualzait/cobols-unlikely-survival-banks-paying-fortunes-for-legacy-code-4gl0)** - May 31, 2026
+4. **[Kicking Off '26: Expert Analysis & Predictions for the World Cup](https://dev.to/mabualzait/kicking-off-26-expert-analysis-predictions-for-the-world-cup-232d)** - May 30, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
 
 <!-- FUTURE-POST-LIST:START -->
-1. **[AI Detector: How to Build a Malicious Model Sniffer](https://dev.to/mabualzait/ai-detector-how-to-build-a-malicious-model-sniffer-1298)** - May 30, 2026
-2. **[Unlocking the Secrets of Qatar '26: Expert World Cup Analysis](https://dev.to/mabualzait/unlocking-the-secrets-of-qatar-26-expert-world-cup-analysis-4h9l)** - May 29, 2026
-3. **[Exposing the Hidden Weakness in Chaos Engineering with AI](https://dev.to/mabualzait/exposing-the-hidden-weakness-in-chaos-engineering-with-ai-28pe)** - May 29, 2026
-4. **[Kicking Off 2026: Expert Analysis & Predictions for the World Cup](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-predictions-for-the-world-cup-3nhh)** - May 28, 2026
+1. **[Kicking Off 2026: The Ultimate WC Preview Guide](https://dev.to/mabualzait/kicking-off-2026-the-ultimate-wc-preview-guide-2p6g)** - May 31, 2026
+2. **[Intelligence by Design: Sparking Innovation in Code](https://dev.to/mabualzait/intelligence-by-design-sparking-innovation-in-code-14hd)** - May 31, 2026
+3. **[Cobol's Unlikely Survival: Banks Paying Fortunes for Legacy Code](https://dev.to/mabualzait/cobols-unlikely-survival-banks-paying-fortunes-for-legacy-code-4gl0)** - May 31, 2026
+4. **[Kicking Off '26: Expert Analysis & Predictions for the World Cup](https://dev.to/mabualzait/kicking-off-26-expert-analysis-predictions-for-the-world-cup-232d)** - May 30, 2026
 <!-- FUTURE-POST-LIST:END -->
 
 <div align="center">
