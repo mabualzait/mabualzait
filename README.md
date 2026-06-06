@@ -57,19 +57,19 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Kicking Off 2026: Expert Analysis & Predictions for the Big Game](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-predictions-for-the-big-game-15hg)** - Jun 03, 2026
-2. **[Kicking Off 2026: Expert Analysis & Predictions for the World Cup](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-predictions-for-the-world-cup-2pfn)** - Jun 02, 2026
-3. **[Kicking Off the Next Chapter: 2026 World Cup Predictions & Analysis](https://dev.to/mabualzait/kicking-off-the-next-chapter-2026-world-cup-predictions-analysis-mgn)** - Jun 01, 2026
-4. **[Kicking Off 2026: The Ultimate WC Preview Guide](https://dev.to/mabualzait/kicking-off-2026-the-ultimate-wc-preview-guide-2p6g)** - May 31, 2026
+1. **[England's World Cup 2026 Team Forming: What We Learned from Training Camps](https://dev.to/mabualzait/englands-world-cup-2026-team-forming-what-we-learned-from-training-camps-mcd)** - Jun 05, 2026
+2. **[Kicking Off 2026: World Cup Insights & Analysis](https://dev.to/mabualzait/kicking-off-2026-world-cup-insights-analysis-57l0)** - Jun 04, 2026
+3. **[Google Play Compliance Just Got a Whole Lot Easier with Our API](https://dev.to/mabualzait/google-play-compliance-just-got-a-whole-lot-easier-with-our-api-3hka)** - Jun 04, 2026
+4. **[Unify Your Creative Workflow with One-Stop Branding Solution](https://dev.to/mabualzait/unify-your-creative-workflow-with-one-stop-branding-solution-1ndf)** - Jun 04, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
 
 <!-- FUTURE-POST-LIST:START -->
-1. **[Kicking Off 2026: Expert Analysis & Predictions for the Big Game](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-predictions-for-the-big-game-15hg)** - Jun 03, 2026
-2. **[Kicking Off 2026: Expert Analysis & Predictions for the World Cup](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-predictions-for-the-world-cup-2pfn)** - Jun 02, 2026
-3. **[Kicking Off the Next Chapter: 2026 World Cup Predictions & Analysis](https://dev.to/mabualzait/kicking-off-the-next-chapter-2026-world-cup-predictions-analysis-mgn)** - Jun 01, 2026
-4. **[Kicking Off 2026: The Ultimate WC Preview Guide](https://dev.to/mabualzait/kicking-off-2026-the-ultimate-wc-preview-guide-2p6g)** - May 31, 2026
+1. **[England's World Cup 2026 Team Forming: What We Learned from Training Camps](https://dev.to/mabualzait/englands-world-cup-2026-team-forming-what-we-learned-from-training-camps-mcd)** - Jun 05, 2026
+2. **[Kicking Off 2026: World Cup Insights & Analysis](https://dev.to/mabualzait/kicking-off-2026-world-cup-insights-analysis-57l0)** - Jun 04, 2026
+3. **[Google Play Compliance Just Got a Whole Lot Easier with Our API](https://dev.to/mabualzait/google-play-compliance-just-got-a-whole-lot-easier-with-our-api-3hka)** - Jun 04, 2026
+4. **[Unify Your Creative Workflow with One-Stop Branding Solution](https://dev.to/mabualzait/unify-your-creative-workflow-with-one-stop-branding-solution-1ndf)** - Jun 04, 2026
 <!-- FUTURE-POST-LIST:END -->
 
 <div align="center">
