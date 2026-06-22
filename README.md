@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Kicking Off 2026: Qualifying Chaos & Global Football Frenzy](https://dev.to/mabualzait/kicking-off-2026-qualifying-chaos-global-football-frenzy-1e48)** - Jun 19, 2026
-2. **[Kicking Off World Cup 2026: Expert Analysis & Predictions](https://dev.to/mabualzait/kicking-off-world-cup-2026-expert-analysis-predictions-3kbb)** - Jun 18, 2026
-3. **[Google Play Store Approval Guaranteed with Our SDK](https://dev.to/mabualzait/google-play-store-approval-guaranteed-with-our-sdk-pm1)** - Jun 18, 2026
-4. **[Microsoft Ditches Oracle Cloud Deal Over Security Fears, Worth $3B](https://dev.to/mabualzait/microsoft-ditches-oracle-cloud-deal-over-security-fears-worth-3b-pkg)** - Jun 18, 2026
+1. **[World Cup 2026: The Big Kickoff Awaits](https://dev.to/mabualzait/world-cup-2026-the-big-kickoff-awaits-5cin)** - Jun 21, 2026
+2. **[Electrifying AI with Edge Cases](https://dev.to/mabualzait/electrifying-ai-with-edge-cases-14k8)** - Jun 21, 2026
+3. **[AI-Generated Influencers: The New Face of Social Media Marketing?](https://dev.to/mabualzait/ai-generated-influencers-the-new-face-of-social-media-marketing-5hho)** - Jun 21, 2026
+4. **[Kicking Off: World Cup 2026 Predictions & Analysis](https://dev.to/mabualzait/kicking-off-world-cup-2026-predictions-analysis-2mf8)** - Jun 20, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
