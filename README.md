@@ -57,19 +57,19 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Kicking Off 2026: Expert Analysis & Predictions for the World's Biggest Stage](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-predictions-for-the-worlds-biggest-stage-ijf)** - Jun 24, 2026
-2. **[Predicting Champions: World Cup 2026 Strategy Guide](https://dev.to/mabualzait/predicting-champions-world-cup-2026-strategy-guide-186o)** - Jun 23, 2026
-3. **[Predictions, Picks, and Pulse of World Cup 2026](https://dev.to/mabualzait/predictions-picks-and-pulse-of-world-cup-2026-1ejg)** - Jun 22, 2026
-4. **[World Cup 2026: The Big Kickoff Awaits](https://dev.to/mabualzait/world-cup-2026-the-big-kickoff-awaits-5cin)** - Jun 21, 2026
+1. **[Kicking Off: World Cup 2026 Predictions & Analysis](https://dev.to/mabualzait/kicking-off-world-cup-2026-predictions-analysis-ld0)** - Jun 26, 2026
+2. **[Kicking Off 2026: Expert Analysis for the Next Big Tournament](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-for-the-next-big-tournament-2bd2)** - Jun 25, 2026
+3. **[Playbook for Android devs: Google Play Store Compliance Made Easy](https://dev.to/mabualzait/playbook-for-android-devs-google-play-store-compliance-made-easy-53ji)** - Jun 25, 2026
+4. **[Accelerating SDV Revolution: Coreterra & Accenture Unite for Innovation](https://dev.to/mabualzait/accelerating-sdv-revolution-coreterra-accenture-unite-for-innovation-19a)** - Jun 25, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
 
 <!-- FUTURE-POST-LIST:START -->
-1. **[Kicking Off 2026: Expert Analysis & Predictions for the World's Biggest Stage](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-predictions-for-the-worlds-biggest-stage-ijf)** - Jun 24, 2026
-2. **[Predicting Champions: World Cup 2026 Strategy Guide](https://dev.to/mabualzait/predicting-champions-world-cup-2026-strategy-guide-186o)** - Jun 23, 2026
-3. **[Predictions, Picks, and Pulse of World Cup 2026](https://dev.to/mabualzait/predictions-picks-and-pulse-of-world-cup-2026-1ejg)** - Jun 22, 2026
-4. **[World Cup 2026: The Big Kickoff Awaits](https://dev.to/mabualzait/world-cup-2026-the-big-kickoff-awaits-5cin)** - Jun 21, 2026
+1. **[Kicking Off: World Cup 2026 Predictions & Analysis](https://dev.to/mabualzait/kicking-off-world-cup-2026-predictions-analysis-ld0)** - Jun 26, 2026
+2. **[Kicking Off 2026: Expert Analysis for the Next Big Tournament](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-for-the-next-big-tournament-2bd2)** - Jun 25, 2026
+3. **[Playbook for Android devs: Google Play Store Compliance Made Easy](https://dev.to/mabualzait/playbook-for-android-devs-google-play-store-compliance-made-easy-53ji)** - Jun 25, 2026
+4. **[Accelerating SDV Revolution: Coreterra & Accenture Unite for Innovation](https://dev.to/mabualzait/accelerating-sdv-revolution-coreterra-accenture-unite-for-innovation-19a)** - Jun 25, 2026
 <!-- FUTURE-POST-LIST:END -->
 
 <div align="center">
