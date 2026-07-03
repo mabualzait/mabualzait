@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Scoring Big: Unpacking the Hottest Trends in World Cup 2026](https://dev.to/mabualzait/scoring-big-unpacking-the-hottest-trends-in-world-cup-2026-2o4k)** - Jun 30, 2026
-2. **[Crunching Numbers: 2026 World Cup Predictions & Trends](https://dev.to/mabualzait/crunching-numbers-2026-world-cup-predictions-trends-417a)** - Jun 29, 2026
-3. **[Kicking Off: World Cup 2026 Predictions & Analysis](https://dev.to/mabualzait/kicking-off-world-cup-2026-predictions-analysis-ld0)** - Jun 26, 2026
-4. **[Kicking Off 2026: Expert Analysis for the Next Big Tournament](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-for-the-next-big-tournament-2bd2)** - Jun 25, 2026
+1. **[Kicking Off 2026: World Cup Predictions & Analysis](https://dev.to/mabualzait/kicking-off-2026-world-cup-predictions-analysis-2ci5)** - Jul 02, 2026
+2. **[CIA Cranks Up Tech Intensity with AI & More](https://dev.to/mabualzait/cia-cranks-up-tech-intensity-with-ai-more-8a7)** - Jul 02, 2026
+3. **[Unpacking the Lineups: World Cup 2026 Team Analysis](https://dev.to/mabualzait/unpacking-the-lineups-world-cup-2026-team-analysis-42ee)** - Jul 01, 2026
+4. **[Scoring Big: Unpacking the Hottest Trends in World Cup 2026](https://dev.to/mabualzait/scoring-big-unpacking-the-hottest-trends-in-world-cup-2026-2o4k)** - Jun 30, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
