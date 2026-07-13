@@ -66,10 +66,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 🚀 Future Forem Articles
 
 <!-- FUTURE-POST-LIST:START -->
-1. **[Kicking Off 2026: World Cup Predictions & Analysis](https://dev.to/mabualzait/kicking-off-2026-world-cup-predictions-analysis-98o)** - Jul 10, 2026
-2. **[**Unveiling the Pitch Perfect Stages of World Cup 2026**](https://dev.to/mabualzait/unveiling-the-pitch-perfect-stages-of-world-cup-2026-395m)** - Jul 09, 2026
-3. **[Google Play-Ready: Streamline Your Android App's Compliance](https://dev.to/mabualzait/google-play-ready-streamline-your-android-apps-compliance-3h4m)** - Jul 09, 2026
-4. **[Code, Creativity, and Celebration: 80+ Devs Unite at US's Biggest Literary Fest](https://dev.to/mabualzait/code-creativity-and-celebration-80-devs-unite-at-uss-biggest-literary-fest-2m1b)** - Jul 09, 2026
+1. **[Kicking Off 2026: Expert Analysis & Predictions for the FIFA World Cup](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-predictions-for-the-fifa-world-cup-m93)** - Jul 12, 2026
+2. **[Injecting AI into Your Codebase: Sparks of Intelligence](https://dev.to/mabualzait/injecting-ai-into-your-codebase-sparks-of-intelligence-m2)** - Jul 12, 2026
+3. **[Predicting Disaster: AI Unlocks Early Earthquake Warnings with Machine Learni...](https://dev.to/mabualzait/predicting-disaster-ai-unlocks-early-earthquake-warnings-with-machine-learni-ffo)** - Jul 12, 2026
+4. **[Kicking Off 2026: Expert Analysis & Predictions for the FIFA World Cup](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-predictions-for-the-fifa-world-cup-29i7)** - Jul 11, 2026
 <!-- FUTURE-POST-LIST:END -->
 
 <div align="center">
