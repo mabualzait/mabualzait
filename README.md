@@ -66,10 +66,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 🚀 Future Forem Articles
 
 <!-- FUTURE-POST-LIST:START -->
-1. **[Kicking Off 2026: Expert Analysis & Predictions for the FIFA World Cup](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-predictions-for-the-fifa-world-cup-m93)** - Jul 12, 2026
-2. **[Injecting AI into Your Codebase: Sparks of Intelligence](https://dev.to/mabualzait/injecting-ai-into-your-codebase-sparks-of-intelligence-m2)** - Jul 12, 2026
-3. **[Predicting Disaster: AI Unlocks Early Earthquake Warnings with Machine Learni...](https://dev.to/mabualzait/predicting-disaster-ai-unlocks-early-earthquake-warnings-with-machine-learni-ffo)** - Jul 12, 2026
-4. **[Kicking Off 2026: Expert Analysis & Predictions for the FIFA World Cup](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-predictions-for-the-fifa-world-cup-29i7)** - Jul 11, 2026
+1. **[World Cup Power Shift: Can Spain Dethrone the Kings?](https://dev.to/mabualzait/world-cup-power-shift-can-spain-dethrone-the-kings-4ep0)** - Jul 15, 2026
+2. **[Kicking Off 2026: Expert Analysis for the Next Big Tournament](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-for-the-next-big-tournament-3pcn)** - Jul 14, 2026
+3. **[World Cup 2026: Teams to Watch & Top Tournament Trends](https://dev.to/mabualzait/world-cup-2026-teams-to-watch-top-tournament-trends-pbe)** - Jul 13, 2026
+4. **[Kicking Off 2026: Expert Analysis & Predictions for the FIFA World Cup](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-predictions-for-the-fifa-world-cup-m93)** - Jul 12, 2026
 <!-- FUTURE-POST-LIST:END -->
 
 <div align="center">
