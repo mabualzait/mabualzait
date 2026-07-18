@@ -66,10 +66,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 🚀 Future Forem Articles
 
 <!-- FUTURE-POST-LIST:START -->
-1. **[World Cup Power Shift: Can Spain Dethrone the Kings?](https://dev.to/mabualzait/world-cup-power-shift-can-spain-dethrone-the-kings-4ep0)** - Jul 15, 2026
-2. **[Kicking Off 2026: Expert Analysis for the Next Big Tournament](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-for-the-next-big-tournament-3pcn)** - Jul 14, 2026
-3. **[World Cup 2026: Teams to Watch & Top Tournament Trends](https://dev.to/mabualzait/world-cup-2026-teams-to-watch-top-tournament-trends-pbe)** - Jul 13, 2026
-4. **[Kicking Off 2026: Expert Analysis & Predictions for the FIFA World Cup](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-predictions-for-the-fifa-world-cup-m93)** - Jul 12, 2026
+1. **[Kicking Off 2026: Expert Analysis & World Cup Predictions](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-world-cup-predictions-27g0)** - Jul 17, 2026
+2. **[Kicking Off 2026: Expert Analysis & Predictions for the World Cup](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-predictions-for-the-world-cup-5dep)** - Jul 16, 2026
+3. **[Exclusive: Oracle Pioneers Secret Cloud Deployment in Japan](https://dev.to/mabualzait/exclusive-oracle-pioneers-secret-cloud-deployment-in-japan-3ha4)** - Jul 16, 2026
+4. **[World Cup Power Shift: Can Spain Dethrone the Kings?](https://dev.to/mabualzait/world-cup-power-shift-can-spain-dethrone-the-kings-4ep0)** - Jul 15, 2026
 <!-- FUTURE-POST-LIST:END -->
 
 <div align="center">
