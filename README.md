@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Kicking Off 2026: Expert Analysis & Predictions for the World Cup](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-predictions-for-the-world-cup-4h6f)** - Jul 20, 2026
-2. **[2026 World Cup Predictions: Expert Analysis & Matchups to Watch](https://dev.to/mabualzait/2026-world-cup-predictions-expert-analysis-matchups-to-watch-4cdm)** - Jul 19, 2026
-3. **[Integrating Cognitive Bias into AI Systems](https://dev.to/mabualzait/integrating-cognitive-bias-into-ai-systems-36e7)** - Jul 19, 2026
-4. **[Boosting AI with Classic ML: A Powerful Combo Revealed](https://dev.to/mabualzait/boosting-ai-with-classic-ml-a-powerful-combo-revealed-d1f)** - Jul 19, 2026
+1. **[Kicking Off 2026: World Cup Predictions and Insights](https://dev.to/mabualzait/kicking-off-2026-world-cup-predictions-and-insights-8a5)** - Jul 21, 2026
+2. **[Kicking Off 2026: Expert Analysis & Predictions for the World Cup](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-predictions-for-the-world-cup-4h6f)** - Jul 20, 2026
+3. **[2026 World Cup Predictions: Expert Analysis & Matchups to Watch](https://dev.to/mabualzait/2026-world-cup-predictions-expert-analysis-matchups-to-watch-4cdm)** - Jul 19, 2026
+4. **[Integrating Cognitive Bias into AI Systems](https://dev.to/mabualzait/integrating-cognitive-bias-into-ai-systems-36e7)** - Jul 19, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
