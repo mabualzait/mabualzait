@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Kicking Off the Next Chapter: A Guide to World Cup 2026](https://dev.to/mabualzait/kicking-off-the-next-chapter-a-guide-to-world-cup-2026-5he6)** - Jul 24, 2026
-2. **[Kicking Off 2026: World Cup Predictions & Analysis](https://dev.to/mabualzait/kicking-off-2026-world-cup-predictions-analysis-50il)** - Jul 23, 2026
-3. **[Play Store Ready: Conform to Google's Strict Requirements with Ease](https://dev.to/mabualzait/play-store-ready-conform-to-googles-strict-requirements-with-ease-4plk)** - Jul 23, 2026
-4. **[Remembering Sylvia Bugg: Pioneering PBS Programming Chief Passes at 55](https://dev.to/mabualzait/remembering-sylvia-bugg-pioneering-pbs-programming-chief-passes-at-55-4glh)** - Jul 23, 2026
+1. **[Unpacking Every Goal: World Cup 2026 Deep Dive](https://dev.to/mabualzait/unpacking-every-goal-world-cup-2026-deep-dive-9j2)** - Jul 26, 2026
+2. **[Kindling Smarter Systems with AI Spark](https://dev.to/mabualzait/kindling-smarter-systems-with-ai-spark-2mik)** - Jul 26, 2026
+3. **[Debunking Type Halls of Mirrors: 7 Patterns to Fix Common GenContract Bugs](https://dev.to/mabualzait/debunking-type-halls-of-mirrors-7-patterns-to-fix-common-gencontract-bugs-4d65)** - Jul 26, 2026
+4. **[Sizing Up the Field: World Cup 2026 Predictions](https://dev.to/mabualzait/sizing-up-the-field-world-cup-2026-predictions-3159)** - Jul 25, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
