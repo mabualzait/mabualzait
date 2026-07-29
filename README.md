@@ -66,10 +66,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 🚀 Future Forem Articles
 
 <!-- FUTURE-POST-LIST:START -->
-1. **[Unpacking Every Goal: World Cup 2026 Deep Dive](https://dev.to/mabualzait/unpacking-every-goal-world-cup-2026-deep-dive-9j2)** - Jul 26, 2026
-2. **[Kindling Smarter Systems with AI Spark](https://dev.to/mabualzait/kindling-smarter-systems-with-ai-spark-2mik)** - Jul 26, 2026
-3. **[Debunking Type Halls of Mirrors: 7 Patterns to Fix Common GenContract Bugs](https://dev.to/mabualzait/debunking-type-halls-of-mirrors-7-patterns-to-fix-common-gencontract-bugs-4d65)** - Jul 26, 2026
-4. **[Sizing Up the Field: World Cup 2026 Predictions](https://dev.to/mabualzait/sizing-up-the-field-world-cup-2026-predictions-3159)** - Jul 25, 2026
+1. **[Kicking Off 2026: Expert World Cup Analysis & Predictions](https://dev.to/mabualzait/kicking-off-2026-expert-world-cup-analysis-predictions-2224)** - Jul 28, 2026
+2. **[World Cup 2026: Locking Down Favorites and Dark Horses](https://dev.to/mabualzait/world-cup-2026-locking-down-favorites-and-dark-horses-1f0m)** - Jul 27, 2026
+3. **[Unpacking Every Goal: World Cup 2026 Deep Dive](https://dev.to/mabualzait/unpacking-every-goal-world-cup-2026-deep-dive-9j2)** - Jul 26, 2026
+4. **[Kindling Smarter Systems with AI Spark](https://dev.to/mabualzait/kindling-smarter-systems-with-ai-spark-2mik)** - Jul 26, 2026
 <!-- FUTURE-POST-LIST:END -->
 
 <div align="center">
