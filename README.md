@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Unpacking the Future of Football: World Cup 2026 Projections](https://dev.to/mabualzait/unpacking-the-future-of-football-world-cup-2026-projections-49fo)** - Aug 02, 2026
-2. **[Injecting Smarts into Your Code with AI-Powered Insights](https://dev.to/mabualzait/injecting-smarts-into-your-code-with-ai-powered-insights-lfd)** - Aug 02, 2026
-3. **[Revolutionizing DevOps with AI-Native Engineering](https://dev.to/mabualzait/revolutionizing-devops-with-ai-native-engineering-2opb)** - Aug 02, 2026
-4. **[Predicting the Winners of World Cup 2026: Expert Analysis and Breakdowns](https://dev.to/mabualzait/predicting-the-winners-of-world-cup-2026-expert-analysis-and-breakdowns-g9g)** - Aug 01, 2026
+1. **[Unlocking the Road to Glory: World Cup 2026 Predictions & Analysis](https://dev.to/mabualzait/unlocking-the-road-to-glory-world-cup-2026-predictions-analysis-424k)** - Aug 03, 2026
+2. **[Unpacking the Future of Football: World Cup 2026 Projections](https://dev.to/mabualzait/unpacking-the-future-of-football-world-cup-2026-projections-49fo)** - Aug 02, 2026
+3. **[Injecting Smarts into Your Code with AI-Powered Insights](https://dev.to/mabualzait/injecting-smarts-into-your-code-with-ai-powered-insights-lfd)** - Aug 02, 2026
+4. **[Revolutionizing DevOps with AI-Native Engineering](https://dev.to/mabualzait/revolutionizing-devops-with-ai-native-engineering-2opb)** - Aug 02, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
