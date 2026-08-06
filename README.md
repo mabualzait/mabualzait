@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Unlocking the Road to Glory: World Cup 2026 Predictions & Analysis](https://dev.to/mabualzait/unlocking-the-road-to-glory-world-cup-2026-predictions-analysis-424k)** - Aug 03, 2026
-2. **[Unpacking the Future of Football: World Cup 2026 Projections](https://dev.to/mabualzait/unpacking-the-future-of-football-world-cup-2026-projections-49fo)** - Aug 02, 2026
-3. **[Injecting Smarts into Your Code with AI-Powered Insights](https://dev.to/mabualzait/injecting-smarts-into-your-code-with-ai-powered-insights-lfd)** - Aug 02, 2026
-4. **[Revolutionizing DevOps with AI-Native Engineering](https://dev.to/mabualzait/revolutionizing-devops-with-ai-native-engineering-2opb)** - Aug 02, 2026
+1. **[Prop 57's Data-Driven Approach: How Code-Based Reform Keeps Recidivism Low](https://dev.to/mabualzait/prop-57s-data-driven-approach-how-code-based-reform-keeps-recidivism-low-2ckp)** - Aug 06, 2026
+2. **[World Cup 2026: Unpacking the Drama, One Match at a Time](https://dev.to/mabualzait/world-cup-2026-unpacking-the-drama-one-match-at-a-time-4jac)** - Aug 05, 2026
+3. **[Group of Doom: Navigating the World Cup's Toughest Draw](https://dev.to/mabualzait/group-of-doom-navigating-the-world-cups-toughest-draw-e5k)** - Aug 04, 2026
+4. **[Unlocking the Road to Glory: World Cup 2026 Predictions & Analysis](https://dev.to/mabualzait/unlocking-the-road-to-glory-world-cup-2026-predictions-analysis-424k)** - Aug 03, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
