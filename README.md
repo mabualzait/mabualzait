@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Prop 57's Data-Driven Approach: How Code-Based Reform Keeps Recidivism Low](https://dev.to/mabualzait/prop-57s-data-driven-approach-how-code-based-reform-keeps-recidivism-low-2ckp)** - Aug 06, 2026
-2. **[World Cup 2026: Unpacking the Drama, One Match at a Time](https://dev.to/mabualzait/world-cup-2026-unpacking-the-drama-one-match-at-a-time-4jac)** - Aug 05, 2026
-3. **[Group of Doom: Navigating the World Cup's Toughest Draw](https://dev.to/mabualzait/group-of-doom-navigating-the-world-cups-toughest-draw-e5k)** - Aug 04, 2026
-4. **[Unlocking the Road to Glory: World Cup 2026 Predictions & Analysis](https://dev.to/mabualzait/unlocking-the-road-to-glory-world-cup-2026-predictions-analysis-424k)** - Aug 03, 2026
+1. **[Kicking Off the Future: World Cup 2026 Predictions & Analysis](https://dev.to/mabualzait/kicking-off-the-future-world-cup-2026-predictions-analysis-2bh1)** - Aug 07, 2026
+2. **[Kicking Off the Countdown: Expert Analysis for World Cup 2026](https://dev.to/mabualzait/kicking-off-the-countdown-expert-analysis-for-world-cup-2026-4h1k)** - Aug 06, 2026
+3. **[Crack Google Play Store Compliance with Ease](https://dev.to/mabualzait/crack-google-play-store-compliance-with-ease-542d)** - Aug 06, 2026
+4. **[Prop 57's Data-Driven Approach: How Code-Based Reform Keeps Recidivism Low](https://dev.to/mabualzait/prop-57s-data-driven-approach-how-code-based-reform-keeps-recidivism-low-2ckp)** - Aug 06, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
