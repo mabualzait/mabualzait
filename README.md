@@ -66,7 +66,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 🚀 Future Forem Articles
 
 <!-- FUTURE-POST-LIST:START -->
-**No recent Future Forem articles found** - Check back soon for new content!
+1. **[Kicking Off 2026: The Ultimate WC Roadmap](https://dev.to/mabualzait/kicking-off-2026-the-ultimate-wc-roadmap-1gci)** - Aug 09, 2026
+2. **[Injecting Smarts into Code: A Spark of Innovation](https://dev.to/mabualzait/injecting-smarts-into-code-a-spark-of-innovation-11h0)** - Aug 09, 2026
+3. **[AI Takes Over My Code: How Machine Learning Transformed My Job Forever](https://dev.to/mabualzait/ai-takes-over-my-code-how-machine-learning-transformed-my-job-forever-2e2m)** - Aug 09, 2026
+4. **[Kicking Off the Future: World Cup 2026 Predictions & Analysis](https://dev.to/mabualzait/kicking-off-the-future-world-cup-2026-predictions-analysis-4kp2)** - Aug 08, 2026
 <!-- FUTURE-POST-LIST:END -->
 
 <div align="center">
