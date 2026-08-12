@@ -66,10 +66,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 🚀 Future Forem Articles
 
 <!-- FUTURE-POST-LIST:START -->
-1. **[Kicking Off 2026: The Ultimate WC Roadmap](https://dev.to/mabualzait/kicking-off-2026-the-ultimate-wc-roadmap-1gci)** - Aug 09, 2026
-2. **[Injecting Smarts into Code: A Spark of Innovation](https://dev.to/mabualzait/injecting-smarts-into-code-a-spark-of-innovation-11h0)** - Aug 09, 2026
-3. **[AI Takes Over My Code: How Machine Learning Transformed My Job Forever](https://dev.to/mabualzait/ai-takes-over-my-code-how-machine-learning-transformed-my-job-forever-2e2m)** - Aug 09, 2026
-4. **[Kicking Off the Future: World Cup 2026 Predictions & Analysis](https://dev.to/mabualzait/kicking-off-the-future-world-cup-2026-predictions-analysis-4kp2)** - Aug 08, 2026
+1. **[Kicking Off 2026: Your Ultimate World Cup Preview](https://dev.to/mabualzait/kicking-off-2026-your-ultimate-world-cup-preview-2jn9)** - Aug 11, 2026
+2. **[Unlocking World Cup Secrets for 2026](https://dev.to/mabualzait/unlocking-world-cup-secrets-for-2026-5fm6)** - Aug 10, 2026
+3. **[Kicking Off 2026: The Ultimate WC Roadmap](https://dev.to/mabualzait/kicking-off-2026-the-ultimate-wc-roadmap-1gci)** - Aug 09, 2026
+4. **[Injecting Smarts into Code: A Spark of Innovation](https://dev.to/mabualzait/injecting-smarts-into-code-a-spark-of-innovation-11h0)** - Aug 09, 2026
 <!-- FUTURE-POST-LIST:END -->
 
 <div align="center">
