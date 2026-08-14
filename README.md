@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Kicking Off 2026: Your Ultimate World Cup Preview](https://dev.to/mabualzait/kicking-off-2026-your-ultimate-world-cup-preview-2jn9)** - Aug 11, 2026
-2. **[Unlocking World Cup Secrets for 2026](https://dev.to/mabualzait/unlocking-world-cup-secrets-for-2026-5fm6)** - Aug 10, 2026
-3. **[Kicking Off 2026: The Ultimate WC Roadmap](https://dev.to/mabualzait/kicking-off-2026-the-ultimate-wc-roadmap-1gci)** - Aug 09, 2026
-4. **[Injecting Smarts into Code: A Spark of Innovation](https://dev.to/mabualzait/injecting-smarts-into-code-a-spark-of-innovation-11h0)** - Aug 09, 2026
+1. **[**"Group Stage Showdowns: Who Will Reign Supreme in WC 2026?"**](https://dev.to/mabualzait/group-stage-showdowns-who-will-reign-supreme-in-wc-2026-1on0)** - Aug 13, 2026
+2. **[Level Up Your Code with AI-Powered Go](https://dev.to/mabualzait/level-up-your-code-with-ai-powered-go-hg8)** - Aug 13, 2026
+3. **[Kicking Off 2026: Your Ultimate World Cup Preview](https://dev.to/mabualzait/kicking-off-2026-your-ultimate-world-cup-preview-2jn9)** - Aug 11, 2026
+4. **[Unlocking World Cup Secrets for 2026](https://dev.to/mabualzait/unlocking-world-cup-secrets-for-2026-5fm6)** - Aug 10, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
