@@ -66,10 +66,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 🚀 Future Forem Articles
 
 <!-- FUTURE-POST-LIST:START -->
-1. **[2026 World Cup Predictions & Analysis: A Deep Dive into the Action](https://dev.to/mabualzait/2026-world-cup-predictions-analysis-a-deep-dive-into-the-action-1k5c)** - Aug 16, 2026
-2. **[Electrifying AI with Edge Computing](https://dev.to/mabualzait/electrifying-ai-with-edge-computing-3p06)** - Aug 16, 2026
-3. **[Level Up in D.C.: DPR Fall Prog, Senior Game Devs & More](https://dev.to/mabualzait/level-up-in-dc-dpr-fall-prog-senior-game-devs-more-2c00)** - Aug 16, 2026
-4. **[Team Chemistry: Unlocking World Cup Glory in 2026](https://dev.to/mabualzait/team-chemistry-unlocking-world-cup-glory-in-2026-43ei)** - Aug 15, 2026
+1. **[Kicking Off: Expert Analysis for World Cup 2026](https://dev.to/mabualzait/kicking-off-expert-analysis-for-world-cup-2026-3jph)** - Aug 19, 2026
+2. **[Infantino's Legacy: What's Next for FIFA & The Future of Football](https://dev.to/mabualzait/infantinos-legacy-whats-next-for-fifa-the-future-of-football-o6j)** - Aug 18, 2026
+3. **[2026 World Cup Predictions: Who Will Reign Supreme?](https://dev.to/mabualzait/2026-world-cup-predictions-who-will-reign-supreme-dm9)** - Aug 17, 2026
+4. **[2026 World Cup Predictions & Analysis: A Deep Dive into the Action](https://dev.to/mabualzait/2026-world-cup-predictions-analysis-a-deep-dive-into-the-action-1k5c)** - Aug 16, 2026
 <!-- FUTURE-POST-LIST:END -->
 
 <div align="center">
