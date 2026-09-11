@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Reviving the Silver Screen: Data-Driven Solution to Save Theaters from Decline](https://dev.to/mabualzait/reviving-the-silver-screen-data-driven-solution-to-save-theaters-from-decline-27lp)** - Sep 10, 2026
-2. **[Kicking Off 2026: Expert World Cup Predictions & Analysis](https://dev.to/mabualzait/kicking-off-2026-expert-world-cup-predictions-analysis-3m4o)** - Sep 09, 2026
-3. **[Kicking Off: Expert Analysis for World Cup 2026](https://dev.to/mabualzait/kicking-off-expert-analysis-for-world-cup-2026-4cig)** - Sep 08, 2026
-4. **[Kicking Off 2026: Expert Analysis from the World Cup](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-from-the-world-cup-4j2e)** - Sep 07, 2026
+1. **[Kicking Off: Expert Analysis for World Cup 2026](https://dev.to/mabualzait/kicking-off-expert-analysis-for-world-cup-2026-4cig)** - Sep 08, 2026
+2. **[Kicking Off 2026: Expert Analysis from the World Cup](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-from-the-world-cup-4j2e)** - Sep 07, 2026
+3. **[Kicking Off 2026: Insider Look at World Cup Training Camps and Strategies](https://dev.to/mabualzait/kicking-off-2026-insider-look-at-world-cup-training-camps-and-strategies-3hki)** - Sep 06, 2026
+4. **[Injecting AI into Your Codebase: A Spark of Innovation](https://dev.to/mabualzait/injecting-ai-into-your-codebase-a-spark-of-innovation-33m6)** - Sep 06, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
