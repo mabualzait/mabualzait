@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Scoring Big: Expert Analysis for World Cup 2026](https://dev.to/mabualzait/scoring-big-expert-analysis-for-world-cup-2026-3e13)** - Sep 10, 2026
-2. **[Google Play Store Compliance Made Easy with Auto-Generated Assets](https://dev.to/mabualzait/google-play-store-compliance-made-easy-with-auto-generated-assets-d7n)** - Sep 10, 2026
-3. **[Reviving the Silver Screen: Data-Driven Solution to Save Theaters from Decline](https://dev.to/mabualzait/reviving-the-silver-screen-data-driven-solution-to-save-theaters-from-decline-27lp)** - Sep 10, 2026
-4. **[Kicking Off 2026: Expert World Cup Predictions & Analysis](https://dev.to/mabualzait/kicking-off-2026-expert-world-cup-predictions-analysis-3m4o)** - Sep 09, 2026
+1. **[Fueling AI: Kindling Sparks of Intelligence with Code](https://dev.to/mabualzait/fueling-ai-kindling-sparks-of-intelligence-with-code-4n88)** - Sep 13, 2026
+2. **[GitHub's Growth Overload: When Scale Meets Server Strife](https://dev.to/mabualzait/githubs-growth-overload-when-scale-meets-server-strife-1i57)** - Sep 13, 2026
+3. **[Unlocking World Cup 2026 Secrets: Expert Analysis & Predictions](https://dev.to/mabualzait/unlocking-world-cup-2026-secrets-expert-analysis-predictions-542j)** - Sep 12, 2026
+4. **[Scoring Big: Expert Analysis for World Cup 2026](https://dev.to/mabualzait/scoring-big-expert-analysis-for-world-cup-2026-3e13)** - Sep 10, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
