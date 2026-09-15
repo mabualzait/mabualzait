@@ -66,10 +66,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 🚀 Future Forem Articles
 
 <!-- FUTURE-POST-LIST:START -->
-1. **[Fueling AI: Kindling Sparks of Intelligence with Code](https://dev.to/mabualzait/fueling-ai-kindling-sparks-of-intelligence-with-code-4n88)** - Sep 13, 2026
-2. **[GitHub's Growth Overload: When Scale Meets Server Strife](https://dev.to/mabualzait/githubs-growth-overload-when-scale-meets-server-strife-1i57)** - Sep 13, 2026
-3. **[Unlocking World Cup 2026 Secrets: Expert Analysis & Predictions](https://dev.to/mabualzait/unlocking-world-cup-2026-secrets-expert-analysis-predictions-542j)** - Sep 12, 2026
-4. **[Scoring Big: Expert Analysis for World Cup 2026](https://dev.to/mabualzait/scoring-big-expert-analysis-for-world-cup-2026-3e13)** - Sep 10, 2026
+1. **[Kicking Off 2026: Expert Analysis & Predictions for the Ultimate FIFA Showdown](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-predictions-for-the-ultimate-fifa-showdown-36cn)** - Sep 14, 2026
+2. **[Fueling AI: Kindling Sparks of Intelligence with Code](https://dev.to/mabualzait/fueling-ai-kindling-sparks-of-intelligence-with-code-4n88)** - Sep 13, 2026
+3. **[GitHub's Growth Overload: When Scale Meets Server Strife](https://dev.to/mabualzait/githubs-growth-overload-when-scale-meets-server-strife-1i57)** - Sep 13, 2026
+4. **[Unlocking World Cup 2026 Secrets: Expert Analysis & Predictions](https://dev.to/mabualzait/unlocking-world-cup-2026-secrets-expert-analysis-predictions-542j)** - Sep 12, 2026
 <!-- FUTURE-POST-LIST:END -->
 
 <div align="center">
