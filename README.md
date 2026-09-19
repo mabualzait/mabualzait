@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Kicking Off 2026: Expert Analysis & Predictions for the Ultimate FIFA Showdown](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-predictions-for-the-ultimate-fifa-showdown-36cn)** - Sep 14, 2026
-2. **[Fueling AI: Kindling Sparks of Intelligence with Code](https://dev.to/mabualzait/fueling-ai-kindling-sparks-of-intelligence-with-code-4n88)** - Sep 13, 2026
-3. **[GitHub's Growth Overload: When Scale Meets Server Strife](https://dev.to/mabualzait/githubs-growth-overload-when-scale-meets-server-strife-1i57)** - Sep 13, 2026
-4. **[Unlocking World Cup 2026 Secrets: Expert Analysis & Predictions](https://dev.to/mabualzait/unlocking-world-cup-2026-secrets-expert-analysis-predictions-542j)** - Sep 12, 2026
+1. **[Kicking Off: World Cup 2026 Predictions & Insights](https://dev.to/mabualzait/kicking-off-world-cup-2026-predictions-insights-ml8)** - Sep 18, 2026
+2. **[USMNT's Next Chapter: Building for 2026 Glory](https://dev.to/mabualzait/usmnts-next-chapter-building-for-2026-glory-37f0)** - Sep 17, 2026
+3. **[Streamlining Delivery Pipelines with Params & Build Tags](https://dev.to/mabualzait/streamlining-delivery-pipelines-with-params-build-tags-1dl8)** - Sep 17, 2026
+4. **[Kicking Off 2026: Expert Analysis & Predictions for the Ultimate FIFA Showdown](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-predictions-for-the-ultimate-fifa-showdown-36cn)** - Sep 14, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
