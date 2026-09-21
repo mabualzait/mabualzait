@@ -66,10 +66,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 🚀 Future Forem Articles
 
 <!-- FUTURE-POST-LIST:START -->
-1. **[Kicking Off: World Cup 2026 Predictions & Insights](https://dev.to/mabualzait/kicking-off-world-cup-2026-predictions-insights-ml8)** - Sep 18, 2026
-2. **[USMNT's Next Chapter: Building for 2026 Glory](https://dev.to/mabualzait/usmnts-next-chapter-building-for-2026-glory-37f0)** - Sep 17, 2026
-3. **[Streamlining Delivery Pipelines with Params & Build Tags](https://dev.to/mabualzait/streamlining-delivery-pipelines-with-params-build-tags-1dl8)** - Sep 17, 2026
-4. **[Kicking Off 2026: Expert Analysis & Predictions for the Ultimate FIFA Showdown](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-predictions-for-the-ultimate-fifa-showdown-36cn)** - Sep 14, 2026
+1. **[Intelligent Systems in Code: Sparking Innovation through AI](https://dev.to/mabualzait/intelligent-systems-in-code-sparking-innovation-through-ai-27po)** - Sep 20, 2026
+2. **[Predictions & Possibilities: World Cup 2026 Preview](https://dev.to/mabualzait/predictions-possibilities-world-cup-2026-preview-771)** - Sep 19, 2026
+3. **[Kicking Off: World Cup 2026 Predictions & Insights](https://dev.to/mabualzait/kicking-off-world-cup-2026-predictions-insights-ml8)** - Sep 18, 2026
+4. **[USMNT's Next Chapter: Building for 2026 Glory](https://dev.to/mabualzait/usmnts-next-chapter-building-for-2026-glory-37f0)** - Sep 17, 2026
 <!-- FUTURE-POST-LIST:END -->
 
 <div align="center">
