@@ -66,10 +66,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 🚀 Future Forem Articles
 
 <!-- FUTURE-POST-LIST:START -->
-1. **[Cracking the Code: Top Insights for World Cup 2026](https://dev.to/mabualzait/cracking-the-code-top-insights-for-world-cup-2026-354o)** - Sep 24, 2026
-2. **[Google Play Compliant: Android App Development Made Easy with [Tool/Feature]](https://dev.to/mabualzait/google-play-compliant-android-app-development-made-easy-with-toolfeature-2fec)** - Sep 24, 2026
-3. **[Southland Trailers Gets a Site Makeover with Custom Web Dev](https://dev.to/mabualzait/southland-trailers-gets-a-site-makeover-with-custom-web-dev-3mpk)** - Sep 24, 2026
-4. **[Kicking Off 2026: World Cup Analysis & Predictions](https://dev.to/mabualzait/kicking-off-2026-world-cup-analysis-predictions-jd9)** - Sep 23, 2026
+1. **[Scoring Big: World Cup 2026 Predictions & Insights](https://dev.to/mabualzait/scoring-big-world-cup-2026-predictions-insights-32cp)** - Sep 27, 2026
+2. **[Firing Up AI with Edge Computing](https://dev.to/mabualzait/firing-up-ai-with-edge-computing-5473)** - Sep 27, 2026
+3. **[Meet Annika Blake-Howland, Your New Go-To for Code and Creativity at Wellsvil...](https://dev.to/mabualzait/meet-annika-blake-howland-your-new-go-to-for-code-and-creativity-at-wellsvil-2pi4)** - Sep 27, 2026
+4. **[Crunching Numbers: World Cup 2026 Predictions & Analysis](https://dev.to/mabualzait/crunching-numbers-world-cup-2026-predictions-analysis-2h40)** - Sep 26, 2026
 <!-- FUTURE-POST-LIST:END -->
 
 <div align="center">
