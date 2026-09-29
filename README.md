@@ -57,10 +57,10 @@ I'm a **results-driven technology leader** and **mobile technology expert** with
 ### 💻 Dev.to Articles
 
 <!-- DEVTO-POST-LIST:START -->
-1. **[Meet Annika Blake-Howland, Your New Go-To for Code and Creativity at Wellsvil...](https://dev.to/mabualzait/meet-annika-blake-howland-your-new-go-to-for-code-and-creativity-at-wellsvil-2pi4)** - Sep 27, 2026
-2. **[Crunching Numbers: World Cup 2026 Predictions & Analysis](https://dev.to/mabualzait/crunching-numbers-world-cup-2026-predictions-analysis-2h40)** - Sep 26, 2026
-3. **[Kicking Off World Cup 2026: Expert Predictions & Trends](https://dev.to/mabualzait/kicking-off-world-cup-2026-expert-predictions-trends-kf0)** - Sep 25, 2026
-4. **[Cracking the Code: Top Insights for World Cup 2026](https://dev.to/mabualzait/cracking-the-code-top-insights-for-world-cup-2026-354o)** - Sep 24, 2026
+1. **[Cracking the Code: Group Stage Strategies for World Cup 2026](https://dev.to/mabualzait/cracking-the-code-group-stage-strategies-for-world-cup-2026-3o8o)** - Sep 28, 2026
+2. **[Scoring Big: World Cup 2026 Predictions & Insights](https://dev.to/mabualzait/scoring-big-world-cup-2026-predictions-insights-32cp)** - Sep 27, 2026
+3. **[Firing Up AI with Edge Computing](https://dev.to/mabualzait/firing-up-ai-with-edge-computing-5473)** - Sep 27, 2026
+4. **[Meet Annika Blake-Howland, Your New Go-To for Code and Creativity at Wellsvil...](https://dev.to/mabualzait/meet-annika-blake-howland-your-new-go-to-for-code-and-creativity-at-wellsvil-2pi4)** - Sep 27, 2026
 <!-- DEVTO-POST-LIST:END -->
 
 ### 🚀 Future Forem Articles
