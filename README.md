@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&lines=Enterprise+Architecture+%7C+Technology+Strategy+%7C+AI+Transformation;From+Tech+Experimentation+to+Measurable+Business+Outcomes;Technical+Principal+%26+Executive+Advisory+Leader;15%2B+Years+of+Engineering+Excellence+%7C+Dubai%2C+UAE+🇦🇪" alt="Malik Abualzait - Typing Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&lines=Enterprise+Architecture+%7C+Technology+Strategy+%7C+AI+Transformation;DBA+Candidate+%40+Durham+University+UK+%F0%9F%87%AC%F0%9F%87%A7;From+Tech+Experimentation+to+Measurable+Business+Outcomes;15%2B+Years+of+Engineering+Excellence+%7C+Dubai%2C+UAE+🇦🇪" alt="Malik Abualzait - Typing Banner" />
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 </div>
 
 > [!NOTE]
-> **Malik Abualzait** is a technology leader operating at the intersection of **Enterprise Architecture**, **Technology Strategy**, and **AI Transformation**. With over 15 years of industry excellence, he guides organizations from early-stage emerging technology experimentation into **scalable, governed, resilient, and measurable business outcomes**. Based in Dubai, UAE.
+> **Malik Abualzait** is a technology leader operating at the intersection of **Enterprise Architecture**, **Technology Strategy**, and **AI Transformation**. Currently a **Doctor of Business Administration (DBA) Candidate at Durham University, UK**, he researches strategic AI implementation frameworks and organizational change management — guiding organizations from emerging technology experimentation into **scalable, governed, resilient, and measurable business outcomes**. Based in Dubai, UAE.
 
 <div align="center">
 
@@ -243,8 +243,10 @@ flowchart LR
 
 ---
 
-## 🎓 Academic Credentials
+## 🎓 Academic Credentials & Doctoral Research
 
+- 🎓 **Doctor of Business Administration (DBA) Candidate** — *Durham University, UK* 🇬🇧  
+  *Research Focus:* **Artificial Intelligence-Driven Transformation in Organizations Technology: A Framework for Strategic Implementation and Organizational Change Management**
 - 🎓 **Master of Science in Computer Science (M.Sc.)** — *Applied Science University*
 - 🎓 **Bachelor of Science in Computer Engineering (B.Sc.)** — *German Jordanian University*
 - 📜 **Professional Certifications**: Certified Agile & Scrum Master &bull; Oracle PL/SQL &bull; Android Certified Developer &bull; CCNA
