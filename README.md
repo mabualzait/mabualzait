@@ -273,9 +273,9 @@ This paper introduces an automated, high-accuracy diagnostic framework for detec
 
 - 🎓 **Doctor of Business Administration (DBA) Candidate** — *Durham University, UK* 🇬🇧  
   *Research Focus:* **Artificial Intelligence-Driven Transformation in Organizations Technology: A Framework for Strategic Implementation and Organizational Change Management**
-- 🎓 **Master of Science in Computer Science (M.Sc.)** — *Applied Science University*
-- 🎓 **Bachelor of Science in Computer Engineering (B.Sc.)** — *German Jordanian University*
-- 📜 **Professional Certifications**: Certified Agile & Scrum Master &bull; Oracle PL/SQL &bull; Android Certified Developer &bull; CCNA
+- 🎓 **Master of Science in Computer Science (M.Sc.)** — *Applied Science Private University, Jordan* 🇯🇴
+- 🎓 **Bachelor of Science in Computer Engineering (B.Sc.)** — *German Jordanian University, Jordan / Germany* 🇯🇴 🇩🇪
+- 📜 **Professional Certifications**: Certified Agile & Scrum Master &bull; Oracle PL/SQL &bull; Android Certified Developer &bull; CCNA 🌐
 
 ---
 
