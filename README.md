@@ -7,11 +7,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&lines=Enterprise+Architecture+%7C+Technology+Strategy+%7C+AI+Transformation;DBA+Candidate+%40+Durham+University+UK+%F0%9F%87%AC%F0%9F%87%A7;From+Tech+Experimentation+to+Measurable+Business+Outcomes;15%2B+Years+of+Engineering+Excellence+%7C+Dubai%2C+UAE+🇦🇪" alt="Malik Abualzait - Typing Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&lines=Enterprise+Architecture+%7C+Technology+Strategy+%7C+AI+Transformation;From+Tech+Experimentation+to+Measurable+Business+Outcomes;Technical+Principal+%26+Executive+Advisory+Leader;15%2B+Years+of+Engineering+Excellence+%7C+Dubai%2C+UAE+🇦🇪" alt="Malik Abualzait - Typing Banner" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abualzait/"><img src="https://img.shields.io/badge/LinkedIn-Malik_Abualzait-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://doi.org/10.1109/MENACOMM69507.2026.11532620"><img src="https://img.shields.io/badge/IEEE_Xplore-Research-00629B?style=flat-square&logo=ieee&logoColor=white" alt="IEEE Xplore"/></a>
   <a href="https://dev.to/mabualzait"><img src="https://img.shields.io/badge/Dev.to-@mabualzait-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" alt="Dev.to"/></a>
   <a href="https://medium.com/@m.abualzait"><img src="https://img.shields.io/badge/Medium-@m.abualzait-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium"/></a>
   <a href="https://www.udemy.com/user/malik-abualzait/"><img src="https://img.shields.io/badge/Udemy-23K+_Students-EC5252?style=flat-square&logo=udemy&logoColor=white" alt="Udemy"/></a>
@@ -149,6 +150,30 @@ flowchart LR
 
 ---
 
+## 🔬 Peer-Reviewed Research & IEEE Publications
+
+<table width="100%">
+<tr>
+<td>
+<img align="left" src="https://img.icons8.com/fluency/64/biotech.png" width="56" style="margin-right: 15px;"/>
+<h3>📄 An Optimized Deep Learning Model for Sleep Apnea Detection</h3>
+<p><strong>Conference & Publisher:</strong> <em>IEEE Xplore &bull; 2026 6th Middle East and North Africa Communications Conference (MENACOMM)</em><br>
+<strong>Authors:</strong> <strong>Malik Abualzait</strong>, Mahmoud H. Qutqut, Ali Ahmed, Fadi Almasalha<br>
+<strong>DOI:</strong> <a href="https://doi.org/10.1109/MENACOMM69507.2026.11532620">10.1109/MENACOMM69507.2026.11532620</a> &bull; <strong>IEEE Document:</strong> <a href="https://ieeexplore.ieee.org/document/11532620">11532620</a></p>
+
+<p><strong>Research Abstract & Contribution:</strong><br>
+This paper introduces an automated, high-accuracy diagnostic framework for detecting <strong>Obstructive Sleep Apnea (OSA)</strong> from single-lead electrocardiogram (ECG) physiological signals. By integrating deep <strong>Convolutional Neural Networks (1D-CNN)</strong> with metaheuristic <strong>Gray Wolf Optimization (GWO)</strong>, the architecture optimizes feature extraction directly from raw signals without manual engineering, minimizing diagnostic latency while achieving high screening reliability ideal for resource-constrained edge computing and wearable HealthTech devices.</p>
+
+<p>
+  <a href="https://doi.org/10.1109/MENACOMM69507.2026.11532620" target="_blank"><img src="https://img.shields.io/badge/IEEE_Xplore-Read_Paper-00629B?style=for-the-badge&logo=ieee&logoColor=white"/></a>
+  <a href="https://ieeexplore.ieee.org/document/11532620" target="_blank"><img src="https://img.shields.io/badge/IEEE_Xplore-Document_11532620-1F2937?style=for-the-badge&logo=read-the-docs&logoColor=white"/></a>
+</p>
+</td>
+</tr>
+</table>
+
+---
+
 ## 🏆 Featured Platforms & Initiatives
 
 <table align="center" width="100%">
@@ -177,9 +202,10 @@ flowchart LR
 </td>
 <td align="center" width="50%">
 <img src="https://img.icons8.com/fluency/72/artificial-intelligence.png"/>
-<h3>🧠 HealthTech ML & Predictive AI Research</h3>
-<p>Applied Machine Learning research focusing on non-invasive sleep apnea detection algorithms, edge model optimization, and biomedical signals.</p>
-<p><em>Python &bull; TensorFlow &bull; Edge AI &bull; Healthcare Innovation</em></p>
+<h3>🧠 HealthTech ML & Sleep Apnea Detection</h3>
+<p>Published IEEE research on deep learning architectures (1D-CNN + Gray Wolf Optimization) for automated sleep apnea screening via single-lead ECG signals.</p>
+<p><em>IEEE Xplore &bull; Python &bull; Deep Learning &bull; Bio-Signals &bull; Edge AI</em></p>
+<p><a href="https://doi.org/10.1109/MENACOMM69507.2026.11532620" target="_blank"><img src="https://img.shields.io/badge/Read_IEEE_Paper-00629B?style=flat-square&logo=ieee&logoColor=white"/></a></p>
 </td>
 </tr>
 </table>
@@ -260,6 +286,7 @@ flowchart LR
 Have a strategic initiative, enterprise architecture challenge, or AI transformation roadmap? Let's connect.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abualzait/)
+[![IEEE Xplore](https://img.shields.io/badge/IEEE_Xplore-Research-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://doi.org/10.1109/MENACOMM69507.2026.11532620)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mabualzait)
 [![Dev.to](https://img.shields.io/badge/Dev.to-Follow-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/mabualzait)
 [![Medium](https://img.shields.io/badge/Medium-Follow-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@m.abualzait)
