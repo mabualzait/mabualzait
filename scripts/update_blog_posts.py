@@ -181,31 +181,30 @@ def update_readme(posts, udemy_courses, max_display=8):
         # Generate markdown for Dev.to posts
         devto_markdown = "<!-- DEVTO-POST-LIST:START -->\n"
         if devto_posts:
-            for i, post in enumerate(devto_posts, 1):
-                devto_markdown += f"{i}. **[{post['title']}]({post['url']})** - {format_date(post['published'])}\n"
+            for post in devto_posts:
+                devto_markdown += f"- 🔹 **[{post['title']}]({post['url']})** &nbsp;·&nbsp; <sub>`{format_date(post['published'])}`</sub>\n"
         else:
-            devto_markdown += "**No recent Dev.to articles found** - Check back soon for new content!\n"
+            devto_markdown += "_No recent Dev.to articles found — check back soon!_\n"
         devto_markdown += "<!-- DEVTO-POST-LIST:END -->"
         
         # Generate markdown for Future Forem posts
         future_markdown = "<!-- FUTURE-POST-LIST:START -->\n"
         if future_posts:
-            for i, post in enumerate(future_posts, 1):
-                future_markdown += f"{i}. **[{post['title']}]({post['url']})** - {format_date(post['published'])}\n"
+            for post in future_posts:
+                future_markdown += f"- 🚀 **[{post['title']}]({post['url']})** &nbsp;·&nbsp; <sub>`{format_date(post['published'])}`</sub>\n"
         else:
-            future_markdown += "**No recent Future Forem articles found** - Check back soon for new content!\n"
+            future_markdown += "_No recent Future Forem articles found — check back soon!_\n"
         future_markdown += "<!-- FUTURE-POST-LIST:END -->"
         
         # Generate markdown for Udemy courses
         udemy_markdown = "<!-- UDEMY-COURSES:START -->\n"
         if udemy_courses:
             total_students = sum(course['students'] for course in udemy_courses)
-            udemy_markdown += f"**Total Students Enrolled: {total_students:,}**\n\n"
-            for i, course in enumerate(udemy_courses, 1):
-                udemy_markdown += f"{i}. **[{course['title']}]({course['url']})**\n"
-                udemy_markdown += f"   - 👥 {course['students']:,} students • ⭐ {course['rating']}/5.0 • ⏱️ {course['duration']}\n\n"
+            udemy_markdown += f"🏆 **{total_students:,}+ Global Students Enrolled**\n\n"
+            for course in udemy_courses:
+                udemy_markdown += f"- 🎓 **[{course['title']}]({course['url']})**<br>&nbsp;&nbsp;⭐ `{course['rating']}/5.0` &nbsp;•&nbsp; 👥 `{course['students']:,} students` &nbsp;•&nbsp; ⏱️ `{course['duration']}`\n\n"
         else:
-            udemy_markdown += "**No courses found** - Check back soon for new courses!\n"
+            udemy_markdown += "_No courses found — check back soon!_\n"
         udemy_markdown += "<!-- UDEMY-COURSES:END -->"
         
         # Replace Dev.to posts section
