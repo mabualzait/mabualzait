@@ -97,10 +97,10 @@ flowchart LR
 
 #### 💻 Dev.to Articles
 <!-- DEVTO-POST-LIST:START -->
+- 🔹 **[Kicking Off: World Cup 2026 Predictions & Analysis](https://dev.to/mabualzait/kicking-off-world-cup-2026-predictions-analysis-3c3a)** &nbsp;·&nbsp; <sub>`Sep 29, 2026`</sub>
 - 🔹 **[Cracking the Code: Group Stage Strategies for World Cup 2026](https://dev.to/mabualzait/cracking-the-code-group-stage-strategies-for-world-cup-2026-3o8o)** &nbsp;·&nbsp; <sub>`Sep 28, 2026`</sub>
 - 🔹 **[Scoring Big: World Cup 2026 Predictions & Insights](https://dev.to/mabualzait/scoring-big-world-cup-2026-predictions-insights-32cp)** &nbsp;·&nbsp; <sub>`Sep 27, 2026`</sub>
 - 🔹 **[Firing Up AI with Edge Computing](https://dev.to/mabualzait/firing-up-ai-with-edge-computing-5473)** &nbsp;·&nbsp; <sub>`Sep 27, 2026`</sub>
-- 🔹 **[Meet Annika Blake-Howland, Your New Go-To for Code and Creativity at Wellsvil...](https://dev.to/mabualzait/meet-annika-blake-howland-your-new-go-to-for-code-and-creativity-at-wellsvil-2pi4)** &nbsp;·&nbsp; <sub>`Sep 27, 2026`</sub>
 <!-- DEVTO-POST-LIST:END -->
 
 #### 🚀 Future Forem Articles
