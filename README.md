@@ -105,10 +105,10 @@ flowchart LR
 
 #### 🚀 Future Forem Articles
 <!-- FUTURE-POST-LIST:START -->
+- 🚀 **[Ensure Seamless Google Play Deployment with Our Compliance-Optimized Solution](https://dev.to/mabualzait/ensure-seamless-google-play-deployment-with-our-compliance-optimized-solution-3jif)** &nbsp;·&nbsp; <sub>`Oct 15, 2026`</sub>
+- 🚀 **[Nvidia CEO Issues Warning: Can AI be Secured or is it a 'Doomed' Tech?](https://dev.to/mabualzait/nvidia-ceo-issues-warning-can-ai-be-secured-or-is-it-a-doomed-tech-30ma)** &nbsp;·&nbsp; <sub>`Oct 15, 2026`</sub>
 - 🚀 **[Kicking Off: World Cup 2026 Predictions & Analysis](https://dev.to/mabualzait/kicking-off-world-cup-2026-predictions-analysis-3c3a)** &nbsp;·&nbsp; <sub>`Sep 29, 2026`</sub>
 - 🚀 **[Cracking the Code: Group Stage Strategies for World Cup 2026](https://dev.to/mabualzait/cracking-the-code-group-stage-strategies-for-world-cup-2026-3o8o)** &nbsp;·&nbsp; <sub>`Sep 28, 2026`</sub>
-- 🚀 **[Scoring Big: World Cup 2026 Predictions & Insights](https://dev.to/mabualzait/scoring-big-world-cup-2026-predictions-insights-32cp)** &nbsp;·&nbsp; <sub>`Sep 27, 2026`</sub>
-- 🚀 **[Firing Up AI with Edge Computing](https://dev.to/mabualzait/firing-up-ai-with-edge-computing-5473)** &nbsp;·&nbsp; <sub>`Sep 27, 2026`</sub>
 <!-- FUTURE-POST-LIST:END -->
 
 <br>
