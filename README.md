@@ -97,10 +97,10 @@ flowchart LR
 
 #### 💻 Dev.to Articles
 <!-- DEVTO-POST-LIST:START -->
+- 🔹 **[Electrifying AI: Harnessing Sparks of Innovation](https://dev.to/mabualzait/electrifying-ai-harnessing-sparks-of-innovation-3mo4)** &nbsp;·&nbsp; <sub>`Oct 18, 2026`</sub>
+- 🔹 **[AI's Dark Side: Trump Task Force Convenes on Tech's Unseen Dangers](https://dev.to/mabualzait/ais-dark-side-trump-task-force-convenes-on-techs-unseen-dangers-3mff)** &nbsp;·&nbsp; <sub>`Oct 18, 2026`</sub>
 - 🔹 **[Ensure Seamless Google Play Deployment with Our Compliance-Optimized Solution](https://dev.to/mabualzait/ensure-seamless-google-play-deployment-with-our-compliance-optimized-solution-3jif)** &nbsp;·&nbsp; <sub>`Oct 15, 2026`</sub>
 - 🔹 **[Nvidia CEO Issues Warning: Can AI be Secured or is it a 'Doomed' Tech?](https://dev.to/mabualzait/nvidia-ceo-issues-warning-can-ai-be-secured-or-is-it-a-doomed-tech-30ma)** &nbsp;·&nbsp; <sub>`Oct 15, 2026`</sub>
-- 🔹 **[Kicking Off: World Cup 2026 Predictions & Analysis](https://dev.to/mabualzait/kicking-off-world-cup-2026-predictions-analysis-3c3a)** &nbsp;·&nbsp; <sub>`Sep 29, 2026`</sub>
-- 🔹 **[Cracking the Code: Group Stage Strategies for World Cup 2026](https://dev.to/mabualzait/cracking-the-code-group-stage-strategies-for-world-cup-2026-3o8o)** &nbsp;·&nbsp; <sub>`Sep 28, 2026`</sub>
 <!-- DEVTO-POST-LIST:END -->
 
 #### 🚀 Future Forem Articles
