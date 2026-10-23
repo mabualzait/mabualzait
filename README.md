@@ -97,10 +97,10 @@ flowchart LR
 
 #### 💻 Dev.to Articles
 <!-- DEVTO-POST-LIST:START -->
+- 🔹 **[Compliant by Design: Google Play Store Ready for Your App](https://dev.to/mabualzait/compliant-by-design-google-play-store-ready-for-your-app-233j)** &nbsp;·&nbsp; <sub>`Oct 22, 2026`</sub>
+- 🔹 **[PHP Security Flaws Exposed: What Developers Need to Know Now](https://dev.to/mabualzait/php-security-flaws-exposed-what-developers-need-to-know-now-3gbl)** &nbsp;·&nbsp; <sub>`Oct 22, 2026`</sub>
 - 🔹 **[Electrifying AI: Harnessing Sparks of Innovation](https://dev.to/mabualzait/electrifying-ai-harnessing-sparks-of-innovation-3mo4)** &nbsp;·&nbsp; <sub>`Oct 18, 2026`</sub>
 - 🔹 **[AI's Dark Side: Trump Task Force Convenes on Tech's Unseen Dangers](https://dev.to/mabualzait/ais-dark-side-trump-task-force-convenes-on-techs-unseen-dangers-3mff)** &nbsp;·&nbsp; <sub>`Oct 18, 2026`</sub>
-- 🔹 **[Ensure Seamless Google Play Deployment with Our Compliance-Optimized Solution](https://dev.to/mabualzait/ensure-seamless-google-play-deployment-with-our-compliance-optimized-solution-3jif)** &nbsp;·&nbsp; <sub>`Oct 15, 2026`</sub>
-- 🔹 **[Nvidia CEO Issues Warning: Can AI be Secured or is it a 'Doomed' Tech?](https://dev.to/mabualzait/nvidia-ceo-issues-warning-can-ai-be-secured-or-is-it-a-doomed-tech-30ma)** &nbsp;·&nbsp; <sub>`Oct 15, 2026`</sub>
 <!-- DEVTO-POST-LIST:END -->
 
 #### 🚀 Future Forem Articles
