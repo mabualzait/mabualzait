@@ -97,10 +97,10 @@ flowchart LR
 
 #### 💻 Dev.to Articles
 <!-- DEVTO-POST-LIST:START -->
+- 🔹 **[Ensure Seamless Google Play Store Deployment with Our Compliance-Ready SDK](https://dev.to/mabualzait/ensure-seamless-google-play-store-deployment-with-our-compliance-ready-sdk-1oal)** &nbsp;·&nbsp; <sub>`Oct 29, 2026`</sub>
+- 🔹 **[News Broadcasts Get a Code Red: Schedule Shifts Tonight](https://dev.to/mabualzait/news-broadcasts-get-a-code-red-schedule-shifts-tonight-459i)** &nbsp;·&nbsp; <sub>`Oct 29, 2026`</sub>
 - 🔹 **[Demystifying AI with Spark-Based Architectures](https://dev.to/mabualzait/demystifying-ai-with-spark-based-architectures-40ea)** &nbsp;·&nbsp; <sub>`Oct 25, 2026`</sub>
 - 🔹 **[Revamped Riverwalk Plaza Takes Center Stage in Mobile's Waterfront Revitaliza...](https://dev.to/mabualzait/revamped-riverwalk-plaza-takes-center-stage-in-mobiles-waterfront-revitaliza-af3)** &nbsp;·&nbsp; <sub>`Oct 25, 2026`</sub>
-- 🔹 **[Compliant by Design: Google Play Store Ready for Your App](https://dev.to/mabualzait/compliant-by-design-google-play-store-ready-for-your-app-233j)** &nbsp;·&nbsp; <sub>`Oct 22, 2026`</sub>
-- 🔹 **[PHP Security Flaws Exposed: What Developers Need to Know Now](https://dev.to/mabualzait/php-security-flaws-exposed-what-developers-need-to-know-now-3gbl)** &nbsp;·&nbsp; <sub>`Oct 22, 2026`</sub>
 <!-- DEVTO-POST-LIST:END -->
 
 #### 🚀 Future Forem Articles
