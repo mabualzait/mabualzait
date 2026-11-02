@@ -97,10 +97,10 @@ flowchart LR
 
 #### 💻 Dev.to Articles
 <!-- DEVTO-POST-LIST:START -->
+- 🔹 **[Cracking the Code: Unlocking AI's Spark within Your Applications](https://dev.to/mabualzait/cracking-the-code-unlocking-ais-spark-within-your-applications-lbo)** &nbsp;·&nbsp; <sub>`Nov 01, 2026`</sub>
+- 🔹 **[GitHub Takes AI Coding to Next Level with Copilot Revamp](https://dev.to/mabualzait/github-takes-ai-coding-to-next-level-with-copilot-revamp-1n0o)** &nbsp;·&nbsp; <sub>`Nov 01, 2026`</sub>
 - 🔹 **[Ensure Seamless Google Play Store Deployment with Our Compliance-Ready SDK](https://dev.to/mabualzait/ensure-seamless-google-play-store-deployment-with-our-compliance-ready-sdk-1oal)** &nbsp;·&nbsp; <sub>`Oct 29, 2026`</sub>
 - 🔹 **[News Broadcasts Get a Code Red: Schedule Shifts Tonight](https://dev.to/mabualzait/news-broadcasts-get-a-code-red-schedule-shifts-tonight-459i)** &nbsp;·&nbsp; <sub>`Oct 29, 2026`</sub>
-- 🔹 **[Demystifying AI with Spark-Based Architectures](https://dev.to/mabualzait/demystifying-ai-with-spark-based-architectures-40ea)** &nbsp;·&nbsp; <sub>`Oct 25, 2026`</sub>
-- 🔹 **[Revamped Riverwalk Plaza Takes Center Stage in Mobile's Waterfront Revitaliza...](https://dev.to/mabualzait/revamped-riverwalk-plaza-takes-center-stage-in-mobiles-waterfront-revitaliza-af3)** &nbsp;·&nbsp; <sub>`Oct 25, 2026`</sub>
 <!-- DEVTO-POST-LIST:END -->
 
 #### 🚀 Future Forem Articles
