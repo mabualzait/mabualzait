@@ -105,7 +105,10 @@ flowchart LR
 
 #### 🚀 Future Forem Articles
 <!-- FUTURE-POST-LIST:START -->
-_No recent Future Forem articles found — check back soon!_
+- 🚀 **[Google Play Certification Made Easy with Our Compliant SDK](https://dev.to/mabualzait/google-play-certification-made-easy-with-our-compliant-sdk-34hp)** &nbsp;·&nbsp; <sub>`Nov 05, 2026`</sub>
+- 🚀 **[Global Dev Teams Get Boost: Resoltives Expands Engineering Suite](https://dev.to/mabualzait/global-dev-teams-get-boost-resoltives-expands-engineering-suite-3ek3)** &nbsp;·&nbsp; <sub>`Nov 05, 2026`</sub>
+- 🚀 **[Cracking the Code: Unlocking AI's Spark within Your Applications](https://dev.to/mabualzait/cracking-the-code-unlocking-ais-spark-within-your-applications-lbo)** &nbsp;·&nbsp; <sub>`Nov 01, 2026`</sub>
+- 🚀 **[GitHub Takes AI Coding to Next Level with Copilot Revamp](https://dev.to/mabualzait/github-takes-ai-coding-to-next-level-with-copilot-revamp-1n0o)** &nbsp;·&nbsp; <sub>`Nov 01, 2026`</sub>
 <!-- FUTURE-POST-LIST:END -->
 
 <br>
